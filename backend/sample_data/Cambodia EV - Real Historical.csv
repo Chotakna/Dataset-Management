@@ -1,0 +1,1183 @@
+Brand,Model Name,Year,Price (USD),Mileage (km),Condition,City,Color,Battery (kWh),Range (km),Power (kW),0-100 km/h (s),Charging Type,Seller Type,Date Listed,Month,Sales Volume,Source,Data Type
+BYD,BYD Atto 3,2022,34500,43953,Excellent,Phnom Penh,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,08-03-2022,3,12,carmatekh.com,Historical
+BYD,BYD Atto 3,2022,33800,42372,Excellent,Battambang,Green,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,03-06-2022,6,45,libertycarz.com,Historical
+BYD,BYD Atto 3,2022,33200,33528,Excellent,Phnom Penh,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,17-09-2022,9,78,dgmotorscar.com,Historical
+BYD,BYD Atto 3,2022,32800,24390,Excellent,Battambang,Grey,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,14-12-2022,12,95,mykhmercar.com,Historical
+BYD,BYD Atto 3,2023,32000,29841,Excellent,Sihanoukville,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,26-01-2023,1,110,carmatekh.com,Historical
+BYD,BYD Atto 3,2023,31500,30082,Excellent,Phnom Penh,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,25-04-2023,4,155,bydkh.com,Historical
+BYD,BYD Atto 3,2023,31200,19596,Like New,Phnom Penh,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,12-07-2023,7,205,dgmotorscar.com,Historical
+BYD,BYD Atto 3,2023,30800,18700,Like New,Kampong Cham,Silver,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,13-10-2023,10,245,libertycarz.com,Historical
+BYD,BYD Atto 3,2024,30600,17312,Like New,Sihanoukville,Grey,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,28-02-2024,2,261,carmatekh.com,Historical
+BYD,BYD Atto 3,2024,30400,14235,New,Battambang,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,08-05-2024,5,290,bydkh.com,Historical
+BYD,BYD Atto 3,2024,30200,8400,New,Kampot,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,15-08-2024,8,310,dgmotorscar.com,Historical
+BYD,BYD Atto 3,2024,30100,6902,New,Phnom Penh,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,09-11-2024,11,335,mykhmercar.com,Historical
+BYD,BYD Atto 3,2025,26800,5745,New,Siem Reap,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,24-01-2025,1,350,bydkh.com,Historical
+BYD,BYD Atto 3,2025,27200,1766,New,Phnom Penh,Orange,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,21-04-2025,4,380,carmatekh.com,Historical
+BYD,BYD Atto 3,2025,27500,0,New,Battambang,Red,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,25-07-2025,7,425,dgmotorscar.com,Historical
+BYD,BYD Dolphin,2022,29500,36680,Excellent,Sihanoukville,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,03-02-2022,2,8,dgmotorscar.com,Historical
+BYD,BYD Dolphin,2022,28800,40330,Good,Phnom Penh,Silver,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,21-05-2022,5,25,carmatekh.com,Historical
+BYD,BYD Dolphin,2022,28300,29682,Good,Phnom Penh,Blue,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,18-08-2022,8,85,libertycarz.com,Historical
+BYD,BYD Dolphin,2022,27900,36642,Good,Koh Kong,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,08-11-2022,11,180,mykhmercar.com,Historical
+BYD,BYD Dolphin,2023,27600,30740,Excellent,Phnom Penh,White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,04-01-2023,1,95,bydkh.com,Historical
+BYD,BYD Dolphin,2023,26800,29146,Like New,Sihanoukville,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,03-04-2023,4,126,carmatekh.com,Historical
+BYD,BYD Dolphin,2023,26200,22885,Excellent,Phnom Penh,Cosmos Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,28-07-2023,7,195,dgmotorscar.com,Historical
+BYD,BYD Dolphin,2023,25900,22960,Like New,Battambang,Silver,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Private,09-10-2023,10,285,libertycarz.com,Historical
+BYD,BYD Dolphin,2024,25500,16558,New,Phnom Penh,White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Private,01-01-2024,1,310,carmatekh.com,Historical
+BYD,BYD Dolphin,2024,25000,16352,Like New,Kratie,Blue,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,17-04-2024,4,350,bydkh.com,Historical
+BYD,BYD Dolphin,2024,24800,12320,Like New,Sihanoukville,Silver,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,07-07-2024,7,395,dgmotorscar.com,Historical
+BYD,BYD Dolphin,2024,24400,7928,New,Phnom Penh,Blue,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,17-10-2024,10,433,mykhmercar.com,Historical
+BYD,BYD Dolphin,2025,24800,4424,New,Phnom Penh,White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,12-02-2025,2,339,bydkh.com,Historical
+BYD,BYD Dolphin,2025,24500,922,New,Phnom Penh,Silver,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,03-05-2025,5,365,carmatekh.com,Historical
+BYD,BYD Dolphin,2025,24200,0,New,Sihanoukville,Cosmos Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,18-08-2025,8,410,dgmotorscar.com,Historical
+BYD,BYD Seagull,2023,22800,23355,Excellent,Preah Vihear,White,30/38.88,190-305,55,,GB-T/CCS2,Private,17-03-2023,3,15,carmatekh.com,Historical
+BYD,BYD Seagull,2023,21500,24384,Like New,Kep,Blue,30/38.88,190-305,55,,GB-T/CCS2,Dealer,23-06-2023,6,34,dgmotorscar.com,Historical
+BYD,BYD Seagull,2023,20800,24465,Excellent,Phnom Penh,Grey,30/38.88,190-305,55,,GB-T/CCS2,Authorized Dealer,12-09-2023,9,85,libertycarz.com,Historical
+BYD,BYD Seagull,2023,20200,19152,Excellent,Phnom Penh,White,30/38.88,190-305,55,,GB-T/CCS2,Dealer,11-12-2023,12,145,bydkh.com,Historical
+BYD,BYD Seagull,2024,20100,17616,New,Siem Reap,White,30/38.88,190-305,55,,GB-T/CCS2,Private,23-02-2024,2,250,carmatekh.com,Historical
+BYD,BYD Seagull,2024,19800,10790,New,Phnom Penh,White,30/38.88,190-305,55,,GB-T/CCS2,Dealer,11-05-2024,5,320,dgmotorscar.com,Historical
+BYD,BYD Seagull,2024,19500,10630,New,Phnom Penh,Silver,30/38.88,190-305,55,,GB-T/CCS2,Dealer,18-08-2024,8,400,libertycarz.com,Historical
+BYD,BYD Seagull,2024,19300,8190,Like New,Phnom Penh,Silver,30/38.88,190-305,55,,GB-T/CCS2,Dealer,14-11-2024,11,464,mykhmercar.com,Historical
+BYD,BYD Seagull,2025,17999,4240,New,Battambang,Black,30/38.88,190-305,55,,GB-T/CCS2,Authorized Dealer,14-01-2025,1,380,bydkh.com,Historical
+BYD,BYD Seagull,2025,18500,2346,New,Battambang,Orange,30/38.88,190-305,55,,GB-T/CCS2,Dealer,04-04-2025,4,420,carmatekh.com,Historical
+BYD,BYD Seagull,2025,18800,0,New,Kampong Cham,Red,30/38.88,190-305,55,,GB-T/CCS2,Dealer,04-07-2025,7,450,dgmotorscar.com,Historical
+BYD,BYD Han,2020,78000,52982,Good,Phnom Penh,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,06-07-2020,7,10,dgmotorscar.com,Historical
+BYD,BYD Han,2020,77100,55944,Good,Kampot,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,26-12-2020,12,25,carmatekh.com,Historical
+BYD,BYD Han,2021,74500,43350,Good,Battambang,Silver,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,01-03-2021,3,42,carmatekh.com,Historical
+BYD,BYD Han,2021,72800,56880,Good,Phnom Penh,Silver,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,07-06-2021,6,85,dgmotorscar.com,Historical
+BYD,BYD Han,2021,71500,37350,Good,Phnom Penh,Orange,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,09-09-2021,9,165,libertycarz.com,Historical
+BYD,BYD Han,2021,71000,39732,Fair,Battambang,Blue,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,26-12-2021,12,277,mykhmercar.com,Historical
+BYD,BYD Han,2022,68500,45520,Good,Phnom Penh,Black,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,02-02-2022,2,38,carmatekh.com,Historical
+BYD,BYD Han,2022,66800,43512,Excellent,Kampong Cham,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,19-05-2022,5,78,bydkh.com,Historical
+BYD,BYD Han,2022,65500,35938,Excellent,Phnom Penh,Silver,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,28-08-2022,8,128,dgmotorscar.com,Historical
+BYD,BYD Han,2022,65100,25885,Excellent,Battambang,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,04-11-2022,11,138,libertycarz.com,Historical
+BYD,BYD Han,2023,64500,26854,Like New,Siem Reap,Black,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,19-01-2023,1,155,carmatekh.com,Historical
+BYD,BYD Han,2023,64000,26675,Excellent,Kep,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,23-05-2023,5,250,dgmotorscar.com,Historical
+BYD,BYD Han,2023,63700,19362,Excellent,Phnom Penh,Grey,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,10-09-2023,9,408,libertycarz.com,Historical
+BYD,BYD Han,2024,61200,15376,New,Phnom Penh,Grey,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,19-02-2024,2,120,carmatekh.com,Historical
+BYD,BYD Han,2024,60800,10881,New,Phnom Penh,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,12-05-2024,5,187,bydkh.com,Historical
+BYD,BYD Han,2024,59800,8325,Like New,Phnom Penh,Black,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,18-09-2024,9,265,dgmotorscar.com,Historical
+BYD,BYD Han,2025,45900,4770,New,Battambang,Silver,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,22-01-2025,1,180,bydkh.com,Historical
+BYD,BYD Han,2025,48500,868,New,Phnom Penh,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,18-05-2025,5,220,carmatekh.com,Historical
+BYD,BYD Han,2025,50200,0,New,Phnom Penh,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,11-08-2025,8,263,dgmotorscar.com,Historical
+BYD,BYD Tang,2020,79000,72513,Fair,Phnom Penh,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,28-03-2020,3,8,dgmotorscar.com,Historical
+BYD,BYD Tang,2020,77500,50820,Fair,Sihanoukville,White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,11-06-2020,6,25,carmatekh.com,Historical
+BYD,BYD Tang,2020,76300,63056,Fair,Phnom Penh,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,23-10-2020,10,120,libertycarz.com,Historical
+BYD,BYD Tang,2021,74000,56524,Good,Phnom Penh,Pearl White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,23-02-2021,2,55,carmatekh.com,Historical
+BYD,BYD Tang,2021,72200,52871,Good,Sihanoukville,Silver,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,05-05-2021,5,145,dgmotorscar.com,Historical
+BYD,BYD Tang,2021,71000,39790,Good,Phnom Penh,Green,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,26-08-2021,8,280,libertycarz.com,Historical
+BYD,BYD Tang,2021,70600,42269,Good,Battambang,Grey,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,12-11-2021,11,415,mykhmercar.com,Historical
+BYD,BYD Tang,2022,69500,41328,Excellent,Kep,White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,06-01-2022,1,85,carmatekh.com,Historical
+BYD,BYD Tang,2022,68500,38418,Excellent,Phnom Penh,Pearl White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,26-04-2022,4,175,bydkh.com,Historical
+BYD,BYD Tang,2022,67800,39970,Excellent,Phnom Penh,Blue,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,04-07-2022,7,333,dgmotorscar.com,Historical
+BYD,BYD Tang,2022,67500,26208,Good,Phnom Penh,Red,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,15-10-2022,10,380,libertycarz.com,Historical
+BYD,BYD Tang,2023,69100,26768,Like New,Phnom Penh,Grey,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,13-02-2023,2,100,carmatekh.com,Historical
+BYD,BYD Tang,2023,68800,23550,Like New,Preah Vihear,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,21-05-2023,5,195,dgmotorscar.com,Historical
+BYD,BYD Tang,2023,69000,22088,Excellent,Kep,White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,09-08-2023,8,211,libertycarz.com,Historical
+BYD,BYD Tang,2024,65200,18649,Like New,Phnom Penh,Silver,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,12-01-2024,1,140,carmatekh.com,Historical
+BYD,BYD Tang,2024,63800,12480,Like New,Siem Reap,Silver,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,13-05-2024,5,280,bydkh.com,Historical
+BYD,BYD Tang,2024,62400,8073,Like New,Phnom Penh,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,17-09-2024,9,355,dgmotorscar.com,Historical
+BYD,BYD Tang,2025,63800,5755,New,Phnom Penh,White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,22-01-2025,1,120,carmatekh.com,Historical
+BYD,BYD Tang,2025,63500,2238,New,Battambang,White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,10-04-2025,4,164,libertycarz.com,Historical
+BYD,BYD Tang,2025,63200,0,New,Battambang,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,23-07-2025,7,200,dgmotorscar.com,Historical
+BYD,BYD Seal,2022,42000,38988,Excellent,Phnom Penh,Grey,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,13-06-2022,6,45,dgmotorscar.com,Historical
+BYD,BYD Seal,2022,40200,39039,Excellent,Siem Reap,Black,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Dealer,18-09-2022,9,155,carmatekh.com,Historical
+BYD,BYD Seal,2022,38800,28650,Good,Phnom Penh,Blue,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,20-12-2022,12,302,libertycarz.com,Historical
+BYD,BYD Seal,2023,38500,26992,Excellent,Phnom Penh,Grey,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Authorized Dealer,17-02-2023,2,120,carmatekh.com,Historical
+BYD,BYD Seal,2023,38000,29400,Like New,Battambang,Black,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,22-05-2023,5,195,bydkh.com,Historical
+BYD,BYD Seal,2023,37800,24574,Excellent,Phnom Penh,Cosmos Black,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,08-08-2023,8,265,dgmotorscar.com,Historical
+BYD,BYD Seal,2023,37500,18202,Like New,Sihanoukville,White,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Dealer,02-11-2023,11,292,libertycarz.com,Historical
+BYD,BYD Seal,2024,37200,17731,New,Phnom Penh,Green,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Dealer,19-01-2024,1,310,carmatekh.com,Historical
+BYD,BYD Seal,2024,36800,16338,Like New,Phnom Penh,White,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,21-04-2024,4,380,dgmotorscar.com,Historical
+BYD,BYD Seal,2024,36500,8020,New,Sihanoukville,White,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,26-08-2024,8,445,libertycarz.com,Historical
+BYD,BYD Seal,2024,36200,7455,Like New,Phnom Penh,White,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Dealer,28-11-2024,11,489,mykhmercar.com,Historical
+BYD,BYD Seal,2025,35000,4132,New,Sihanoukville,Grey,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,18-02-2025,2,62,bydkh.com,Historical
+BYD,BYD Seal,2025,35200,962,New,Siem Reap,Grey,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Authorized Dealer,17-05-2025,5,120,carmatekh.com,Historical
+BYD,BYD Seal,2025,35500,0,New,Koh Kong,Blue,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Authorized Dealer,16-09-2025,9,185,dgmotorscar.com,Historical
+BYD,BYD Sealion 6,2023,49500,25164,Like New,Sihanoukville,Black,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Private,25-03-2023,3,28,carmatekh.com,Historical
+BYD,BYD Sealion 6,2023,48000,25152,Like New,Phnom Penh,White,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,10-06-2023,6,85,dgmotorscar.com,Historical
+BYD,BYD Sealion 6,2023,47200,19719,Excellent,Phnom Penh,Silver,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,05-09-2023,9,145,libertycarz.com,Historical
+BYD,BYD Sealion 6,2023,46500,16524,Excellent,Battambang,Grey,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,03-12-2023,12,164,bydkh.com,Historical
+BYD,BYD Sealion 6,2024,45800,16128,Like New,Phnom Penh,Black,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,07-02-2024,2,110,carmatekh.com,Historical
+BYD,BYD Sealion 6,2024,45200,12987,New,Kampot,Blue,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,13-05-2024,5,155,dgmotorscar.com,Historical
+BYD,BYD Sealion 6,2024,44800,8030,Like New,Phnom Penh,Black,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,27-08-2024,8,176,libertycarz.com,Historical
+BYD,BYD Sealion 6,2024,44400,7525,New,Phnom Penh,Black,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,16-11-2024,11,210,mykhmercar.com,Historical
+BYD,BYD Sealion 6,2025,41900,4995,New,Battambang,Blue,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,24-01-2025,1,185,bydkh.com,Historical
+BYD,BYD Sealion 6,2025,42800,1039,New,Kratie,Silver,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Private,13-05-2025,5,245,carmatekh.com,Historical
+BYD,BYD Sealion 6,2025,43500,0,New,Phnom Penh,Black,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,28-09-2025,9,287,dgmotorscar.com,Historical
+BYD,BYD Atto 2,2024,24500,13395,New,Phnom Penh,Black,45.1,312-401,130,7.9,GB-T/CCS2,Authorized Dealer,15-03-2024,3,35,carmatekh.com,Historical
+BYD,BYD Atto 2,2024,24000,11664,Like New,Phnom Penh,Cosmos Black,45.1,312-401,130,7.9,GB-T/CCS2,Authorized Dealer,14-06-2024,6,95,dgmotorscar.com,Historical
+BYD,BYD Atto 2,2024,23500,7569,Like New,Phnom Penh,Silver,45.1,312-401,130,7.9,GB-T/CCS2,Dealer,12-09-2024,9,185,libertycarz.com,Historical
+BYD,BYD Atto 2,2024,23200,6792,New,Sihanoukville,Grey,45.1,312-401,130,7.9,GB-T/CCS2,Dealer,25-12-2024,12,245,mykhmercar.com,Historical
+BYD,BYD Atto 2,2025,22300,3704,New,Sihanoukville,Grey,45.1,312-401,130,7.9,GB-T/CCS2,Dealer,08-02-2025,2,275,bydkh.com,Historical
+BYD,BYD Atto 2,2025,22800,1042,New,Siem Reap,White,45.1,312-401,130,7.9,GB-T/CCS2,Authorized Dealer,23-05-2025,5,320,carmatekh.com,Historical
+BYD,BYD Atto 2,2025,23000,0,New,Phnom Penh,Grey,45.1,312-401,130,7.9,GB-T/CCS2,Private,24-08-2025,8,365,dgmotorscar.com,Historical
+BYD,BYD Seal 5,2024,22500,11154,New,Preah Vihear,White,15.8,80 PHEV,110,7.9,GB-T/CCS2,Authorized Dealer,01-05-2024,5,45,carmatekh.com,Historical
+BYD,BYD Seal 5,2024,21800,10940,Like New,Phnom Penh,Grey,15.8,80 PHEV,110,7.9,GB-T/CCS2,Private,03-08-2024,8,110,dgmotorscar.com,Historical
+BYD,BYD Seal 5,2024,21200,8071,New,Phnom Penh,Blue,15.8,80 PHEV,110,7.9,GB-T/CCS2,Private,28-11-2024,11,195,libertycarz.com,Historical
+BYD,BYD Seal 5,2025,19900,5535,New,Sihanoukville,Silver,15.8,80 PHEV,110,7.9,GB-T/CCS2,Authorized Dealer,02-01-2025,1,225,bydkh.com,Historical
+BYD,BYD Seal 5,2025,20500,2144,New,Battambang,White,15.8,80 PHEV,110,7.9,GB-T/CCS2,Authorized Dealer,21-04-2025,4,285,carmatekh.com,Historical
+BYD,BYD Seal 5,2025,20800,0,New,Sihanoukville,Red,15.8,80 PHEV,110,7.9,GB-T/CCS2,Authorized Dealer,04-07-2025,7,340,dgmotorscar.com,Historical
+BYD,BYD Sealion 7,2024,42500,11820,Like New,Battambang,Black,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Private,24-06-2024,6,30,carmatekh.com,Historical
+BYD,BYD Sealion 7,2024,41800,10197,Like New,Siem Reap,Green,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Authorized Dealer,25-09-2024,9,55,dgmotorscar.com,Historical
+BYD,BYD Sealion 7,2024,41200,6228,Like New,Sihanoukville,Silver,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Dealer,11-12-2024,12,85,libertycarz.com,Historical
+BYD,BYD Sealion 7,2025,38800,3376,New,Kampot,White,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Private,15-02-2025,2,110,bydkh.com,Historical
+BYD,BYD Sealion 7,2025,39500,1112,New,Phnom Penh,Silver,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Dealer,11-05-2025,5,145,carmatekh.com,Historical
+BYD,BYD Sealion 7,2025,40200,0,New,Phnom Penh,Blue,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Authorized Dealer,11-08-2025,8,185,dgmotorscar.com,Historical
+BYD,BYD Sealion 5,2025,25800,5525,New,Siem Reap,Silver,60/72.8,410-520,150,7.5,GB-T/CCS2,Dealer,07-01-2025,1,95,bydkh.com,Historical
+BYD,BYD Sealion 5,2025,26200,1846,New,Phnom Penh,Blue,60/72.8,410-520,150,7.5,GB-T/CCS2,Authorized Dealer,23-04-2025,4,130,carmatekh.com,Historical
+BYD,BYD Sealion 5,2025,26500,0,New,Phnom Penh,White,60/72.8,410-520,150,7.5,GB-T/CCS2,Dealer,10-07-2025,7,165,dgmotorscar.com,Historical
+BYD,BYD M9,2025,58800,5035,New,Phnom Penh,Silver,52,180 PHEV,180,,GB-T/CCS2,Private,16-01-2025,1,25,bydkh.com,Historical
+BYD,BYD M9,2025,59500,2142,New,Phnom Penh,Blue,52,180 PHEV,180,,GB-T/CCS2,Authorized Dealer,11-04-2025,4,45,carmatekh.com,Historical
+BYD,BYD M9,2025,60200,0,New,Phnom Penh,Black,52,180 PHEV,180,,GB-T/CCS2,Private,04-07-2025,7,65,dgmotorscar.com,Historical
+MG,MG ZS EV,2020,36500,55676,Fair,Phnom Penh,Silver,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,25-04-2020,4,15,dgmotorscar.com,Historical
+MG,MG ZS EV,2020,35800,51852,Good,Phnom Penh,Silver,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,24-08-2020,8,85,carmatekh.com,Historical
+MG,MG ZS EV,2020,35100,64206,Fair,Kratie,Red,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,10-12-2020,12,475,libertycarz.com,Historical
+MG,MG ZS EV,2021,34200,51168,Good,Phnom Penh,Grey,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,05-02-2021,2,65,carmatekh.com,Historical
+MG,MG ZS EV,2021,33800,40327,Good,Siem Reap,Grey,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,05-05-2021,5,155,dgmotorscar.com,Historical
+MG,MG ZS EV,2021,33400,54510,Fair,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,10-08-2021,8,245,libertycarz.com,Historical
+MG,MG ZS EV,2021,33000,44935,Fair,Phnom Penh,Cosmos Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,09-11-2021,11,303,mykhmercar.com,Historical
+MG,MG ZS EV,2022,31500,35178,Excellent,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,21-01-2022,1,37,carmatekh.com,Historical
+MG,MG ZS EV,2022,30800,31426,Excellent,Phnom Penh,Silver,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,10-04-2022,4,95,bydkh.com,Historical
+MG,MG ZS EV,2022,30200,32445,Excellent,Siem Reap,Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,20-07-2022,7,165,dgmotorscar.com,Historical
+MG,MG ZS EV,2022,29900,29280,Good,Phnom Penh,Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,28-10-2022,10,210,libertycarz.com,Historical
+MG,MG ZS EV,2023,30200,29551,Excellent,Siem Reap,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,24-01-2023,1,94,carmatekh.com,Historical
+MG,MG ZS EV,2023,29800,29750,Like New,Siem Reap,Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,03-05-2023,5,145,dgmotorscar.com,Historical
+MG,MG ZS EV,2023,29500,19362,Like New,Siem Reap,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,14-09-2023,9,185,libertycarz.com,Historical
+MG,MG ZS EV,2024,28800,18432,Like New,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,23-02-2024,2,125,carmatekh.com,Historical
+MG,MG ZS EV,2024,28400,13908,Like New,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,09-06-2024,6,185,bydkh.com,Historical
+MG,MG ZS EV,2024,28100,8808,New,Phnom Penh,Silver,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,21-10-2024,10,207,dgmotorscar.com,Historical
+MG,MG ZS EV,2025,26888,4680,New,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,10-01-2025,1,225,carmatekh.com,Historical
+MG,MG ZS EV,2025,27200,1183,New,Phnom Penh,Silver,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,10-05-2025,5,295,libertycarz.com,Historical
+MG,MG ZS EV,2025,27500,0,New,Preah Vihear,Silver,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,16-09-2025,9,350,dgmotorscar.com,Historical
+MG,MG 4 EV,2021,30200,41209,Good,Kampot,Blue,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,20-05-2021,5,35,dgmotorscar.com,Historical
+MG,MG 4 EV,2021,29500,37398,Good,Phnom Penh,Grey,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,28-08-2021,8,120,carmatekh.com,Historical
+MG,MG 4 EV,2021,28700,47300,Good,Kratie,Grey,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,09-11-2021,11,264,libertycarz.com,Historical
+MG,MG 4 EV,2022,28800,32800,Excellent,Phnom Penh,Grey,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,09-02-2022,2,55,carmatekh.com,Historical
+MG,MG 4 EV,2022,28500,40663,Good,Siem Reap,Silver,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,03-05-2022,5,120,bydkh.com,Historical
+MG,MG 4 EV,2022,28300,33252,Good,Phnom Penh,Grey,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,28-08-2022,8,185,dgmotorscar.com,Historical
+MG,MG 4 EV,2022,28000,30008,Good,Battambang,Black,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,13-11-2022,11,216,libertycarz.com,Historical
+MG,MG 4 EV,2023,27500,23722,Excellent,Phnom Penh,Black,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,04-01-2023,1,125,carmatekh.com,Historical
+MG,MG 4 EV,2023,27200,27638,Like New,Battambang,Silver,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,14-04-2023,4,195,dgmotorscar.com,Historical
+MG,MG 4 EV,2023,26900,20608,Excellent,Siem Reap,Silver,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,15-07-2023,7,235,libertycarz.com,Historical
+MG,MG 4 EV,2023,26800,18080,Excellent,Phnom Penh,Pearl White,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,15-10-2023,10,254,mykhmercar.com,Historical
+MG,MG 4 EV,2024,25800,17816,New,Phnom Penh,Grey,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,26-01-2024,1,285,carmatekh.com,Historical
+MG,MG 4 EV,2024,25200,16282,New,Phnom Penh,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,14-04-2024,4,350,bydkh.com,Historical
+MG,MG 4 EV,2024,24800,10065,New,Phnom Penh,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,27-07-2024,7,420,dgmotorscar.com,Historical
+MG,MG 4 EV,2024,24500,8440,Like New,Phnom Penh,Black,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,27-10-2024,10,450,libertycarz.com,Historical
+MG,MG 4 EV,2025,25000,4164,New,Phnom Penh,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,07-02-2025,2,39,carmatekh.com,Historical
+MG,MG 4 EV,2025,24800,1060,New,Kampot,Black,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,26-05-2025,5,95,libertycarz.com,Historical
+MG,MG 4 EV,2025,24600,0,New,Kep,Silver,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,27-08-2025,8,145,dgmotorscar.com,Historical
+MG,MG 5,2020,26800,59472,Fair,Sihanoukville,Silver,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,22-03-2020,3,18,dgmotorscar.com,Historical
+MG,MG 5,2020,26000,52560,Fair,Phnom Penh,Black,61.1,403,130,7.7,GB-T/CCS2,Private,18-06-2020,6,65,carmatekh.com,Historical
+MG,MG 5,2020,25400,56601,Fair,Kep,Red,61.1,403,130,7.7,GB-T/CCS2,Dealer,23-09-2020,9,127,libertycarz.com,Historical
+MG,MG 5,2021,25500,56784,Fair,Phnom Penh,Blue,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,02-02-2021,2,45,carmatekh.com,Historical
+MG,MG 5,2021,25200,57869,Fair,Battambang,Red,61.1,403,130,7.7,GB-T/CCS2,Private,13-05-2021,5,110,dgmotorscar.com,Historical
+MG,MG 5,2021,25000,52118,Good,Phnom Penh,White,61.1,403,130,7.7,GB-T/CCS2,Private,17-08-2021,8,165,libertycarz.com,Historical
+MG,MG 5,2021,24800,41667,Good,Kampot,Black,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,17-11-2021,11,193,mykhmercar.com,Historical
+MG,MG 5,2022,24200,33087,Excellent,Phnom Penh,Grey,61.1,403,130,7.7,GB-T/CCS2,Dealer,05-01-2022,1,85,carmatekh.com,Historical
+MG,MG 5,2022,23800,38480,Good,Phnom Penh,Grey,61.1,403,130,7.7,GB-T/CCS2,Dealer,21-05-2022,5,195,bydkh.com,Historical
+MG,MG 5,2022,23400,31944,Good,Preah Vihear,Grey,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,25-09-2022,9,305,dgmotorscar.com,Historical
+MG,MG 5,2022,23200,32310,Excellent,Siem Reap,White,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,22-12-2022,12,346,libertycarz.com,Historical
+MG,MG 5,2023,23600,26564,Like New,Phnom Penh,White,61.1,403,130,7.7,GB-T/CCS2,Private,21-01-2023,1,19,carmatekh.com,Historical
+MG,MG 5,2023,23400,21275,Excellent,Phnom Penh,Black,61.1,403,130,7.7,GB-T/CCS2,Dealer,01-05-2023,5,75,dgmotorscar.com,Historical
+MG,MG 5,2023,23200,20286,Like New,Phnom Penh,Black,61.1,403,130,7.7,GB-T/CCS2,Dealer,05-09-2023,9,125,libertycarz.com,Historical
+MG,MG 5,2024,23000,17136,Like New,Siem Reap,Blue,61.1,403,130,7.7,GB-T/CCS2,Dealer,06-02-2024,2,195,carmatekh.com,Historical
+MG,MG 5,2024,22800,10080,Like New,Siem Reap,White,61.1,403,130,7.7,GB-T/CCS2,Dealer,19-06-2024,6,325,bydkh.com,Historical
+MG,MG 5,2024,22600,7344,Like New,Siem Reap,Silver,61.1,403,130,7.7,GB-T/CCS2,Dealer,22-10-2024,10,437,dgmotorscar.com,Historical
+MG,MG 5,2025,22000,5190,New,Battambang,White,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,15-01-2025,1,285,carmatekh.com,Historical
+MG,MG 5,2025,21800,1100,New,Siem Reap,Black,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,09-05-2025,5,375,libertycarz.com,Historical
+MG,MG 5,2025,21600,0,New,Phnom Penh,Black,61.1,403,130,7.7,GB-T/CCS2,Dealer,16-09-2025,9,422,dgmotorscar.com,Historical
+Tesla,Tesla Model 3,2020,58000,58023,Fair,Siem Reap,Silver,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,23-03-2020,3,85,dgmotorscar.com,Historical
+Tesla,Tesla Model 3,2020,57200,48660,Fair,Phnom Penh,Silver,60/82,430-576,208,6.1,GB-T/CCS2,Private,22-06-2020,6,215,carmatekh.com,Historical
+Tesla,Tesla Model 3,2020,56500,47025,Fair,Sihanoukville,Green,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,25-09-2020,9,385,libertycarz.com,Historical
+Tesla,Tesla Model 3,2020,55900,59940,Fair,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Private,09-12-2020,12,475,mykhmercar.com,Historical
+Tesla,Tesla Model 3,2021,54200,61672,Good,Siem Reap,Green,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,21-02-2021,2,55,carmatekh.com,Historical
+Tesla,Tesla Model 3,2021,52800,46942,Fair,Phnom Penh,Black,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,05-05-2021,5,125,dgmotorscar.com,Historical
+Tesla,Tesla Model 3,2021,51500,43746,Fair,Kampong Cham,White,60/82,430-576,208,6.1,GB-T/CCS2,Private,05-08-2021,8,195,libertycarz.com,Historical
+Tesla,Tesla Model 3,2021,50600,42441,Fair,Sihanoukville,Black,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,27-11-2021,11,258,mykhmercar.com,Historical
+Tesla,Tesla Model 3,2022,52500,38991,Good,Sihanoukville,Silver,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,03-01-2022,1,85,carmatekh.com,Historical
+Tesla,Tesla Model 3,2022,51800,45068,Excellent,Kampot,Blue,60/82,430-576,208,6.1,GB-T/CCS2,Private,13-04-2022,4,155,bydkh.com,Historical
+Tesla,Tesla Model 3,2022,50800,34545,Excellent,Sihanoukville,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,18-07-2022,7,225,dgmotorscar.com,Historical
+Tesla,Tesla Model 3,2022,50300,33024,Good,Battambang,Grey,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,19-10-2022,10,288,libertycarz.com,Historical
+Tesla,Tesla Model 3,2023,49800,31528,Excellent,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Private,01-02-2023,2,155,carmatekh.com,Historical
+Tesla,Tesla Model 3,2023,49200,27175,Excellent,Koh Kong,White,60/82,430-576,208,6.1,GB-T/CCS2,Private,03-05-2023,5,280,dgmotorscar.com,Historical
+Tesla,Tesla Model 3,2023,48800,22814,Excellent,Siem Reap,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,02-08-2023,8,345,libertycarz.com,Historical
+Tesla,Tesla Model 3,2023,49000,18145,Excellent,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,18-11-2023,11,361,mykhmercar.com,Historical
+Tesla,Tesla Model 3,2024,47500,16966,Like New,Phnom Penh,Pearl White,60/82,430-576,208,6.1,GB-T/CCS2,Private,23-01-2024,1,195,carmatekh.com,Historical
+Tesla,Tesla Model 3,2024,46800,14196,New,Kampot,Grey,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,27-04-2024,4,285,bydkh.com,Historical
+Tesla,Tesla Model 3,2024,46200,12265,Like New,Kep,Black,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,23-07-2024,7,345,dgmotorscar.com,Historical
+Tesla,Tesla Model 3,2024,45800,7288,Like New,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,12-10-2024,10,369,libertycarz.com,Historical
+Tesla,Tesla Model 3,2025,45000,5755,New,Phnom Penh,Cosmos Black,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,12-01-2025,1,263,carmatekh.com,Historical
+Tesla,Tesla Model 3,2025,44800,2006,New,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,28-04-2025,4,310,libertycarz.com,Historical
+Tesla,Tesla Model 3,2025,44500,0,New,Battambang,Grey,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,20-08-2025,8,355,dgmotorscar.com,Historical
+Tesla,Tesla Model Y,2021,68500,43725,Fair,Phnom Penh,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,19-01-2021,1,35,dgmotorscar.com,Historical
+Tesla,Tesla Model Y,2021,67200,41750,Good,Siem Reap,Red,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,08-04-2021,4,85,carmatekh.com,Historical
+Tesla,Tesla Model Y,2021,66000,55016,Good,Sihanoukville,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,09-08-2021,8,165,libertycarz.com,Historical
+Tesla,Tesla Model Y,2021,64900,36372,Fair,Sihanoukville,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,28-12-2021,12,233,mykhmercar.com,Historical
+Tesla,Tesla Model Y,2022,63500,34680,Excellent,Phnom Penh,Blue,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,19-02-2022,2,95,carmatekh.com,Historical
+Tesla,Tesla Model Y,2022,61800,29896,Excellent,Phnom Penh,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,14-05-2022,5,195,bydkh.com,Historical
+Tesla,Tesla Model Y,2022,60200,29172,Excellent,Phnom Penh,Blue,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,17-08-2022,8,295,dgmotorscar.com,Historical
+Tesla,Tesla Model Y,2022,59400,26505,Good,Phnom Penh,Pearl White,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,02-11-2022,11,336,libertycarz.com,Historical
+Tesla,Tesla Model Y,2023,58500,32973,Excellent,Phnom Penh,Cosmos Black,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,02-01-2023,1,63,carmatekh.com,Historical
+Tesla,Tesla Model Y,2023,57500,26130,Excellent,Battambang,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,15-04-2023,4,125,dgmotorscar.com,Historical
+Tesla,Tesla Model Y,2023,56800,19343,Excellent,Siem Reap,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,09-07-2023,7,185,libertycarz.com,Historical
+Tesla,Tesla Model Y,2023,56100,22480,Excellent,Phnom Penh,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,10-10-2023,10,215,mykhmercar.com,Historical
+Tesla,Tesla Model Y,2024,63999,16928,Like New,Phnom Penh,Grey,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,28-02-2024,2,69,carmatekh.com,Historical
+Tesla,Tesla Model Y,2024,62500,14729,New,Phnom Penh,Green,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,14-05-2024,5,135,bydkh.com,Historical
+Tesla,Tesla Model Y,2024,61800,10320,Like New,Phnom Penh,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,14-08-2024,8,195,dgmotorscar.com,Historical
+Tesla,Tesla Model Y,2024,61200,7980,Like New,Phnom Penh,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,16-11-2024,11,225,libertycarz.com,Historical
+Tesla,Tesla Model Y,2025,63999,4230,New,Phnom Penh,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,24-01-2025,1,185,carmatekh.com,Historical
+Tesla,Tesla Model Y,2025,63500,866,New,Siem Reap,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,11-05-2025,5,245,libertycarz.com,Historical
+Tesla,Tesla Model Y,2025,63000,0,New,Phnom Penh,Green,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,25-08-2025,8,275,dgmotorscar.com,Historical
+Kia,Kia EV5,2023,39500,31563,Like New,Preah Vihear,Grey,64.2/88,400-600,160,7.5,GB-T/CCS2,Dealer,12-03-2023,3,45,carmatekh.com,Historical
+Kia,Kia EV5,2023,38500,26280,Like New,Phnom Penh,Silver,64.2/88,400-600,160,7.5,GB-T/CCS2,Dealer,28-06-2023,6,125,dgmotorscar.com,Historical
+Kia,Kia EV5,2023,37800,20559,Excellent,Phnom Penh,Black,64.2/88,400-600,160,7.5,GB-T/CCS2,Authorized Dealer,08-09-2023,9,235,libertycarz.com,Historical
+Kia,Kia EV5,2023,37300,19566,Like New,Siem Reap,Grey,64.2/88,400-600,160,7.5,GB-T/CCS2,Authorized Dealer,23-12-2023,12,292,bydkh.com,Historical
+Kia,Kia EV5,2024,36200,13024,New,Phnom Penh,Blue,64.2/88,400-600,160,7.5,GB-T/CCS2,Authorized Dealer,11-02-2024,2,95,carmatekh.com,Historical
+Kia,Kia EV5,2024,35500,10439,New,Kampot,Silver,64.2/88,400-600,160,7.5,GB-T/CCS2,Dealer,13-05-2024,5,155,dgmotorscar.com,Historical
+Kia,Kia EV5,2024,35000,8720,New,Phnom Penh,Silver,64.2/88,400-600,160,7.5,GB-T/CCS2,Authorized Dealer,13-08-2024,8,191,libertycarz.com,Historical
+Kia,Kia EV5,2024,34600,7224,Like New,Phnom Penh,Black,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,11-11-2024,11,245,mykhmercar.com,Historical
+Kia,Kia EV5,2025,35000,5525,New,Kampot,White,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,25-01-2025,1,185,carmatekh.com,Historical
+Kia,Kia EV5,2025,34800,1650,New,Phnom Penh,Grey,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,16-04-2025,4,255,libertycarz.com,Historical
+Kia,Kia EV5,2025,34500,0,New,Phnom Penh,White,64.2/88,400-600,160,7.5,GB-T/CCS2,Dealer,17-07-2025,7,310,dgmotorscar.com,Historical
+Kia,Kia EV6,2022,59700,38064,Good,Phnom Penh,Grey,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,19-03-2022,3,26,dgmotorscar.com,Historical
+Kia,Kia EV6,2022,57500,38484,Good,Phnom Penh,Black,77.4,484,168,7.1,GB-T/CCS2,Dealer,20-06-2022,6,65,carmatekh.com,Historical
+Kia,Kia EV6,2022,55800,26499,Excellent,Phnom Penh,White,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,05-09-2022,9,120,libertycarz.com,Historical
+Kia,Kia EV6,2022,53700,28440,Good,Phnom Penh,Silver,77.4,484,168,7.1,GB-T/CCS2,Dealer,14-12-2022,12,155,bydkh.com,Historical
+Kia,Kia EV6,2023,52800,24248,Excellent,Phnom Penh,White,77.4,484,168,7.1,GB-T/CCS2,Private,18-02-2023,2,85,carmatekh.com,Historical
+Kia,Kia EV6,2023,51500,24525,Like New,Phnom Penh,Blue,77.4,484,168,7.1,GB-T/CCS2,Dealer,14-05-2023,5,165,dgmotorscar.com,Historical
+Kia,Kia EV6,2023,50800,22770,Like New,Kampot,Silver,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,19-08-2023,8,225,libertycarz.com,Historical
+Kia,Kia EV6,2023,50500,22097,Excellent,Phnom Penh,Black,77.4,484,168,7.1,GB-T/CCS2,Dealer,11-11-2023,11,263,mykhmercar.com,Historical
+Kia,Kia EV6,2024,49500,18972,Like New,Sihanoukville,Green,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,03-01-2024,1,54,carmatekh.com,Historical
+Kia,Kia EV6,2024,48200,11956,New,Phnom Penh,Black,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,03-04-2024,4,95,bydkh.com,Historical
+Kia,Kia EV6,2024,47000,10538,Like New,Phnom Penh,Blue,77.4,484,168,7.1,GB-T/CCS2,Private,03-07-2024,7,145,dgmotorscar.com,Historical
+Kia,Kia EV6,2024,46200,8992,New,Phnom Penh,White,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,25-10-2024,10,185,libertycarz.com,Historical
+Kia,Kia EV6,2025,48000,4895,New,Phnom Penh,White,77.4,484,168,7.1,GB-T/CCS2,Dealer,07-01-2025,1,155,carmatekh.com,Historical
+Kia,Kia EV6,2025,47500,1108,New,Kampong Cham,Grey,77.4,484,168,7.1,GB-T/CCS2,Private,06-05-2025,5,234,libertycarz.com,Historical
+Kia,Kia EV6,2025,47200,0,New,Phnom Penh,Silver,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,19-08-2025,8,275,dgmotorscar.com,Historical
+Kia,Kia EV9,2023,85000,30996,Excellent,Kampot,Grey,99.8,541,283,5.3,GB-T/CCS2,Authorized Dealer,05-03-2023,3,15,carmatekh.com,Historical
+Kia,Kia EV9,2023,83500,20016,Excellent,Phnom Penh,Black,99.8,541,283,5.3,GB-T/CCS2,Private,09-06-2023,6,85,dgmotorscar.com,Historical
+Kia,Kia EV9,2023,82000,17388,Excellent,Phnom Penh,Black,99.8,541,283,5.3,GB-T/CCS2,Dealer,15-09-2023,9,295,libertycarz.com,Historical
+Kia,Kia EV9,2023,80100,14922,Excellent,Sihanoukville,White,99.8,541,283,5.3,GB-T/CCS2,Dealer,28-12-2023,12,492,bydkh.com,Historical
+Kia,Kia EV9,2024,78500,17824,Like New,Phnom Penh,Silver,99.8,541,283,5.3,GB-T/CCS2,Private,26-02-2024,2,135,carmatekh.com,Historical
+Kia,Kia EV9,2024,76200,10673,Like New,Koh Kong,Silver,99.8,541,283,5.3,GB-T/CCS2,Authorized Dealer,07-05-2024,5,265,dgmotorscar.com,Historical
+Kia,Kia EV9,2024,74500,11090,Like New,Phnom Penh,Cosmos Black,99.8,541,283,5.3,GB-T/CCS2,Dealer,15-08-2024,8,365,libertycarz.com,Historical
+Kia,Kia EV9,2024,72700,6825,New,Phnom Penh,White,99.8,541,283,5.3,GB-T/CCS2,Private,08-11-2024,11,400,mykhmercar.com,Historical
+Kia,Kia EV9,2025,75000,5120,New,Phnom Penh,Grey,99.8,541,283,5.3,GB-T/CCS2,Authorized Dealer,12-01-2025,1,100,carmatekh.com,Historical
+Kia,Kia EV9,2025,74500,944,New,Phnom Penh,Black,99.8,541,283,5.3,GB-T/CCS2,Dealer,20-05-2025,5,155,libertycarz.com,Historical
+Kia,Kia EV9,2025,74000,0,New,Phnom Penh,White,99.8,541,283,5.3,GB-T/CCS2,Authorized Dealer,22-08-2025,8,195,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 5,2021,52000,45360,Fair,Kampong Cham,Grey,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,20-06-2021,6,25,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 5,2021,49800,43650,Good,Siem Reap,White,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,12-09-2021,9,125,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 5,2021,48200,47670,Fair,Phnom Penh,Grey,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,03-12-2021,12,492,libertycarz.com,Historical
+Hyundai,Hyundai Ioniq 5,2022,47500,43440,Good,Siem Reap,Black,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,05-02-2022,2,65,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 5,2022,46500,42883,Excellent,Siem Reap,Black,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,12-05-2022,5,145,bydkh.com,Historical
+Hyundai,Hyundai Ioniq 5,2022,45800,33490,Good,Phnom Penh,White,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,25-08-2022,8,235,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 5,2022,45600,27838,Excellent,Kratie,White,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,10-11-2022,11,262,libertycarz.com,Historical
+Hyundai,Hyundai Ioniq 5,2023,45400,30711,Like New,Battambang,Green,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,20-01-2023,1,15,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 5,2023,45200,28730,Excellent,Phnom Penh,White,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,23-04-2023,4,85,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 5,2023,44800,20332,Excellent,Phnom Penh,Black,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,24-07-2023,7,145,libertycarz.com,Historical
+Hyundai,Hyundai Ioniq 5,2023,44500,20540,Excellent,Kampong Cham,Blue,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,08-10-2023,10,195,mykhmercar.com,Historical
+Hyundai,Hyundai Ioniq 5,2024,44200,15674,Like New,Preah Vihear,Blue,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,27-01-2024,1,460,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 5,2024,43800,12844,Like New,Phnom Penh,Black,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,13-05-2024,5,285,bydkh.com,Historical
+Hyundai,Hyundai Ioniq 5,2024,43500,10700,Like New,Preah Vihear,Red,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,26-08-2024,8,195,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 5,2024,43200,6090,Like New,Phnom Penh,Silver,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,12-11-2024,11,165,libertycarz.com,Historical
+Hyundai,Hyundai Ioniq 5,2025,42000,3408,New,Phnom Penh,Blue,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,09-02-2025,2,17,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 5,2025,42200,1062,New,Sihanoukville,White,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,08-05-2025,5,85,libertycarz.com,Historical
+Hyundai,Hyundai Ioniq 5,2025,42500,0,New,Kep,Black,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,13-09-2025,9,145,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 6,2022,62500,33694,Excellent,Phnom Penh,White,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,08-08-2022,8,35,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 6,2022,60800,29853,Excellent,Sihanoukville,Grey,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,26-11-2022,11,145,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 6,2023,58200,24360,Like New,Phnom Penh,Red,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,23-02-2023,2,99,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 6,2023,56500,29700,Excellent,Phnom Penh,White,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,03-05-2023,5,165,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 6,2023,55200,20482,Like New,Sihanoukville,Silver,53/77.4,429-614,151,8.1,GB-T/CCS2,Private,24-08-2023,8,225,libertycarz.com,Historical
+Hyundai,Hyundai Ioniq 6,2023,54000,20330,Excellent,Phnom Penh,Black,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,10-11-2023,11,285,bydkh.com,Historical
+Hyundai,Hyundai Ioniq 6,2024,53500,14008,New,Phnom Penh,Blue,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,15-01-2024,1,195,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 6,2024,52500,11984,Like New,Siem Reap,White,53/77.4,429-614,151,8.1,GB-T/CCS2,Private,17-04-2024,4,310,bydkh.com,Historical
+Hyundai,Hyundai Ioniq 6,2024,51800,10153,New,Phnom Penh,White,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,12-07-2024,7,395,dgmotorscar.com,Historical
+Hyundai,Hyundai Ioniq 6,2024,51300,8736,Like New,Phnom Penh,Grey,53/77.4,429-614,151,8.1,GB-T/CCS2,Authorized Dealer,17-10-2024,10,471,libertycarz.com,Historical
+Hyundai,Hyundai Ioniq 6,2025,52000,4170,New,Phnom Penh,Silver,53/77.4,429-614,151,8.1,GB-T/CCS2,Authorized Dealer,21-01-2025,1,24,carmatekh.com,Historical
+Hyundai,Hyundai Ioniq 6,2025,51500,991,New,Kampong Cham,Black,53/77.4,429-614,151,8.1,GB-T/CCS2,Authorized Dealer,03-05-2025,5,85,libertycarz.com,Historical
+Hyundai,Hyundai Ioniq 6,2025,51200,0,New,Kampong Cham,Grey,53/77.4,429-614,151,8.1,GB-T/CCS2,Private,25-08-2025,8,135,dgmotorscar.com,Historical
+Nissan,Nissan Leaf,2020,38500,75264,Fair,Phnom Penh,Black,40/62,240-385,110,7.0,GB-T/CCS2,Private,11-02-2020,2,25,dgmotorscar.com,Historical
+Nissan,Nissan Leaf,2020,37200,54229,Fair,Kratie,Silver,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,06-05-2020,5,65,carmatekh.com,Historical
+Nissan,Nissan Leaf,2020,36300,48256,Fair,Phnom Penh,White,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,26-08-2020,8,115,libertycarz.com,Historical
+Nissan,Nissan Leaf,2021,35200,43513,Fair,Kep,Silver,40/62,240-385,110,7.0,GB-T/CCS2,Private,27-01-2021,1,85,carmatekh.com,Historical
+Nissan,Nissan Leaf,2021,34000,52100,Fair,Phnom Penh,Grey,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,10-04-2021,4,195,dgmotorscar.com,Historical
+Nissan,Nissan Leaf,2021,33200,55154,Good,Kampot,Black,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,04-08-2021,8,305,libertycarz.com,Historical
+Nissan,Nissan Leaf,2021,33000,43989,Fair,Kampong Cham,Green,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,13-11-2021,11,370,mykhmercar.com,Historical
+Nissan,Nissan Leaf,2022,31500,35800,Good,Battambang,Black,40/62,240-385,110,7.0,GB-T/CCS2,Private,26-02-2022,2,185,carmatekh.com,Historical
+Nissan,Nissan Leaf,2022,30800,34632,Excellent,Kampong Cham,White,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,20-05-2022,5,310,bydkh.com,Historical
+Nissan,Nissan Leaf,2022,30200,36686,Good,Phnom Penh,White,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,22-08-2022,8,480,dgmotorscar.com,Historical
+Nissan,Nissan Leaf,2022,29800,29636,Good,Siem Reap,Black,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,23-11-2022,11,395,libertycarz.com,Historical
+Nissan,Nissan Leaf,2023,30400,27412,Excellent,Phnom Penh,Green,40/62,240-385,110,7.0,GB-T/CCS2,Private,12-02-2023,2,155,carmatekh.com,Historical
+Nissan,Nissan Leaf,2023,30000,25550,Excellent,Siem Reap,Blue,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,02-05-2023,5,255,dgmotorscar.com,Historical
+Nissan,Nissan Leaf,2023,29800,25146,Excellent,Phnom Penh,Red,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,22-08-2023,8,345,libertycarz.com,Historical
+Nissan,Nissan Leaf,2023,29600,15485,Like New,Sihanoukville,Grey,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,15-11-2023,11,391,mykhmercar.com,Historical
+Nissan,Nissan Leaf,2024,28800,13824,New,Phnom Penh,Grey,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,12-02-2024,2,72,carmatekh.com,Historical
+Nissan,Nissan Leaf,2024,28500,14170,New,Siem Reap,Grey,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,12-05-2024,5,145,bydkh.com,Historical
+Nissan,Nissan Leaf,2024,28200,10270,New,Siem Reap,Silver,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,13-08-2024,8,295,dgmotorscar.com,Historical
+Nissan,Nissan Leaf,2024,28000,7924,Like New,Phnom Penh,White,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,24-11-2024,11,395,libertycarz.com,Historical
+Nissan,Nissan Leaf,2025,28000,5275,New,Koh Kong,White,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,25-01-2025,1,345,carmatekh.com,Historical
+Nissan,Nissan Leaf,2025,27800,2320,New,Phnom Penh,Grey,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,23-04-2025,4,425,libertycarz.com,Historical
+Nissan,Nissan Leaf,2025,27500,0,New,Phnom Penh,Red,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,15-07-2025,7,494,dgmotorscar.com,Historical
+VinFast,VinFast VF 6,2022,29500,41940,Good,Kratie,Red,59.6,399,110,,GB-T/CCS2,Authorized Dealer,28-06-2022,6,45,dgmotorscar.com,Historical
+VinFast,VinFast VF 6,2022,28500,37653,Good,Battambang,Silver,59.6,399,110,,GB-T/CCS2,Authorized Dealer,10-09-2022,9,165,carmatekh.com,Historical
+VinFast,VinFast VF 6,2022,27600,26400,Excellent,Sihanoukville,Silver,59.6,399,110,,GB-T/CCS2,Dealer,04-12-2022,12,293,libertycarz.com,Historical
+VinFast,VinFast VF 6,2023,27200,23517,Like New,Sihanoukville,White,59.6,399,110,,GB-T/CCS2,Private,18-03-2023,3,134,carmatekh.com,Historical
+VinFast,VinFast VF 6,2023,26800,23712,Excellent,Sihanoukville,Silver,59.6,399,110,,GB-T/CCS2,Dealer,20-06-2023,6,195,dgmotorscar.com,Historical
+VinFast,VinFast VF 6,2023,26200,17493,Excellent,Phnom Penh,Grey,59.6,399,110,,GB-T/CCS2,Private,16-09-2023,9,255,libertycarz.com,Historical
+VinFast,VinFast VF 6,2023,25800,18180,Excellent,Sihanoukville,White,59.6,399,110,,GB-T/CCS2,Private,11-12-2023,12,285,mykhmercar.com,Historical
+VinFast,VinFast VF 6,2024,25500,13392,Like New,Phnom Penh,Silver,59.6,399,110,,GB-T/CCS2,Private,05-02-2024,2,65,carmatekh.com,Historical
+VinFast,VinFast VF 6,2024,25000,14651,New,Kampong Cham,White,59.6,399,110,,GB-T/CCS2,Dealer,17-05-2024,5,145,bydkh.com,Historical
+VinFast,VinFast VF 6,2024,24800,8630,New,Phnom Penh,White,59.6,399,110,,GB-T/CCS2,Dealer,23-08-2024,8,225,dgmotorscar.com,Historical
+VinFast,VinFast VF 6,2024,24300,6839,Like New,Sihanoukville,Black,59.6,399,110,,GB-T/CCS2,Private,21-11-2024,11,285,libertycarz.com,Historical
+VinFast,VinFast VF 6,2025,25000,3760,New,Siem Reap,Grey,59.6,399,110,,GB-T/CCS2,Private,03-02-2025,2,302,carmatekh.com,Historical
+VinFast,VinFast VF 6,2025,24800,1128,New,Siem Reap,Silver,59.6,399,110,,GB-T/CCS2,Private,06-05-2025,5,335,libertycarz.com,Historical
+VinFast,VinFast VF 6,2025,24600,0,New,Sihanoukville,Silver,59.6,399,110,,GB-T/CCS2,Dealer,27-08-2025,8,365,dgmotorscar.com,Historical
+VinFast,VinFast VF 8,2022,48500,31958,Excellent,Preah Vihear,Blue,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,09-04-2022,4,55,dgmotorscar.com,Historical
+VinFast,VinFast VF 8,2022,47000,31745,Good,Siem Reap,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,21-07-2022,7,195,carmatekh.com,Historical
+VinFast,VinFast VF 8,2022,45800,30336,Good,Phnom Penh,Red,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,22-10-2022,10,345,libertycarz.com,Historical
+VinFast,VinFast VF 8,2022,45200,28560,Good,Phnom Penh,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,15-12-2022,12,420,mykhmercar.com,Historical
+VinFast,VinFast VF 8,2023,46000,29316,Excellent,Phnom Penh,Grey,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,11-02-2023,2,265,carmatekh.com,Historical
+VinFast,VinFast VF 8,2023,45500,24075,Excellent,Kratie,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,12-05-2023,5,345,dgmotorscar.com,Historical
+VinFast,VinFast VF 8,2023,45200,23914,Like New,Phnom Penh,Silver,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,09-08-2023,8,395,libertycarz.com,Historical
+VinFast,VinFast VF 8,2023,44800,17594,Like New,Phnom Penh,Black,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,13-11-2023,11,420,mykhmercar.com,Historical
+VinFast,VinFast VF 8,2024,43200,17238,New,Preah Vihear,Green,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,27-01-2024,1,106,carmatekh.com,Historical
+VinFast,VinFast VF 8,2024,42800,15330,Like New,Phnom Penh,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,17-04-2024,4,165,bydkh.com,Historical
+VinFast,VinFast VF 8,2024,42500,11605,Like New,Phnom Penh,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,13-07-2024,7,225,dgmotorscar.com,Historical
+VinFast,VinFast VF 8,2024,42200,8272,New,Phnom Penh,Black,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,02-10-2024,10,275,libertycarz.com,Historical
+VinFast,VinFast VF 8,2025,42000,4212,New,Phnom Penh,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,04-02-2025,2,34,carmatekh.com,Historical
+VinFast,VinFast VF 8,2025,41800,868,New,Kampong Cham,Blue,82/87.5,420-500,150,5.5,GB-T/CCS2,Dealer,12-05-2025,5,85,libertycarz.com,Historical
+VinFast,VinFast VF 8,2025,41500,0,New,Phnom Penh,Silver,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,12-08-2025,8,125,dgmotorscar.com,Historical
+VinFast,VinFast VF 9,2022,78000,35039,Excellent,Phnom Penh,Silver,123,438,300,6.5,GB-T/CCS2,Authorized Dealer,18-05-2022,5,25,dgmotorscar.com,Historical
+VinFast,VinFast VF 9,2022,76500,38046,Excellent,Phnom Penh,White,123,438,300,6.5,GB-T/CCS2,Authorized Dealer,12-08-2022,8,120,carmatekh.com,Historical
+VinFast,VinFast VF 9,2022,75200,33635,Good,Kampong Cham,White,123,438,300,6.5,GB-T/CCS2,Authorized Dealer,17-11-2022,11,263,libertycarz.com,Historical
+VinFast,VinFast VF 9,2023,72500,29568,Like New,Phnom Penh,White,123,438,300,6.5,GB-T/CCS2,Authorized Dealer,11-02-2023,2,155,carmatekh.com,Historical
+VinFast,VinFast VF 9,2023,70200,26625,Excellent,Phnom Penh,Green,123,438,300,6.5,GB-T/CCS2,Authorized Dealer,05-05-2023,5,245,dgmotorscar.com,Historical
+VinFast,VinFast VF 9,2023,68800,24486,Excellent,Phnom Penh,Orange,123,438,300,6.5,GB-T/CCS2,Authorized Dealer,24-08-2023,8,294,libertycarz.com,Historical
+VinFast,VinFast VF 9,2023,68100,20957,Excellent,Phnom Penh,Silver,123,438,300,6.5,GB-T/CCS2,Private,16-11-2023,11,320,mykhmercar.com,Historical
+VinFast,VinFast VF 9,2024,66500,18496,Like New,Phnom Penh,White,123,438,300,6.5,GB-T/CCS2,Private,11-01-2024,1,145,carmatekh.com,Historical
+VinFast,VinFast VF 9,2024,65200,11984,Like New,Siem Reap,Blue,123,438,300,6.5,GB-T/CCS2,Private,24-04-2024,4,215,bydkh.com,Historical
+VinFast,VinFast VF 9,2024,64500,12342,New,Siem Reap,Black,123,438,300,6.5,GB-T/CCS2,Private,21-07-2024,7,260,dgmotorscar.com,Historical
+VinFast,VinFast VF 9,2024,63800,8760,New,Kampong Cham,Silver,123,438,300,6.5,GB-T/CCS2,Private,06-10-2024,10,285,libertycarz.com,Historical
+VinFast,VinFast VF 9,2025,65000,5610,New,Phnom Penh,Grey,123,438,300,6.5,GB-T/CCS2,Private,02-01-2025,1,61,carmatekh.com,Historical
+VinFast,VinFast VF 9,2025,64500,1158,New,Phnom Penh,Black,123,438,300,6.5,GB-T/CCS2,Dealer,14-05-2025,5,95,libertycarz.com,Historical
+VinFast,VinFast VF 9,2025,64200,0,New,Battambang,Black,123,438,300,6.5,GB-T/CCS2,Private,25-08-2025,8,135,dgmotorscar.com,Historical
+Denza,Denza D9,2022,95000,39558,Excellent,Battambang,Silver,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,18-04-2022,4,25,dgmotorscar.com,Historical
+Denza,Denza D9,2022,92500,39865,Good,Phnom Penh,Black,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,06-07-2022,7,95,carmatekh.com,Historical
+Denza,Denza D9,2022,90800,34304,Good,Phnom Penh,Grey,103,600,230,6.9,GB-T/CCS2,Private,28-10-2022,10,182,libertycarz.com,Historical
+Denza,Denza D9,2023,88000,33292,Excellent,Siem Reap,White,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,08-01-2023,1,125,carmatekh.com,Historical
+Denza,Denza D9,2023,86500,28210,Excellent,Phnom Penh,Cosmos Black,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,10-04-2023,4,195,dgmotorscar.com,Historical
+Denza,Denza D9,2023,85200,26680,Like New,Battambang,Silver,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,16-07-2023,7,240,libertycarz.com,Historical
+Denza,Denza D9,2023,84000,21720,Excellent,Phnom Penh,Silver,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,18-10-2023,10,275,mykhmercar.com,Historical
+Denza,Denza D9,2024,82500,17034,Like New,Preah Vihear,Red,103,600,230,6.9,GB-T/CCS2,Dealer,10-01-2024,1,285,carmatekh.com,Historical
+Denza,Denza D9,2024,81500,13258,New,Phnom Penh,Black,103,600,230,6.9,GB-T/CCS2,Private,09-04-2024,4,355,bydkh.com,Historical
+Denza,Denza D9,2024,80800,11495,New,Phnom Penh,Silver,103,600,230,6.9,GB-T/CCS2,Private,18-07-2024,7,395,dgmotorscar.com,Historical
+Denza,Denza D9,2024,80300,7512,New,Phnom Penh,Blue,103,600,230,6.9,GB-T/CCS2,Dealer,08-10-2024,10,430,libertycarz.com,Historical
+Denza,Denza D9,2025,80000,3300,New,Siem Reap,White,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,14-02-2025,2,245,carmatekh.com,Historical
+Denza,Denza D9,2025,79500,1167,New,Phnom Penh,Blue,103,600,230,6.9,GB-T/CCS2,Private,01-05-2025,5,310,libertycarz.com,Historical
+Denza,Denza D9,2025,79200,0,New,Phnom Penh,Pearl White,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,16-08-2025,8,354,dgmotorscar.com,Historical
+AITO,AITO M5,2022,52800,44187,Excellent,Kampong Cham,Black,40,200 PHEV,200,4.8,GB-T/CCS2,Private,10-03-2022,3,65,dgmotorscar.com,Historical
+AITO,AITO M5,2022,51200,29880,Excellent,Battambang,White,40,200 PHEV,200,4.8,GB-T/CCS2,Private,24-06-2022,6,185,carmatekh.com,Historical
+AITO,AITO M5,2022,50000,27027,Excellent,Phnom Penh,Red,40,200 PHEV,200,4.8,GB-T/CCS2,Authorized Dealer,02-09-2022,9,295,libertycarz.com,Historical
+AITO,AITO M5,2022,49200,31590,Excellent,Kep,Cosmos Black,40,200 PHEV,200,4.8,GB-T/CCS2,Dealer,10-12-2022,12,345,bydkh.com,Historical
+AITO,AITO M5,2023,48500,22512,Excellent,Siem Reap,White,40,200 PHEV,200,4.8,GB-T/CCS2,Authorized Dealer,11-02-2023,2,195,carmatekh.com,Historical
+AITO,AITO M5,2023,47500,25800,Excellent,Kampot,White,40,200 PHEV,200,4.8,GB-T/CCS2,Authorized Dealer,17-05-2023,5,285,dgmotorscar.com,Historical
+AITO,AITO M5,2023,46800,20658,Like New,Sihanoukville,Black,40,200 PHEV,200,4.8,GB-T/CCS2,Authorized Dealer,24-08-2023,8,321,libertycarz.com,Historical
+AITO,AITO M5,2023,46500,21489,Excellent,Battambang,White,40,200 PHEV,200,4.8,GB-T/CCS2,Authorized Dealer,11-11-2023,11,340,mykhmercar.com,Historical
+AITO,AITO M5,2024,45800,18530,New,Phnom Penh,Red,40,200 PHEV,200,4.8,GB-T/CCS2,Authorized Dealer,13-01-2024,1,225,carmatekh.com,Historical
+AITO,AITO M5,2024,45500,14882,Like New,Phnom Penh,Grey,40,200 PHEV,200,4.8,GB-T/CCS2,Dealer,06-04-2024,4,295,bydkh.com,Historical
+AITO,AITO M5,2024,45200,11484,Like New,Kep,White,40,200 PHEV,200,4.8,GB-T/CCS2,Dealer,13-07-2024,7,335,dgmotorscar.com,Historical
+AITO,AITO M5,2024,45000,8224,Like New,Preah Vihear,Black,40,200 PHEV,200,4.8,GB-T/CCS2,Private,24-10-2024,10,347,libertycarz.com,Historical
+AITO,AITO M5,2025,45000,4025,New,Battambang,Grey,40,200 PHEV,200,4.8,GB-T/CCS2,Private,02-01-2025,1,195,carmatekh.com,Historical
+AITO,AITO M5,2025,44800,1720,New,Phnom Penh,Black,40,200 PHEV,200,4.8,GB-T/CCS2,Private,17-04-2025,4,245,libertycarz.com,Historical
+AITO,AITO M5,2025,44500,0,New,Battambang,Grey,40,200 PHEV,200,4.8,GB-T/CCS2,Authorized Dealer,10-07-2025,7,282,dgmotorscar.com,Historical
+AITO,AITO M7,2022,66500,44560,Excellent,Phnom Penh,White,40,200 PHEV,330,4.8,GB-T/CCS2,Authorized Dealer,05-02-2022,2,25,dgmotorscar.com,Historical
+AITO,AITO M7,2022,64200,43734,Good,Phnom Penh,Silver,40,200 PHEV,330,4.8,GB-T/CCS2,Private,16-05-2022,5,45,carmatekh.com,Historical
+AITO,AITO M7,2022,62800,38760,Excellent,Kampong Cham,Grey,40,200 PHEV,330,4.8,GB-T/CCS2,Dealer,20-08-2022,8,60,libertycarz.com,Historical
+AITO,AITO M7,2022,61900,33139,Good,Phnom Penh,Black,40,200 PHEV,330,4.8,GB-T/CCS2,Dealer,19-11-2022,11,85,mykhmercar.com,Historical
+AITO,AITO M7,2023,62600,24099,Like New,Siem Reap,White,40,200 PHEV,330,4.8,GB-T/CCS2,Private,11-01-2023,1,55,carmatekh.com,Historical
+AITO,AITO M7,2023,61800,26676,Like New,Battambang,Grey,40,200 PHEV,330,4.8,GB-T/CCS2,Dealer,16-04-2023,4,95,dgmotorscar.com,Historical
+AITO,AITO M7,2023,61200,24403,Excellent,Sihanoukville,Silver,40,200 PHEV,330,4.8,GB-T/CCS2,Authorized Dealer,17-07-2023,7,135,libertycarz.com,Historical
+AITO,AITO M7,2023,60500,20660,Like New,Siem Reap,Grey,40,200 PHEV,330,4.8,GB-T/CCS2,Private,10-10-2023,10,165,bydkh.com,Historical
+AITO,AITO M7,2024,58500,13787,Like New,Phnom Penh,White,40,200 PHEV,330,4.8,GB-T/CCS2,Private,07-01-2024,1,195,dgmotorscar.com,Historical
+AITO,AITO M7,2024,57200,11718,New,Phnom Penh,Grey,40,200 PHEV,330,4.8,GB-T/CCS2,Dealer,18-04-2024,4,265,bydkh.com,Historical
+AITO,AITO M7,2024,56500,9185,Like New,Phnom Penh,Black,40,200 PHEV,330,4.8,GB-T/CCS2,Dealer,25-07-2024,7,325,carmatekh.com,Historical
+AITO,AITO M7,2024,56000,9536,Like New,Phnom Penh,Green,40,200 PHEV,330,4.8,GB-T/CCS2,Authorized Dealer,15-10-2024,10,342,libertycarz.com,Historical
+AITO,AITO M7,2025,58500,4960,New,Battambang,Grey,40,200 PHEV,330,4.8,GB-T/CCS2,Dealer,18-01-2025,1,245,dgmotorscar.com,Historical
+AITO,AITO M7,2025,58000,2268,New,Phnom Penh,Orange,40,200 PHEV,330,4.8,GB-T/CCS2,Private,13-04-2025,4,310,libertycarz.com,Historical
+AITO,AITO M7,2025,57800,0,New,Kampong Cham,White,40,200 PHEV,330,4.8,GB-T/CCS2,Dealer,01-07-2025,7,358,carmatekh.com,Historical
+Zeekr,Zeekr 001,2022,82000,37128,Good,Battambang,Silver,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,18-03-2022,3,85,dgmotorscar.com,Historical
+Zeekr,Zeekr 001,2022,80500,33012,Excellent,Phnom Penh,White,86/100,560-620,200,3.3,GB-T/CCS2,Private,07-06-2022,6,245,carmatekh.com,Historical
+Zeekr,Zeekr 001,2022,79200,39303,Excellent,Phnom Penh,Grey,86/100,560-620,200,3.3,GB-T/CCS2,Dealer,20-09-2022,9,395,libertycarz.com,Historical
+Zeekr,Zeekr 001,2022,78300,27690,Excellent,Phnom Penh,Silver,86/100,560-620,200,3.3,GB-T/CCS2,Private,15-12-2022,12,485,bydkh.com,Historical
+Zeekr,Zeekr 001,2023,78000,32032,Like New,Phnom Penh,White,86/100,560-620,200,3.3,GB-T/CCS2,Dealer,15-02-2023,2,195,carmatekh.com,Historical
+Zeekr,Zeekr 001,2023,77000,26900,Like New,Kampong Cham,Blue,86/100,560-620,200,3.3,GB-T/CCS2,Private,05-05-2023,5,305,dgmotorscar.com,Historical
+Zeekr,Zeekr 001,2023,76200,20856,Like New,Sihanoukville,Blue,86/100,560-620,200,3.3,GB-T/CCS2,Private,11-08-2023,8,354,libertycarz.com,Historical
+Zeekr,Zeekr 001,2023,75800,21014,Excellent,Phnom Penh,Green,86/100,560-620,200,3.3,GB-T/CCS2,Private,22-11-2023,11,385,mykhmercar.com,Historical
+Zeekr,Zeekr 001,2024,75800,15521,Like New,Phnom Penh,White,86/100,560-620,200,3.3,GB-T/CCS2,Private,19-01-2024,1,125,carmatekh.com,Historical
+Zeekr,Zeekr 001,2024,74500,12446,Like New,Siem Reap,White,86/100,560-620,200,3.3,GB-T/CCS2,Private,12-04-2024,4,195,bydkh.com,Historical
+Zeekr,Zeekr 001,2024,73200,12573,Like New,Sihanoukville,Black,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,14-07-2024,7,243,dgmotorscar.com,Historical
+Zeekr,Zeekr 001,2024,72500,7008,Like New,Phnom Penh,Blue,86/100,560-620,200,3.3,GB-T/CCS2,Dealer,16-10-2024,10,275,libertycarz.com,Historical
+Zeekr,Zeekr 001,2025,72000,3660,New,Kampot,White,86/100,560-620,200,3.3,GB-T/CCS2,Dealer,15-02-2025,2,215,carmatekh.com,Historical
+Zeekr,Zeekr 001,2025,71500,0,New,Preah Vihear,Silver,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,05-06-2025,6,295,libertycarz.com,Historical
+Zeekr,Zeekr 001,2025,71200,0,New,Phnom Penh,Black,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,03-10-2025,10,364,dgmotorscar.com,Historical
+Zeekr,Zeekr X,2023,58000,23736,Like New,Phnom Penh,Red,66,440,200,5.6,GB-T/CCS2,Authorized Dealer,02-06-2023,6,15,carmatekh.com,Historical
+Zeekr,Zeekr X,2023,56500,20853,Like New,Kampot,White,66,440,200,5.6,GB-T/CCS2,Private,25-09-2023,9,35,dgmotorscar.com,Historical
+Zeekr,Zeekr X,2023,55200,21060,Like New,Phnom Penh,Red,66,440,200,5.6,GB-T/CCS2,Authorized Dealer,11-12-2023,12,65,libertycarz.com,Historical
+Zeekr,Zeekr X,2024,54500,12912,New,Kep,Cosmos Black,66,440,200,5.6,GB-T/CCS2,Private,04-02-2024,2,85,carmatekh.com,Historical
+Zeekr,Zeekr X,2024,53800,15418,Like New,Koh Kong,Grey,66,440,200,5.6,GB-T/CCS2,Dealer,23-05-2024,5,125,dgmotorscar.com,Historical
+Zeekr,Zeekr X,2024,53200,10030,New,Siem Reap,Blue,66,440,200,5.6,GB-T/CCS2,Authorized Dealer,13-08-2024,8,165,libertycarz.com,Historical
+Zeekr,Zeekr X,2024,52800,7511,Like New,Phnom Penh,Black,66,440,200,5.6,GB-T/CCS2,Authorized Dealer,16-11-2024,11,195,mykhmercar.com,Historical
+Zeekr,Zeekr X,2025,52800,4250,New,Kampong Cham,Black,66,440,200,5.6,GB-T/CCS2,Authorized Dealer,07-01-2025,1,105,carmatekh.com,Historical
+Zeekr,Zeekr X,2025,52500,960,New,Phnom Penh,Red,66,440,200,5.6,GB-T/CCS2,Dealer,24-05-2025,5,145,libertycarz.com,Historical
+Zeekr,Zeekr X,2025,52200,0,New,Phnom Penh,Pearl White,66,440,200,5.6,GB-T/CCS2,Private,19-09-2025,9,185,dgmotorscar.com,Historical
+Zeekr,Zeekr 007,2024,64500,15195,Like New,Phnom Penh,Black,75/100,530-688,310,3.5,GB-T/CCS2,Private,13-03-2024,3,35,carmatekh.com,Historical
+Zeekr,Zeekr 007,2024,63200,11100,Like New,Siem Reap,Pearl White,75/100,530-688,310,3.5,GB-T/CCS2,Authorized Dealer,11-06-2024,6,75,dgmotorscar.com,Historical
+Zeekr,Zeekr 007,2024,62000,10710,Like New,Preah Vihear,Grey,75/100,530-688,310,3.5,GB-T/CCS2,Authorized Dealer,16-09-2024,9,115,libertycarz.com,Historical
+Zeekr,Zeekr 007,2024,60800,5316,Like New,Phnom Penh,Blue,75/100,530-688,310,3.5,GB-T/CCS2,Dealer,16-12-2024,12,155,mykhmercar.com,Historical
+Zeekr,Zeekr 007,2025,60800,4308,New,Phnom Penh,Red,75/100,530-688,310,3.5,GB-T/CCS2,Private,03-02-2025,2,95,carmatekh.com,Historical
+Zeekr,Zeekr 007,2025,60500,824,New,Phnom Penh,Red,75/100,530-688,310,3.5,GB-T/CCS2,Dealer,08-05-2025,5,135,libertycarz.com,Historical
+Zeekr,Zeekr 007,2025,60200,0,New,Phnom Penh,Silver,75/100,530-688,310,3.5,GB-T/CCS2,Dealer,12-08-2025,8,175,dgmotorscar.com,Historical
+Avatr,Avatr 11,2022,78000,41292,Good,Battambang,White,90/116,555-700,230,3.9,GB-T/CCS2,Private,18-05-2022,5,15,dgmotorscar.com,Historical
+Avatr,Avatr 11,2022,75500,34340,Excellent,Phnom Penh,Blue,90/116,555-700,230,3.9,GB-T/CCS2,Authorized Dealer,18-08-2022,8,35,carmatekh.com,Historical
+Avatr,Avatr 11,2022,73400,25048,Good,Sihanoukville,Green,90/116,555-700,230,3.9,GB-T/CCS2,Dealer,04-11-2022,11,45,libertycarz.com,Historical
+Avatr,Avatr 11,2023,72500,29904,Like New,Phnom Penh,Grey,90/116,555-700,230,3.9,GB-T/CCS2,Authorized Dealer,09-02-2023,2,125,carmatekh.com,Historical
+Avatr,Avatr 11,2023,70800,23400,Excellent,Phnom Penh,Cosmos Black,90/116,555-700,230,3.9,GB-T/CCS2,Private,15-05-2023,5,245,dgmotorscar.com,Historical
+Avatr,Avatr 11,2023,69500,20328,Like New,Phnom Penh,Red,90/116,555-700,230,3.9,GB-T/CCS2,Private,03-08-2023,8,349,libertycarz.com,Historical
+Avatr,Avatr 11,2023,68200,21508,Like New,Phnom Penh,Black,90/116,555-700,230,3.9,GB-T/CCS2,Authorized Dealer,18-11-2023,11,385,mykhmercar.com,Historical
+Avatr,Avatr 11,2024,67400,14076,New,Battambang,White,90/116,555-700,230,3.9,GB-T/CCS2,Authorized Dealer,28-01-2024,1,195,carmatekh.com,Historical
+Avatr,Avatr 11,2024,66800,15820,Like New,Siem Reap,Red,90/116,555-700,230,3.9,GB-T/CCS2,Private,04-04-2024,4,275,bydkh.com,Historical
+Avatr,Avatr 11,2024,66200,9031,New,Phnom Penh,Red,90/116,555-700,230,3.9,GB-T/CCS2,Authorized Dealer,19-07-2024,7,327,dgmotorscar.com,Historical
+Avatr,Avatr 11,2024,65800,7504,New,Kep,Grey,90/116,555-700,230,3.9,GB-T/CCS2,Private,09-10-2024,10,355,libertycarz.com,Historical
+Avatr,Avatr 11,2025,65000,5440,New,Phnom Penh,Red,90/116,555-700,230,3.9,GB-T/CCS2,Dealer,01-01-2025,1,56,carmatekh.com,Historical
+Avatr,Avatr 11,2025,64800,1100,New,Kampong Cham,Grey,90/116,555-700,230,3.9,GB-T/CCS2,Dealer,13-05-2025,5,95,libertycarz.com,Historical
+Avatr,Avatr 11,2025,64500,0,New,Phnom Penh,White,90/116,555-700,230,3.9,GB-T/CCS2,Authorized Dealer,27-08-2025,8,135,dgmotorscar.com,Historical
+Avatr,Avatr 07,2024,47000,17190,Like New,Phnom Penh,Blue,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Private,26-03-2024,3,25,dgmotorscar.com,Historical
+Avatr,Avatr 07,2024,46200,14040,New,Phnom Penh,Cosmos Black,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Dealer,02-06-2024,6,55,carmatekh.com,Historical
+Avatr,Avatr 07,2024,45500,9207,New,Sihanoukville,Black,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Private,25-09-2024,9,85,libertycarz.com,Historical
+Avatr,Avatr 07,2024,45000,6624,Like New,Preah Vihear,Black,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Authorized Dealer,21-12-2024,12,115,mykhmercar.com,Historical
+Avatr,Avatr 07,2025,45500,4120,New,Phnom Penh,Silver,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Authorized Dealer,13-02-2025,2,85,dgmotorscar.com,Historical
+Avatr,Avatr 07,2025,45800,895,New,Phnom Penh,Grey,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Dealer,26-05-2025,5,115,carmatekh.com,Historical
+Avatr,Avatr 07,2025,46000,0,New,Phnom Penh,White,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Private,23-08-2025,8,145,libertycarz.com,Historical
+Avatr,Avatr 12,2025,59999,4390,New,Phnom Penh,White,94.5,650,230,3.9,GB-T/CCS2,Authorized Dealer,01-01-2025,1,25,dgmotorscar.com,Historical
+Avatr,Avatr 12,2025,60500,2054,New,Kampong Cham,White,94.5,650,230,3.9,GB-T/CCS2,Dealer,03-04-2025,4,45,carmatekh.com,Historical
+Avatr,Avatr 12,2025,60800,0,New,Phnom Penh,Silver,94.5,650,230,3.9,GB-T/CCS2,Dealer,14-07-2025,7,65,libertycarz.com,Historical
+Xiaomi,Xiaomi SU7,2024,78500,12195,New,Phnom Penh,White,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Authorized Dealer,20-03-2024,3,85,carmatekh.com,Historical
+Xiaomi,Xiaomi SU7,2024,76200,11964,New,Phnom Penh,Black,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Private,03-06-2024,6,225,dgmotorscar.com,Historical
+Xiaomi,Xiaomi SU7,2024,74800,9774,New,Siem Reap,White,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Dealer,13-09-2024,9,365,libertycarz.com,Historical
+Xiaomi,Xiaomi SU7,2024,73900,5226,Like New,Phnom Penh,Silver,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Dealer,03-12-2024,12,398,bydkh.com,Historical
+Xiaomi,Xiaomi SU7,2025,75000,5110,New,Phnom Penh,Silver,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Authorized Dealer,03-01-2025,1,59,carmatekh.com,Historical
+Xiaomi,Xiaomi SU7,2025,74500,928,New,Kampong Cham,Silver,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Dealer,20-05-2025,5,125,libertycarz.com,Historical
+Xiaomi,Xiaomi SU7,2025,74200,0,New,Phnom Penh,Black,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Authorized Dealer,13-08-2025,8,185,dgmotorscar.com,Historical
+Toyota,Toyota bZ4X,2022,52500,43563,Good,Sihanoukville,Black,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,11-03-2022,3,45,dgmotorscar.com,Historical
+Toyota,Toyota bZ4X,2022,51000,40788,Excellent,Phnom Penh,Grey,71.4,500,150,7.1,GB-T/CCS2,Dealer,23-06-2022,6,155,carmatekh.com,Historical
+Toyota,Toyota bZ4X,2022,49800,34485,Good,Phnom Penh,Black,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,11-09-2022,9,285,libertycarz.com,Historical
+Toyota,Toyota bZ4X,2022,49400,35280,Good,Preah Vihear,Blue,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,11-12-2022,12,357,bydkh.com,Historical
+Toyota,Toyota bZ4X,2023,48800,27347,Excellent,Phnom Penh,Pearl White,71.4,500,150,7.1,GB-T/CCS2,Private,07-01-2023,1,102,carmatekh.com,Historical
+Toyota,Toyota bZ4X,2023,48200,26975,Like New,Battambang,Silver,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,24-05-2023,5,175,dgmotorscar.com,Historical
+Toyota,Toyota bZ4X,2023,47800,25564,Like New,Phnom Penh,Black,71.4,500,150,7.1,GB-T/CCS2,Dealer,23-08-2023,8,255,libertycarz.com,Historical
+Toyota,Toyota bZ4X,2023,47500,19171,Excellent,Phnom Penh,Black,71.4,500,150,7.1,GB-T/CCS2,Private,09-11-2023,11,295,mykhmercar.com,Historical
+Toyota,Toyota bZ4X,2024,46500,14926,Like New,Sihanoukville,White,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,20-01-2024,1,195,carmatekh.com,Historical
+Toyota,Toyota bZ4X,2024,45800,15372,Like New,Phnom Penh,Pearl White,71.4,500,150,7.1,GB-T/CCS2,Private,28-04-2024,4,285,bydkh.com,Historical
+Toyota,Toyota bZ4X,2024,45200,11154,New,Sihanoukville,Black,71.4,500,150,7.1,GB-T/CCS2,Private,26-07-2024,7,355,dgmotorscar.com,Historical
+Toyota,Toyota bZ4X,2024,44900,8832,New,Phnom Penh,White,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,22-10-2024,10,370,libertycarz.com,Historical
+Toyota,Toyota bZ4X,2025,45000,4425,New,Siem Reap,Grey,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,21-01-2025,1,265,carmatekh.com,Historical
+Toyota,Toyota bZ4X,2025,44800,1185,New,Preah Vihear,Black,71.4,500,150,7.1,GB-T/CCS2,Dealer,01-05-2025,5,345,libertycarz.com,Historical
+Toyota,Toyota bZ4X,2025,44500,0,New,Phnom Penh,Blue,71.4,500,150,7.1,GB-T/CCS2,Private,18-09-2025,9,393,dgmotorscar.com,Historical
+Toyota,Toyota bZ5,2025,36800,5760,New,Phnom Penh,Black,71.2,630,180,6.8,GB-T/CCS2,Private,25-01-2025,1,45,dgmotorscar.com,Historical
+Toyota,Toyota bZ5,2025,37500,2202,New,Phnom Penh,White,71.2,630,180,6.8,GB-T/CCS2,Authorized Dealer,04-04-2025,4,75,carmatekh.com,Historical
+Toyota,Toyota bZ5,2025,38200,0,New,Kep,White,71.2,630,180,6.8,GB-T/CCS2,Private,27-07-2025,7,105,dgmotorscar.com,Historical
+BMW,BMW iX1,2022,65000,33136,Good,Phnom Penh,Silver,64.7,417,150,8.6,GB-T/CCS2,Private,07-04-2022,4,38,dgmotorscar.com,Historical
+BMW,BMW iX1,2022,63500,35598,Good,Phnom Penh,Black,64.7,417,150,8.6,GB-T/CCS2,Authorized Dealer,23-08-2022,8,95,carmatekh.com,Historical
+BMW,BMW iX1,2022,61600,28890,Excellent,Phnom Penh,Red,64.7,417,150,8.6,GB-T/CCS2,Dealer,04-12-2022,12,155,libertycarz.com,Historical
+BMW,BMW iX1,2023,60500,27300,Like New,Battambang,White,64.7,417,150,8.6,GB-T/CCS2,Dealer,24-02-2023,2,125,carmatekh.com,Historical
+BMW,BMW iX1,2023,59800,26600,Like New,Siem Reap,Black,64.7,417,150,8.6,GB-T/CCS2,Authorized Dealer,14-05-2023,5,195,dgmotorscar.com,Historical
+BMW,BMW iX1,2023,59400,20196,Excellent,Siem Reap,White,64.7,417,150,8.6,GB-T/CCS2,Authorized Dealer,22-08-2023,8,241,libertycarz.com,Historical
+BMW,BMW iX1,2023,59000,19038,Like New,Kampong Cham,Green,64.7,417,150,8.6,GB-T/CCS2,Private,15-11-2023,11,275,mykhmercar.com,Historical
+BMW,BMW iX1,2024,57500,17323,Like New,Phnom Penh,White,64.7,417,150,8.6,GB-T/CCS2,Private,09-01-2024,1,285,carmatekh.com,Historical
+BMW,BMW iX1,2024,56200,11648,New,Sihanoukville,Silver,64.7,417,150,8.6,GB-T/CCS2,Authorized Dealer,12-04-2024,4,365,bydkh.com,Historical
+BMW,BMW iX1,2024,55200,9900,Like New,Phnom Penh,Grey,64.7,417,150,8.6,GB-T/CCS2,Private,16-07-2024,7,425,dgmotorscar.com,Historical
+BMW,BMW iX1,2024,54500,9016,Like New,Siem Reap,Grey,64.7,417,150,8.6,GB-T/CCS2,Dealer,19-10-2024,10,484,libertycarz.com,Historical
+BMW,BMW iX1,2025,55000,3912,New,Sihanoukville,Grey,64.7,417,150,8.6,GB-T/CCS2,Private,27-02-2025,2,107,carmatekh.com,Historical
+BMW,BMW iX1,2025,54800,0,New,Koh Kong,Silver,64.7,417,150,8.6,GB-T/CCS2,Dealer,22-06-2025,6,155,libertycarz.com,Historical
+BMW,BMW iX1,2025,54500,0,New,Phnom Penh,Black,64.7,417,150,8.6,GB-T/CCS2,Authorized Dealer,06-10-2025,10,195,dgmotorscar.com,Historical
+Mercedes,Mercedes EQB,2021,78500,55440,Good,Phnom Penh,Black,66.5,419,168,8.0,GB-T/CCS2,Private,05-06-2021,6,25,dgmotorscar.com,Historical
+Mercedes,Mercedes EQB,2021,75200,44820,Fair,Phnom Penh,Grey,66.5,419,168,8.0,GB-T/CCS2,Private,23-09-2021,9,105,carmatekh.com,Historical
+Mercedes,Mercedes EQB,2021,72800,37296,Good,Phnom Penh,White,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,11-12-2021,12,237,libertycarz.com,Historical
+Mercedes,Mercedes EQB,2022,71200,44680,Excellent,Kampot,Cosmos Black,66.5,419,168,8.0,GB-T/CCS2,Dealer,16-02-2022,2,145,carmatekh.com,Historical
+Mercedes,Mercedes EQB,2022,70500,33263,Good,Preah Vihear,Silver,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,16-05-2022,5,225,bydkh.com,Historical
+Mercedes,Mercedes EQB,2022,69800,39100,Good,Phnom Penh,Red,66.5,419,168,8.0,GB-T/CCS2,Dealer,16-08-2022,8,295,dgmotorscar.com,Historical
+Mercedes,Mercedes EQB,2022,69200,26102,Excellent,Sihanoukville,White,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,02-11-2022,11,320,libertycarz.com,Historical
+Mercedes,Mercedes EQB,2023,67500,26535,Excellent,Phnom Penh,Silver,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,24-01-2023,1,59,carmatekh.com,Historical
+Mercedes,Mercedes EQB,2023,66500,28106,Like New,Siem Reap,Black,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,18-04-2023,4,125,dgmotorscar.com,Historical
+Mercedes,Mercedes EQB,2023,65800,24771,Like New,Kampong Cham,Black,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,07-07-2023,7,185,libertycarz.com,Historical
+Mercedes,Mercedes EQB,2023,65500,17040,Like New,Phnom Penh,Orange,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,15-10-2023,10,225,mykhmercar.com,Historical
+Mercedes,Mercedes EQB,2024,64500,16626,New,Phnom Penh,Orange,66.5,419,168,8.0,GB-T/CCS2,Dealer,25-01-2024,1,195,carmatekh.com,Historical
+Mercedes,Mercedes EQB,2024,63500,12698,Like New,Kampot,Grey,66.5,419,168,8.0,GB-T/CCS2,Dealer,14-04-2024,4,265,bydkh.com,Historical
+Mercedes,Mercedes EQB,2024,62800,12265,New,Sihanoukville,Red,66.5,419,168,8.0,GB-T/CCS2,Dealer,26-07-2024,7,307,dgmotorscar.com,Historical
+Mercedes,Mercedes EQB,2024,62000,8728,Like New,Phnom Penh,Silver,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,06-10-2024,10,345,libertycarz.com,Historical
+Mercedes,Mercedes EQB,2025,65000,4640,New,Phnom Penh,Black,66.5,419,168,8.0,GB-T/CCS2,Private,28-02-2025,2,62,carmatekh.com,Historical
+Mercedes,Mercedes EQB,2025,64500,1147,New,Phnom Penh,Blue,66.5,419,168,8.0,GB-T/CCS2,Dealer,14-05-2025,5,95,libertycarz.com,Historical
+Mercedes,Mercedes EQB,2025,64200,0,New,Kampot,White,66.5,419,168,8.0,GB-T/CCS2,Dealer,28-08-2025,8,135,dgmotorscar.com,Historical
+XPeng,XPeng G6,2023,49800,25029,Like New,Battambang,Red,66/87.5,435-570,190,6.2,GB-T/CCS2,Private,25-03-2023,3,45,carmatekh.com,Historical
+XPeng,XPeng G6,2023,48200,24024,Excellent,Phnom Penh,Grey,66/87.5,435-570,190,6.2,GB-T/CCS2,Authorized Dealer,21-06-2023,6,109,dgmotorscar.com,Historical
+XPeng,XPeng G6,2023,47500,20832,Excellent,Phnom Penh,Blue,66/87.5,435-570,190,6.2,GB-T/CCS2,Dealer,25-09-2023,9,195,libertycarz.com,Historical
+XPeng,XPeng G6,2023,46900,18108,Excellent,Battambang,Green,66/87.5,435-570,190,6.2,GB-T/CCS2,Authorized Dealer,15-12-2023,12,255,bydkh.com,Historical
+XPeng,XPeng G6,2024,46200,16439,New,Kampot,Red,66/87.5,435-570,190,6.2,GB-T/CCS2,Private,03-01-2024,1,185,carmatekh.com,Historical
+XPeng,XPeng G6,2024,45500,14476,Like New,Kampot,Blue,66/87.5,435-570,190,6.2,GB-T/CCS2,Dealer,13-04-2024,4,295,bydkh.com,Historical
+XPeng,XPeng G6,2024,44800,11209,New,Phnom Penh,Black,66/87.5,435-570,190,6.2,GB-T/CCS2,Authorized Dealer,10-07-2024,7,375,dgmotorscar.com,Historical
+XPeng,XPeng G6,2024,44300,8640,New,Siem Reap,Silver,66/87.5,435-570,190,6.2,GB-T/CCS2,Private,11-10-2024,10,402,libertycarz.com,Historical
+XPeng,XPeng G6,2025,45000,5950,New,Phnom Penh,Grey,66/87.5,435-570,190,6.2,GB-T/CCS2,Authorized Dealer,27-01-2025,1,145,carmatekh.com,Historical
+XPeng,XPeng G6,2025,44800,1616,New,Kep,White,66/87.5,435-570,190,6.2,GB-T/CCS2,Dealer,15-04-2025,4,225,libertycarz.com,Historical
+XPeng,XPeng G6,2025,44500,0,New,Phnom Penh,Grey,66/87.5,435-570,190,6.2,GB-T/CCS2,Private,05-07-2025,7,283,dgmotorscar.com,Historical
+Deepal,Deepal L07,2024,48500,14310,New,Kampot,Green,31.6,200 PHEV,160,7.3,GB-T/CCS2,Private,03-03-2024,3,25,carmatekh.com,Historical
+Deepal,Deepal L07,2024,47200,11808,Like New,Phnom Penh,Grey,31.6,200 PHEV,160,7.3,GB-T/CCS2,Dealer,21-06-2024,6,55,dgmotorscar.com,Historical
+Deepal,Deepal L07,2024,45800,7434,Like New,Siem Reap,Blue,31.6,200 PHEV,160,7.3,GB-T/CCS2,Dealer,25-09-2024,9,95,libertycarz.com,Historical
+Deepal,Deepal L07,2024,44900,6114,New,Battambang,White,31.6,200 PHEV,160,7.3,GB-T/CCS2,Dealer,16-12-2024,12,135,mykhmercar.com,Historical
+Deepal,Deepal L07,2025,44900,3468,New,Phnom Penh,Black,31.6,200 PHEV,160,7.3,GB-T/CCS2,Private,01-02-2025,2,105,carmatekh.com,Historical
+Deepal,Deepal L07,2025,44500,975,New,Kratie,Black,31.6,200 PHEV,160,7.3,GB-T/CCS2,Authorized Dealer,05-05-2025,5,145,libertycarz.com,Historical
+Deepal,Deepal L07,2025,44200,0,New,Phnom Penh,White,31.6,200 PHEV,160,7.3,GB-T/CCS2,Dealer,26-08-2025,8,185,dgmotorscar.com,Historical
+Deepal,Deepal S07,2024,54500,12780,Like New,Phnom Penh,Black,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Dealer,13-03-2024,3,20,carmatekh.com,Historical
+Deepal,Deepal S07,2024,53200,13536,New,Phnom Penh,Silver,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Private,20-06-2024,6,45,dgmotorscar.com,Historical
+Deepal,Deepal S07,2024,51800,7956,Like New,Phnom Penh,White,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Dealer,24-09-2024,9,75,libertycarz.com,Historical
+Deepal,Deepal S07,2024,49900,6060,Like New,Kampot,White,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Dealer,04-12-2024,12,110,mykhmercar.com,Historical
+Deepal,Deepal S07,2025,49900,4740,New,Siem Reap,Black,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Authorized Dealer,14-02-2025,2,85,carmatekh.com,Historical
+Deepal,Deepal S07,2025,49500,871,New,Phnom Penh,White,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Private,18-05-2025,5,115,libertycarz.com,Historical
+Deepal,Deepal S07,2025,49200,0,New,Sihanoukville,Grey,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Private,28-08-2025,8,145,dgmotorscar.com,Historical
+AION,AION ES,2024,32500,14310,New,Phnom Penh,Silver,55.6,410,150,7.5,GB-T/CCS2,Authorized Dealer,24-03-2024,3,35,carmatekh.com,Historical
+AION,AION ES,2024,31200,11412,New,Sihanoukville,Blue,55.6,410,150,7.5,GB-T/CCS2,Authorized Dealer,08-06-2024,6,75,dgmotorscar.com,Historical
+AION,AION ES,2024,30000,8973,New,Phnom Penh,Grey,55.6,410,150,7.5,GB-T/CCS2,Private,03-09-2024,9,125,libertycarz.com,Historical
+AION,AION ES,2024,28888,4836,Like New,Kep,White,55.6,410,150,7.5,GB-T/CCS2,Private,28-12-2024,12,175,mykhmercar.com,Historical
+AION,AION ES,2025,28888,4060,New,Phnom Penh,White,55.6,410,150,7.5,GB-T/CCS2,Dealer,16-02-2025,2,155,carmatekh.com,Historical
+AION,AION ES,2025,28500,808,New,Phnom Penh,White,55.6,410,150,7.5,GB-T/CCS2,Authorized Dealer,02-05-2025,5,205,libertycarz.com,Historical
+AION,AION ES,2025,28200,0,New,Siem Reap,Silver,55.6,410,150,7.5,GB-T/CCS2,Authorized Dealer,14-08-2025,8,255,dgmotorscar.com,Historical
+AION,AION V,2024,42000,17385,Like New,Phnom Penh,Silver,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,20-03-2024,3,25,carmatekh.com,Historical
+AION,AION V,2024,40500,11304,New,Phnom Penh,Silver,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,07-06-2024,6,55,dgmotorscar.com,Historical
+AION,AION V,2024,39200,9666,Like New,Phnom Penh,Grey,68.8/80,480-610,165,7.1,GB-T/CCS2,Private,27-09-2024,9,95,libertycarz.com,Historical
+AION,AION V,2024,38500,6888,New,Phnom Penh,Black,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,28-12-2024,12,125,mykhmercar.com,Historical
+AION,AION V,2025,36888,3316,New,Phnom Penh,Black,68.8/80,480-610,165,7.1,GB-T/CCS2,Private,15-02-2025,2,105,carmatekh.com,Historical
+AION,AION V,2025,37500,1111,New,Phnom Penh,Blue,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,24-05-2025,5,145,libertycarz.com,Historical
+AION,AION V,2025,38000,0,New,Phnom Penh,White,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,01-08-2025,8,185,dgmotorscar.com,Historical
+AION,AION Y Plus,2024,35500,14756,Like New,Phnom Penh,Blue,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Authorized Dealer,24-04-2024,4,20,carmatekh.com,Historical
+AION,AION Y Plus,2024,34200,9735,Like New,Phnom Penh,Blue,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Private,09-07-2024,7,45,dgmotorscar.com,Historical
+AION,AION Y Plus,2024,33200,6880,New,Phnom Penh,Black,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Dealer,17-10-2024,10,75,libertycarz.com,Historical
+AION,AION Y Plus,2025,31888,4670,New,Phnom Penh,Silver,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Authorized Dealer,02-01-2025,1,95,carmatekh.com,Historical
+AION,AION Y Plus,2025,32200,2180,New,Phnom Penh,Black,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Private,04-04-2025,4,125,libertycarz.com,Historical
+AION,AION Y Plus,2025,32500,0,New,Phnom Penh,Silver,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Dealer,02-07-2025,7,155,dgmotorscar.com,Historical
+Arcfox,Arcfox Koala S,2024,28500,12950,New,Phnom Penh,Black,42.8,301,120,8.5,GB-T/CCS2,Dealer,05-04-2024,4,15,dgmotorscar.com,Historical
+Arcfox,Arcfox Koala S,2024,27500,8998,Like New,Phnom Penh,White,42.8,301,120,8.5,GB-T/CCS2,Authorized Dealer,24-07-2024,7,35,carmatekh.com,Historical
+Arcfox,Arcfox Koala S,2024,26500,7504,New,Siem Reap,White,42.8,301,120,8.5,GB-T/CCS2,Dealer,22-10-2024,10,55,libertycarz.com,Historical
+Arcfox,Arcfox Koala S,2024,25800,5346,New,Sihanoukville,Orange,42.8,301,120,8.5,GB-T/CCS2,Dealer,13-12-2024,12,75,dgmotorscar.com,Historical
+Arcfox,Arcfox Koala S,2025,25800,4152,New,Sihanoukville,Black,42.8,301,120,8.5,GB-T/CCS2,Private,03-02-2025,2,65,dgmotorscar.com,Historical
+Arcfox,Arcfox Koala S,2025,25500,1033,New,Phnom Penh,Black,42.8,301,120,8.5,GB-T/CCS2,Authorized Dealer,26-05-2025,5,95,carmatekh.com,Historical
+Arcfox,Arcfox Koala S,2025,25200,0,New,Phnom Penh,Silver,42.8,301,120,8.5,GB-T/CCS2,Dealer,16-08-2025,8,125,libertycarz.com,Historical
+Leapmotor,Leapmotor T03,2022,15500,43475,Excellent,Phnom Penh,Pearl White,41.3,403,80,,GB-T/CCS2,Dealer,01-05-2022,5,25,dgmotorscar.com,Historical
+Leapmotor,Leapmotor T03,2022,15000,36618,Good,Siem Reap,Grey,41.3,403,80,,GB-T/CCS2,Authorized Dealer,01-08-2022,8,55,carmatekh.com,Historical
+Leapmotor,Leapmotor T03,2022,14500,24800,Good,Sihanoukville,Blue,41.3,403,80,,GB-T/CCS2,Dealer,04-11-2022,11,85,libertycarz.com,Historical
+Leapmotor,Leapmotor T03,2023,14200,29988,Like New,Phnom Penh,Cosmos Black,41.3,403,80,,GB-T/CCS2,Private,05-02-2023,2,115,carmatekh.com,Historical
+Leapmotor,Leapmotor T03,2023,13800,23575,Like New,Phnom Penh,White,41.3,403,80,,GB-T/CCS2,Private,28-05-2023,5,155,dgmotorscar.com,Historical
+Leapmotor,Leapmotor T03,2023,13500,22242,Excellent,Phnom Penh,Blue,41.3,403,80,,GB-T/CCS2,Dealer,19-08-2023,8,195,libertycarz.com,Historical
+Leapmotor,Leapmotor T03,2023,13200,20102,Like New,Siem Reap,Black,41.3,403,80,,GB-T/CCS2,Private,19-11-2023,11,225,mykhmercar.com,Historical
+Leapmotor,Leapmotor T03,2024,13000,14127,Like New,Battambang,White,41.3,403,80,,GB-T/CCS2,Authorized Dealer,10-01-2024,1,175,carmatekh.com,Historical
+Leapmotor,Leapmotor T03,2024,12800,13454,Like New,Battambang,Blue,41.3,403,80,,GB-T/CCS2,Authorized Dealer,11-04-2024,4,215,dgmotorscar.com,Historical
+Leapmotor,Leapmotor T03,2024,12500,10329,New,Phnom Penh,White,41.3,403,80,,GB-T/CCS2,Private,25-07-2024,7,265,libertycarz.com,Historical
+Leapmotor,Leapmotor T03,2024,12200,6840,New,Phnom Penh,Black,41.3,403,80,,GB-T/CCS2,Authorized Dealer,11-10-2024,10,305,mykhmercar.com,Historical
+Leapmotor,Leapmotor T03,2025,12500,3444,New,Preah Vihear,White,41.3,403,80,,GB-T/CCS2,Authorized Dealer,10-02-2025,2,245,carmatekh.com,Historical
+Leapmotor,Leapmotor T03,2025,12200,935,New,Phnom Penh,Red,41.3,403,80,,GB-T/CCS2,Private,10-05-2025,5,285,libertycarz.com,Historical
+Leapmotor,Leapmotor T03,2025,12000,0,New,Phnom Penh,Red,41.3,403,80,,GB-T/CCS2,Dealer,05-08-2025,8,325,dgmotorscar.com,Historical
+AION,AION ES,2022,21600,46109,Excellent,Sihanoukville,Green,55.6,410,150,7.5,GB-T/CCS2,Private,17-08-2022,8,187,khmer24.com,Historical
+AION,AION ES,2024,25700,31531,Good,Kratie,White,55.6,410,150,7.5,GB-T/CCS2,Authorized Dealer,18-08-2024,8,86,khmer24.com,Historical
+AION,AION ES,2024,25300,18914,Excellent,Kampot,Grey,55.6,410,150,7.5,GB-T/CCS2,Authorized Dealer,07-11-2024,11,104,khmer24.com,Historical
+AION,AION ES,2024,28400,20413,Excellent,Kep,Black,55.6,410,150,7.5,GB-T/CCS2,Dealer,12-03-2024,3,227,khmer24.com,Historical
+AION,AION ES,2025,29500,7751,Excellent,Phnom Penh,Blue,55.6,410,150,7.5,GB-T/CCS2,Private,23-06-2025,6,24,khmer24.com,Historical
+AION,AION ES,2025,26800,4504,Like New,Sihanoukville,Cosmos Black,55.6,410,150,7.5,GB-T/CCS2,Authorized Dealer,09-03-2025,3,155,khmer24.com,Historical
+AION,AION ES,2025,27700,8551,Excellent,Phnom Penh,Black,55.6,410,150,7.5,GB-T/CCS2,Dealer,24-01-2025,1,299,khmer24.com,Historical
+AION,AION V,2023,30400,10272,Like New,Sihanoukville,Silver,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,01-02-2023,2,91,khmer24.com,Historical
+AION,AION V,2025,34800,12722,Excellent,Kampong Cham,Black,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,09-05-2025,5,329,khmer24.com,Historical
+AION,AION V,2025,19999,4014,Like New,Phnom Penh,White,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,17-04-2025,4,293,khmer24.com,Historical
+AION,AION V,2025,34800,1905,New,Sihanoukville,White,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,14-03-2025,3,193,khmer24.com,Historical
+AION,AION V,2025,36800,6377,Like New,Phnom Penh,Silver,68.8/80,480-610,165,7.1,GB-T/CCS2,Authorized Dealer,18-10-2025,10,163,khmer24.com,Historical
+AION,AION V,2025,37400,1279,New,Kep,Red,68.8/80,480-610,165,7.1,GB-T/CCS2,Private,09-12-2025,12,352,khmer24.com,Historical
+AION,AION V,2025,35200,8098,Excellent,Kampot,Orange,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,22-07-2025,7,107,khmer24.com,Historical
+AION,AION V,2025,35000,1261,New,Phnom Penh,White,68.8/80,480-610,165,7.1,GB-T/CCS2,Dealer,04-06-2025,6,124,khmer24.com,Historical
+AION,AION Y Plus,2022,24600,62196,Good,Phnom Penh,White,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Authorized Dealer,16-04-2022,4,292,khmer24.com,Historical
+AION,AION Y Plus,2023,27500,6255,Like New,Phnom Penh,Grey,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Private,10-08-2023,8,165,khmer24.com,Historical
+AION,AION Y Plus,2023,27900,26596,Like New,Siem Reap,White,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Authorized Dealer,22-02-2023,2,485,khmer24.com,Historical
+AION,AION Y Plus,2024,30000,20435,Excellent,Phnom Penh,Black,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Authorized Dealer,25-12-2024,12,484,khmer24.com,Historical
+AION,AION Y Plus,2024,30400,26640,Excellent,Phnom Penh,White,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Dealer,07-02-2024,2,52,khmer24.com,Historical
+AION,AION Y Plus,2025,31200,9751,Like New,Phnom Penh,Black,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Authorized Dealer,26-07-2025,7,125,khmer24.com,Historical
+AION,AION Y Plus,2025,32400,6426,Like New,Phnom Penh,Grey,51.9/63.9,410-510,150,7.8,GB-T/CCS2,Authorized Dealer,05-08-2025,8,170,khmer24.com,Historical
+AITO,AITO M5,2020,31149,64127,Good,Battambang,Silver,40,200 PHEV,200,4.8,GB-T/CCS2,Private,17-04-2020,4,250,khmer24.com,Historical
+AITO,AITO M5,2023,41500,29567,Like New,Phnom Penh,Orange,40,200 PHEV,200,4.8,GB-T/CCS2,Private,27-03-2023,3,65,khmer24.com,Historical
+AITO,AITO M5,2023,38600,38330,Excellent,Phnom Penh,Silver,40,200 PHEV,200,4.8,GB-T/CCS2,Private,10-10-2023,10,345,khmer24.com,Historical
+AITO,AITO M5,2023,40100,40154,Excellent,Battambang,Red,40,200 PHEV,200,4.8,GB-T/CCS2,Private,02-06-2023,6,401,khmer24.com,Historical
+AITO,AITO M5,2024,45300,31910,Good,Sihanoukville,Black,40,200 PHEV,200,4.8,GB-T/CCS2,Private,25-05-2024,5,374,khmer24.com,Historical
+AITO,AITO M5,2024,45900,22758,Excellent,Phnom Penh,Black,40,200 PHEV,200,4.8,GB-T/CCS2,Dealer,28-02-2024,2,239,khmer24.com,Historical
+AITO,AITO M5,2024,39800,6607,Like New,Phnom Penh,Black,40,200 PHEV,200,4.8,GB-T/CCS2,Authorized Dealer,15-01-2024,1,39,khmer24.com,Historical
+AITO,AITO M5,2025,49200,3066,New,Phnom Penh,Grey,40,200 PHEV,200,4.8,GB-T/CCS2,Dealer,26-11-2025,11,64,khmer24.com,Historical
+AITO,AITO M5,2025,43400,7119,Like New,Phnom Penh,Grey,40,200 PHEV,200,4.8,GB-T/CCS2,Private,27-11-2025,11,453,khmer24.com,Historical
+AITO,AITO M7,2020,39200,81587,Fair,Siem Reap,Black,40,200 PHEV,330,4.8,GB-T/CCS2,Dealer,07-06-2020,6,463,khmer24.com,Historical
+AITO,AITO M7,2021,40900,35407,Excellent,Phnom Penh,Orange,40,200 PHEV,330,4.8,GB-T/CCS2,Authorized Dealer,27-12-2021,12,347,khmer24.com,Historical
+AITO,AITO M7,2021,39300,65527,Fair,Kep,Grey,40,200 PHEV,330,4.8,GB-T/CCS2,Authorized Dealer,18-06-2021,6,277,khmer24.com,Historical
+AITO,AITO M7,2024,54900,18839,Like New,Phnom Penh,Red,40,200 PHEV,330,4.8,GB-T/CCS2,Authorized Dealer,02-02-2024,2,100,khmer24.com,Historical
+AITO,AITO M7,2024,57900,20018,Good,Siem Reap,White,40,200 PHEV,330,4.8,GB-T/CCS2,Authorized Dealer,11-07-2024,7,63,khmer24.com,Historical
+AITO,AITO M7,2025,56600,2246,New,Battambang,White,40,200 PHEV,330,4.8,GB-T/CCS2,Authorized Dealer,12-08-2025,8,56,khmer24.com,Historical
+AITO,AITO M7,2025,57900,4988,New,Preah Vihear,Black,40,200 PHEV,330,4.8,GB-T/CCS2,Private,10-11-2025,11,127,khmer24.com,Historical
+Arcfox,Arcfox Koala S,2021,18700,44088,Good,Kep,Cosmos Black,42.8,301,120,8.5,GB-T/CCS2,Authorized Dealer,17-12-2021,12,207,khmer24.com,Historical
+Arcfox,Arcfox Koala S,2021,18100,31238,Excellent,Kratie,Black,42.8,301,120,8.5,GB-T/CCS2,Dealer,25-06-2021,6,51,khmer24.com,Historical
+Arcfox,Arcfox Koala S,2021,19700,54180,Fair,Phnom Penh,Silver,42.8,301,120,8.5,GB-T/CCS2,Authorized Dealer,22-06-2021,6,226,khmer24.com,Historical
+Arcfox,Arcfox Koala S,2022,19700,45406,Good,Phnom Penh,Black,42.8,301,120,8.5,GB-T/CCS2,Authorized Dealer,04-08-2022,8,457,khmer24.com,Historical
+Arcfox,Arcfox Koala S,2023,23000,35448,Good,Kampong Cham,Cosmos Black,42.8,301,120,8.5,GB-T/CCS2,Authorized Dealer,25-12-2023,12,448,khmer24.com,Historical
+Avatr,Avatr 06,2024,41400,16829,Good,Kep,Green,62.2,420,190,,GB-T/CCS2,Authorized Dealer,06-09-2024,9,218,khmer24.com,Historical
+Avatr,Avatr 06,2025,43300,4419,New,Preah Vihear,Silver,62.2,420,190,,GB-T/CCS2,Authorized Dealer,08-03-2025,3,127,khmer24.com,Historical
+Avatr,Avatr 06,2025,43800,3030,New,Phnom Penh,Green,62.2,420,190,,GB-T/CCS2,Private,20-08-2025,8,490,khmer24.com,Historical
+Avatr,Avatr 06,2025,46500,9723,New,Phnom Penh,White,62.2,420,190,,GB-T/CCS2,Authorized Dealer,16-07-2025,7,249,khmer24.com,Historical
+Avatr,Avatr 07,2021,32000,44535,Good,Kampong Cham,Silver,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Dealer,10-02-2021,2,48,khmer24.com,Historical
+Avatr,Avatr 07,2024,39700,30566,Good,Phnom Penh,White,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Authorized Dealer,15-04-2024,4,161,khmer24.com,Historical
+Avatr,Avatr 07,2025,42900,8824,Like New,Kratie,Black,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Authorized Dealer,15-03-2025,3,240,khmer24.com,Historical
+Avatr,Avatr 07,2025,43300,12500,Excellent,Phnom Penh,Black,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Private,16-03-2025,3,264,khmer24.com,Historical
+Avatr,Avatr 07,2025,42500,3327,New,Kampot,White,62.2/100.5,420-621,190,4.9,GB-T/CCS2,Dealer,12-08-2025,8,179,khmer24.com,Historical
+Avatr,Avatr 11,2021,45400,50880,Excellent,Phnom Penh,Black,90/116,555-700,230,3.9,GB-T/CCS2,Private,22-02-2021,2,401,khmer24.com,Historical
+Avatr,Avatr 11,2021,51000,50297,Excellent,Kampong Cham,Grey,90/116,555-700,230,3.9,GB-T/CCS2,Authorized Dealer,25-02-2021,2,331,khmer24.com,Historical
+Avatr,Avatr 11,2022,58100,32058,Excellent,Phnom Penh,Grey,90/116,555-700,230,3.9,GB-T/CCS2,Dealer,09-02-2022,2,440,khmer24.com,Historical
+Avatr,Avatr 11,2024,58500,18339,Good,Battambang,Grey,90/116,555-700,230,3.9,GB-T/CCS2,Private,15-11-2024,11,77,khmer24.com,Historical
+Avatr,Avatr 11,2024,63300,18441,Good,Phnom Penh,White,90/116,555-700,230,3.9,GB-T/CCS2,Private,16-02-2024,2,43,khmer24.com,Historical
+Avatr,Avatr 11,2025,70000,8978,Excellent,Preah Vihear,Grey,90/116,555-700,230,3.9,GB-T/CCS2,Private,11-03-2025,3,234,khmer24.com,Historical
+Avatr,Avatr 11,2025,70700,6109,Excellent,Kep,White,90/116,555-700,230,3.9,GB-T/CCS2,Private,23-11-2025,11,164,khmer24.com,Historical
+Avatr,Avatr 12,2020,41999,57993,Good,Phnom Penh,White,94.5,650,230,3.9,GB-T/CCS2,Private,10-09-2020,9,445,khmer24.com,Historical
+Avatr,Avatr 12,2023,49500,43556,Good,Phnom Penh,Grey,94.5,650,230,3.9,GB-T/CCS2,Dealer,06-11-2023,11,106,khmer24.com,Historical
+Avatr,Avatr 12,2023,49600,18800,Excellent,Preah Vihear,White,94.5,650,230,3.9,GB-T/CCS2,Authorized Dealer,11-04-2023,4,233,khmer24.com,Historical
+BMW,BMW iX1,2020,39400,66514,Fair,Kampong Cham,Silver,64.7,417,150,8.6,GB-T/CCS2,Dealer,23-12-2020,12,16,khmer24.com,Historical
+BMW,BMW iX1,2022,41900,49029,Fair,Kampong Cham,Black,64.7,417,150,8.6,GB-T/CCS2,Dealer,14-04-2022,4,276,khmer24.com,Historical
+BMW,BMW iX1,2023,45900,40375,Excellent,Kampot,White,64.7,417,150,8.6,GB-T/CCS2,Dealer,05-07-2023,7,50,khmer24.com,Historical
+BMW,BMW iX1,2024,52200,17878,Good,Phnom Penh,Cosmos Black,64.7,417,150,8.6,GB-T/CCS2,Dealer,05-10-2024,10,114,khmer24.com,Historical
+BMW,BMW iX1,2024,51600,4238,Like New,Battambang,White,64.7,417,150,8.6,GB-T/CCS2,Private,16-01-2024,1,462,khmer24.com,Historical
+BMW,BMW iX1,2025,57700,7083,Excellent,Kampong Cham,Orange,64.7,417,150,8.6,GB-T/CCS2,Private,20-02-2025,2,45,khmer24.com,Historical
+BMW,BMW iX1,2025,57500,5412,Like New,Phnom Penh,Grey,64.7,417,150,8.6,GB-T/CCS2,Dealer,18-09-2025,9,332,khmer24.com,Historical
+BMW,BMW iX1,2025,59700,7356,Excellent,Kampong Cham,Silver,64.7,417,150,8.6,GB-T/CCS2,Dealer,28-03-2025,3,64,khmer24.com,Historical
+BMW,BMW iX1,2025,60900,8171,Excellent,Battambang,Grey,64.7,417,150,8.6,GB-T/CCS2,Dealer,16-02-2025,2,203,khmer24.com,Historical
+BYD,BYD Atto 2,2022,18300,56007,Fair,Kampong Cham,Orange,45.1,312-401,130,7.9,GB-T/CCS2,Authorized Dealer,10-05-2022,5,260,khmer24.com,Historical
+BYD,BYD Atto 2,2023,18900,10918,Like New,Phnom Penh,Black,45.1,312-401,130,7.9,GB-T/CCS2,Authorized Dealer,02-07-2023,7,477,khmer24.com,Historical
+BYD,BYD Atto 2,2023,19700,32242,Excellent,Siem Reap,Cosmos Black,45.1,312-401,130,7.9,GB-T/CCS2,Authorized Dealer,22-08-2023,8,364,khmer24.com,Historical
+BYD,BYD Atto 2,2024,20700,9933,Like New,Phnom Penh,White,45.1,312-401,130,7.9,GB-T/CCS2,Dealer,15-11-2024,11,477,khmer24.com,Historical
+BYD,BYD Atto 2,2024,20600,31273,Good,Battambang,Black,45.1,312-401,130,7.9,GB-T/CCS2,Dealer,27-03-2024,3,254,khmer24.com,Historical
+BYD,BYD Atto 2,2024,21200,18391,Good,Koh Kong,Black,45.1,312-401,130,7.9,GB-T/CCS2,Dealer,10-07-2024,7,264,khmer24.com,Historical
+BYD,BYD Atto 2,2024,20300,4670,Like New,Phnom Penh,Blue,45.1,312-401,130,7.9,GB-T/CCS2,Private,08-05-2024,5,387,khmer24.com,Historical
+BYD,BYD Atto 2,2025,22500,3857,Like New,Sihanoukville,White,45.1,312-401,130,7.9,GB-T/CCS2,Dealer,17-03-2025,3,398,khmer24.com,Historical
+BYD,BYD Atto 2,2025,21300,9701,Excellent,Siem Reap,Black,45.1,312-401,130,7.9,GB-T/CCS2,Authorized Dealer,06-10-2025,10,309,khmer24.com,Historical
+BYD,BYD Atto 2,2025,21600,2393,New,Kampong Cham,Silver,45.1,312-401,130,7.9,GB-T/CCS2,Dealer,09-11-2025,11,212,khmer24.com,Historical
+BYD,BYD Atto 2,2025,23000,3525,New,Battambang,Green,45.1,312-401,130,7.9,GB-T/CCS2,Private,19-04-2025,4,86,khmer24.com,Historical
+BYD,BYD Atto 3,2020,21400,83392,Good,Kratie,Silver,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,25-06-2020,6,90,khmer24.com,Historical
+BYD,BYD Atto 3,2021,23600,41805,Good,Phnom Penh,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,22-04-2021,4,37,khmer24.com,Historical
+BYD,BYD Atto 3,2021,22900,69138,Fair,Battambang,Cosmos Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,19-12-2021,12,359,khmer24.com,Historical
+BYD,BYD Atto 3,2021,24100,79007,Fair,Kampong Cham,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,11-06-2021,6,371,khmer24.com,Historical
+BYD,BYD Atto 3,2022,24100,55332,Good,Koh Kong,Cosmos Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,03-11-2022,11,109,khmer24.com,Historical
+BYD,BYD Atto 3,2022,22900,54021,Fair,Kep,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,05-05-2022,5,273,khmer24.com,Historical
+BYD,BYD Atto 3,2023,24100,20419,Like New,Siem Reap,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,01-11-2023,11,125,khmer24.com,Historical
+BYD,BYD Atto 3,2023,23600,17905,Like New,Battambang,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,22-03-2023,3,478,khmer24.com,Historical
+BYD,BYD Atto 3,2023,23000,47271,Good,Phnom Penh,Blue,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,01-02-2023,2,377,khmer24.com,Historical
+BYD,BYD Atto 3,2023,27500,30353,Excellent,Phnom Penh,Red,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,16-08-2023,8,33,khmer24.com,Historical
+BYD,BYD Atto 3,2023,23400,33477,Good,Sihanoukville,Grey,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,17-12-2023,12,386,khmer24.com,Historical
+BYD,BYD Atto 3,2023,26200,30900,Good,Kratie,Blue,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,07-01-2023,1,346,khmer24.com,Historical
+BYD,BYD Atto 3,2023,24600,21681,Excellent,Phnom Penh,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,27-06-2023,6,84,khmer24.com,Historical
+BYD,BYD Atto 3,2024,24900,3656,Like New,Phnom Penh,Cosmos Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,11-06-2024,6,248,khmer24.com,Historical
+BYD,BYD Atto 3,2024,28300,18343,Like New,Siem Reap,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,14-03-2024,3,183,khmer24.com,Historical
+BYD,BYD Atto 3,2024,26500,22855,Excellent,Phnom Penh,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,10-12-2024,12,108,khmer24.com,Historical
+BYD,BYD Atto 3,2024,26600,18423,Excellent,Battambang,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,23-09-2024,9,330,khmer24.com,Historical
+BYD,BYD Atto 3,2024,28300,19572,Like New,Phnom Penh,Silver,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,12-10-2024,10,442,khmer24.com,Historical
+BYD,BYD Atto 3,2024,29800,16268,Like New,Sihanoukville,Silver,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,03-05-2024,5,348,khmer24.com,Historical
+BYD,BYD Atto 3,2025,30700,12245,Excellent,Preah Vihear,Red,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,21-05-2025,5,384,khmer24.com,Historical
+BYD,BYD Atto 3,2025,28600,8418,Excellent,Siem Reap,Blue,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,20-10-2025,10,85,khmer24.com,Historical
+BYD,BYD Atto 3,2025,31800,1166,New,Kampot,Grey,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,10-08-2025,8,260,khmer24.com,Historical
+BYD,BYD Atto 3,2025,28400,6850,Excellent,Phnom Penh,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,01-02-2025,2,250,khmer24.com,Historical
+BYD,BYD Atto 3,2025,30800,4869,New,Phnom Penh,Green,50/60.5,340-420,150,7.3,GB-T/CCS2,Authorized Dealer,25-09-2025,9,286,khmer24.com,Historical
+BYD,BYD Atto 3,2025,28700,4115,New,Phnom Penh,Black,50/60.5,340-420,150,7.3,GB-T/CCS2,Private,11-06-2025,6,159,khmer24.com,Historical
+BYD,BYD Atto 3,2025,26600,7373,Like New,Phnom Penh,White,50/60.5,340-420,150,7.3,GB-T/CCS2,Dealer,03-09-2025,9,328,khmer24.com,Historical
+BYD,BYD Dolphin,2020,18800,72328,Good,Phnom Penh,Pearl White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,18-11-2020,11,111,khmer24.com,Historical
+BYD,BYD Dolphin,2022,20900,54773,Good,Siem Reap,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,04-06-2022,6,318,khmer24.com,Historical
+BYD,BYD Dolphin,2022,20800,35888,Good,Battambang,Silver,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,18-06-2022,6,18,khmer24.com,Historical
+BYD,BYD Dolphin,2022,21400,50246,Excellent,Siem Reap,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,01-08-2022,8,61,khmer24.com,Historical
+BYD,BYD Dolphin,2022,18400,50723,Good,Phnom Penh,White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,28-03-2022,3,437,khmer24.com,Historical
+BYD,BYD Dolphin,2023,21900,32310,Excellent,Kampot,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Private,14-11-2023,11,462,khmer24.com,Historical
+BYD,BYD Dolphin,2023,20400,3323,Like New,Phnom Penh,White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Private,24-11-2023,11,162,khmer24.com,Historical
+BYD,BYD Dolphin,2023,22200,27861,Excellent,Phnom Penh,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,15-06-2023,6,77,khmer24.com,Historical
+BYD,BYD Dolphin,2023,20900,42503,Good,Siem Reap,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,12-03-2023,3,303,khmer24.com,Historical
+BYD,BYD Dolphin,2024,25300,12434,Like New,Phnom Penh,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,28-06-2024,6,194,khmer24.com,Historical
+BYD,BYD Dolphin,2024,22500,14700,Excellent,Phnom Penh,White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,21-07-2024,7,70,khmer24.com,Historical
+BYD,BYD Dolphin,2024,24100,25333,Good,Phnom Penh,Red,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,20-07-2024,7,356,khmer24.com,Historical
+BYD,BYD Dolphin,2024,23900,16018,Excellent,Phnom Penh,Blue,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,15-08-2024,8,85,khmer24.com,Historical
+BYD,BYD Dolphin,2024,22700,32000,Good,Phnom Penh,Pearl White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Private,11-05-2024,5,15,khmer24.com,Historical
+BYD,BYD Dolphin,2025,27600,2497,New,Phnom Penh,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Private,03-09-2025,9,491,khmer24.com,Historical
+BYD,BYD Dolphin,2025,26700,10452,Excellent,Siem Reap,Pearl White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,24-12-2025,12,316,khmer24.com,Historical
+BYD,BYD Dolphin,2025,25700,2203,New,Phnom Penh,White,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,21-08-2025,8,248,khmer24.com,Historical
+BYD,BYD Dolphin,2025,23300,7140,Excellent,Preah Vihear,Silver,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,12-02-2025,2,193,khmer24.com,Historical
+BYD,BYD Dolphin,2025,24500,4445,New,Preah Vihear,Blue,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,04-07-2025,7,290,khmer24.com,Historical
+BYD,BYD Dolphin,2025,26600,12008,Excellent,Kratie,Silver,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,06-01-2025,1,442,khmer24.com,Historical
+BYD,BYD Dolphin,2025,27600,13776,Excellent,Kampong Cham,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,12-12-2025,12,241,khmer24.com,Historical
+BYD,BYD Dolphin,2025,22900,1852,New,Siem Reap,Red,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,06-06-2025,6,371,khmer24.com,Historical
+BYD,BYD Dolphin,2025,27700,214,New,Koh Kong,Silver,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Authorized Dealer,03-12-2025,12,23,khmer24.com,Historical
+BYD,BYD Dolphin,2025,23900,12869,Excellent,Siem Reap,Black,44.9/60.5,310-420,70,7.5,GB-T/CCS2,Dealer,23-02-2025,2,30,khmer24.com,Historical
+BYD,BYD Han,2020,33200,62153,Fair,Phnom Penh,Silver,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,21-01-2020,1,459,khmer24.com,Historical
+BYD,BYD Han,2021,54100,31189,Excellent,Koh Kong,Blue,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,13-12-2021,12,443,khmer24.com,Historical
+BYD,BYD Han,2021,44200,75778,Good,Phnom Penh,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,23-07-2021,7,53,khmer24.com,Historical
+BYD,BYD Han,2021,39000,89664,Fair,Kampot,Green,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,18-04-2021,4,181,khmer24.com,Historical
+BYD,BYD Han,2022,43100,41538,Good,Phnom Penh,Black,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,24-04-2022,4,344,khmer24.com,Historical
+BYD,BYD Han,2023,47600,26891,Excellent,Phnom Penh,Blue,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,10-09-2023,9,462,khmer24.com,Historical
+BYD,BYD Han,2023,55600,17277,Like New,Phnom Penh,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,12-01-2023,1,57,khmer24.com,Historical
+BYD,BYD Han,2024,65600,22660,Good,Kampot,Grey,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,02-10-2024,10,37,khmer24.com,Historical
+BYD,BYD Han,2024,64500,21988,Good,Sihanoukville,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Authorized Dealer,13-04-2024,4,357,khmer24.com,Historical
+BYD,BYD Han,2024,55800,17265,Like New,Phnom Penh,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,11-10-2024,10,238,khmer24.com,Historical
+BYD,BYD Han,2024,66300,18498,Like New,Phnom Penh,Pearl White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,08-11-2024,11,405,khmer24.com,Historical
+BYD,BYD Han,2025,44400,8251,Excellent,Phnom Penh,Silver,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Private,17-07-2025,7,432,khmer24.com,Historical
+BYD,BYD Han,2025,54500,7797,Like New,Battambang,White,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,17-11-2025,11,449,khmer24.com,Historical
+BYD,BYD Han,2025,60900,3062,Like New,Battambang,Black,76.9/85.4,500-610,180,3.9,GB-T/CCS2,Dealer,11-03-2025,3,132,khmer24.com,Historical
+BYD,BYD M9,2022,45300,53933,Fair,Phnom Penh,White,52,180 PHEV,180,,GB-T/CCS2,Dealer,17-03-2022,3,358,khmer24.com,Historical
+BYD,BYD M9,2024,52100,5372,Like New,Phnom Penh,Black,52,180 PHEV,180,,GB-T/CCS2,Private,14-02-2024,2,251,khmer24.com,Historical
+BYD,BYD M9,2024,52400,20595,Excellent,Phnom Penh,Silver,52,180 PHEV,180,,GB-T/CCS2,Private,26-03-2024,3,111,khmer24.com,Historical
+BYD,BYD M9,2025,56100,11077,Excellent,Phnom Penh,Black,52,180 PHEV,180,,GB-T/CCS2,Private,12-07-2025,7,142,khmer24.com,Historical
+BYD,BYD M9,2025,55800,1748,New,Preah Vihear,Blue,52,180 PHEV,180,,GB-T/CCS2,Dealer,17-03-2025,3,349,khmer24.com,Historical
+BYD,BYD Qin L,2023,16600,13802,Like New,Phnom Penh,Silver,15.9,120 PHEV,145,7.9,GB-T/CCS2,Private,18-08-2023,8,166,khmer24.com,Historical
+BYD,BYD Qin L,2024,17000,17193,Good,Kampot,Silver,15.9,120 PHEV,145,7.9,GB-T/CCS2,Authorized Dealer,19-08-2024,8,448,khmer24.com,Historical
+BYD,BYD Qin L,2024,21200,25920,Good,Phnom Penh,Black,15.9,120 PHEV,145,7.9,GB-T/CCS2,Private,14-08-2024,8,318,khmer24.com,Historical
+BYD,BYD Qin L,2024,29800,22053,New,Phnom Penh,Grey,15.9,120 PHEV,145,7.9,GB-T/CCS2,Private,19-10-2024,10,271,khmer24.com,Historical
+BYD,BYD Qin L,2024,20700,7836,Like New,Phnom Penh,Black,15.9,120 PHEV,145,7.9,GB-T/CCS2,Authorized Dealer,08-08-2024,8,241,khmer24.com,Historical
+BYD,BYD Qin L,2025,19100,9212,Excellent,Phnom Penh,Silver,15.9,120 PHEV,145,7.9,GB-T/CCS2,Private,10-11-2025,11,299,khmer24.com,Historical
+BYD,BYD Seagull,2021,14900,74907,Good,Kratie,White,30/38.88,190-305,55,,GB-T/CCS2,Dealer,02-12-2021,12,222,khmer24.com,Historical
+BYD,BYD Seagull,2022,15600,40471,Fair,Phnom Penh,Silver,30/38.88,190-305,55,,GB-T/CCS2,Dealer,25-05-2022,5,90,khmer24.com,Historical
+BYD,BYD Seagull,2023,16100,18493,Excellent,Preah Vihear,Black,30/38.88,190-305,55,,GB-T/CCS2,Dealer,09-12-2023,12,56,khmer24.com,Historical
+BYD,BYD Seagull,2024,17100,24606,Good,Phnom Penh,Black,30/38.88,190-305,55,,GB-T/CCS2,Private,20-12-2024,12,435,khmer24.com,Historical
+BYD,BYD Seagull,2024,18100,30101,Good,Phnom Penh,Black,30/38.88,190-305,55,,GB-T/CCS2,Private,02-07-2024,7,136,khmer24.com,Historical
+BYD,BYD Seagull,2024,19800,4952,Like New,Phnom Penh,Silver,30/38.88,190-305,55,,GB-T/CCS2,Authorized Dealer,05-07-2024,7,74,khmer24.com,Historical
+BYD,BYD Seagull,2024,16800,25624,Good,Siem Reap,Black,30/38.88,190-305,55,,GB-T/CCS2,Authorized Dealer,12-09-2024,9,89,khmer24.com,Historical
+BYD,BYD Seagull,2024,18900,19574,Excellent,Siem Reap,White,30/38.88,190-305,55,,GB-T/CCS2,Dealer,03-07-2024,7,425,khmer24.com,Historical
+BYD,BYD Seagull,2024,16000,22124,Good,Preah Vihear,Green,30/38.88,190-305,55,,GB-T/CCS2,Private,24-09-2024,9,221,khmer24.com,Historical
+BYD,BYD Seagull,2024,17000,18069,Excellent,Phnom Penh,Silver,30/38.88,190-305,55,,GB-T/CCS2,Dealer,19-01-2024,1,369,khmer24.com,Historical
+BYD,BYD Seagull,2024,16200,19639,Good,Phnom Penh,Cosmos Black,30/38.88,190-305,55,,GB-T/CCS2,Private,20-11-2024,11,304,khmer24.com,Historical
+BYD,BYD Seagull,2024,16400,12280,Like New,Phnom Penh,Silver,30/38.88,190-305,55,,GB-T/CCS2,Authorized Dealer,12-02-2024,2,321,khmer24.com,Historical
+BYD,BYD Seagull,2024,16800,23351,Excellent,Preah Vihear,White,30/38.88,190-305,55,,GB-T/CCS2,Authorized Dealer,01-11-2024,11,432,khmer24.com,Historical
+BYD,BYD Seagull,2024,19100,8428,Like New,Phnom Penh,White,30/38.88,190-305,55,,GB-T/CCS2,Private,22-06-2024,6,68,khmer24.com,Historical
+BYD,BYD Seagull,2024,18200,7264,Like New,Phnom Penh,White,30/38.88,190-305,55,,GB-T/CCS2,Private,06-06-2024,6,441,khmer24.com,Historical
+BYD,BYD Seagull,2025,20100,7583,Excellent,Siem Reap,White,30/38.88,190-305,55,,GB-T/CCS2,Private,11-06-2025,6,277,khmer24.com,Historical
+BYD,BYD Seagull,2025,18700,3542,New,Kratie,Pearl White,30/38.88,190-305,55,,GB-T/CCS2,Dealer,02-09-2025,9,410,khmer24.com,Historical
+BYD,BYD Seagull,2025,19300,1533,New,Phnom Penh,Red,30/38.88,190-305,55,,GB-T/CCS2,Authorized Dealer,12-07-2025,7,330,khmer24.com,Historical
+BYD,BYD Seagull,2025,20000,3111,New,Preah Vihear,White,30/38.88,190-305,55,,GB-T/CCS2,Dealer,09-04-2025,4,21,khmer24.com,Historical
+BYD,BYD Seagull,2025,17500,11955,Excellent,Phnom Penh,White,30/38.88,190-305,55,,GB-T/CCS2,Private,09-04-2025,4,67,khmer24.com,Historical
+BYD,BYD Seagull,2025,19200,2828,New,Phnom Penh,Black,30/38.88,190-305,55,,GB-T/CCS2,Private,16-08-2025,8,429,khmer24.com,Historical
+BYD,BYD Seal,2021,28700,80994,Fair,Phnom Penh,Black,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Authorized Dealer,26-01-2021,1,208,khmer24.com,Historical
+BYD,BYD Seal,2022,30100,52534,Good,Phnom Penh,Cosmos Black,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,16-01-2022,1,469,khmer24.com,Historical
+BYD,BYD Seal,2022,29100,58287,Good,Battambang,Silver,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Authorized Dealer,27-05-2022,5,440,khmer24.com,Historical
+BYD,BYD Seal,2023,29900,15783,Like New,Phnom Penh,Blue,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Dealer,22-02-2023,2,320,khmer24.com,Historical
+BYD,BYD Seal,2024,31100,31902,Good,Battambang,White,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Dealer,26-06-2024,6,52,khmer24.com,Historical
+BYD,BYD Seal,2024,31900,10627,Like New,Phnom Penh,Grey,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,27-08-2024,8,449,khmer24.com,Historical
+BYD,BYD Seal,2024,34600,24603,Excellent,Battambang,Silver,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,05-06-2024,6,161,khmer24.com,Historical
+BYD,BYD Seal,2024,34000,14704,Like New,Phnom Penh,Cosmos Black,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Authorized Dealer,09-10-2024,10,463,khmer24.com,Historical
+BYD,BYD Seal,2024,35300,17287,Like New,Kep,Pearl White,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,15-02-2024,2,300,khmer24.com,Historical
+BYD,BYD Seal,2024,33100,7719,Like New,Kampong Cham,Black,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,02-12-2024,12,243,khmer24.com,Historical
+BYD,BYD Seal,2025,38200,6847,Like New,Kampot,Silver,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,08-12-2025,12,203,khmer24.com,Historical
+BYD,BYD Seal,2025,35100,11479,Excellent,Sihanoukville,Grey,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Authorized Dealer,05-07-2025,7,189,khmer24.com,Historical
+BYD,BYD Seal,2025,23500,87,Like New,Phnom Penh,White,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,28-06-2025,6,459,khmer24.com,Historical
+BYD,BYD Seal,2025,18300,1134,Good,Phnom Penh,Beige,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,01-11-2025,11,231,khmer24.com,Historical
+BYD,BYD Seal,2025,23800,8257,New,Phnom Penh,White,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Dealer,21-10-2025,10,412,khmer24.com,Historical
+BYD,BYD Seal,2025,34900,11766,Excellent,Phnom Penh,Silver,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Private,03-12-2025,12,410,khmer24.com,Historical
+BYD,BYD Seal,2025,38000,12352,Excellent,Kampong Cham,Grey,61.4/82.5,400-550,150,3.8,GB-T/CCS2,Authorized Dealer,02-01-2025,1,202,khmer24.com,Historical
+BYD,BYD Seal 5,2022,16500,54164,Fair,Battambang,Silver,15.8,80 PHEV,110,7.9,GB-T/CCS2,Private,05-02-2022,2,319,khmer24.com,Historical
+BYD,BYD Seal 5,2022,16100,42828,Excellent,Phnom Penh,Black,15.8,80 PHEV,110,7.9,GB-T/CCS2,Authorized Dealer,18-11-2022,11,34,khmer24.com,Historical
+BYD,BYD Seal 5,2022,15500,37210,Good,Siem Reap,White,15.8,80 PHEV,110,7.9,GB-T/CCS2,Dealer,14-08-2022,8,390,khmer24.com,Historical
+BYD,BYD Seal 5,2023,17600,32041,Excellent,Siem Reap,Black,15.8,80 PHEV,110,7.9,GB-T/CCS2,Private,12-06-2023,6,344,khmer24.com,Historical
+BYD,BYD Seal 5,2024,19600,3901,Like New,Phnom Penh,Blue,15.8,80 PHEV,110,7.9,GB-T/CCS2,Private,01-02-2024,2,258,khmer24.com,Historical
+BYD,BYD Seal 5,2024,19300,27979,Good,Preah Vihear,Cosmos Black,15.8,80 PHEV,110,7.9,GB-T/CCS2,Authorized Dealer,21-04-2024,4,148,khmer24.com,Historical
+BYD,BYD Seal 5,2024,18300,14693,Excellent,Siem Reap,Black,15.8,80 PHEV,110,7.9,GB-T/CCS2,Private,21-08-2024,8,135,khmer24.com,Historical
+BYD,BYD Seal 5,2025,20500,2910,New,Phnom Penh,White,15.8,80 PHEV,110,7.9,GB-T/CCS2,Private,16-07-2025,7,477,khmer24.com,Historical
+BYD,BYD Seal 5,2025,19000,196,New,Siem Reap,Black,15.8,80 PHEV,110,7.9,GB-T/CCS2,Private,06-10-2025,10,477,khmer24.com,Historical
+BYD,BYD Seal 5,2025,19100,10913,Excellent,Kampot,Silver,15.8,80 PHEV,110,7.9,GB-T/CCS2,Dealer,21-08-2025,8,108,khmer24.com,Historical
+BYD,BYD Seal 5,2025,20100,7205,Excellent,Phnom Penh,Red,15.8,80 PHEV,110,7.9,GB-T/CCS2,Dealer,01-11-2025,11,466,khmer24.com,Historical
+BYD,BYD Sealion 5,2022,20000,37849,Good,Battambang,White,60/72.8,410-520,150,7.5,GB-T/CCS2,Authorized Dealer,27-08-2022,8,196,khmer24.com,Historical
+BYD,BYD Sealion 5,2023,21600,33982,Excellent,Sihanoukville,Blue,60/72.8,410-520,150,7.5,GB-T/CCS2,Authorized Dealer,17-09-2023,9,439,khmer24.com,Historical
+BYD,BYD Sealion 5,2023,21700,18307,Excellent,Preah Vihear,Silver,60/72.8,410-520,150,7.5,GB-T/CCS2,Dealer,13-03-2023,3,415,khmer24.com,Historical
+BYD,BYD Sealion 5,2024,22900,16397,Like New,Preah Vihear,Blue,60/72.8,410-520,150,7.5,GB-T/CCS2,Dealer,17-12-2024,12,271,khmer24.com,Historical
+BYD,BYD Sealion 5,2025,24500,13044,Excellent,Siem Reap,Orange,60/72.8,410-520,150,7.5,GB-T/CCS2,Authorized Dealer,02-10-2025,10,131,khmer24.com,Historical
+BYD,BYD Sealion 5,2025,24600,1834,New,Battambang,White,60/72.8,410-520,150,7.5,GB-T/CCS2,Private,15-02-2025,2,322,khmer24.com,Historical
+BYD,BYD Sealion 5,2025,24700,1561,New,Battambang,Silver,60/72.8,410-520,150,7.5,GB-T/CCS2,Authorized Dealer,24-07-2025,7,339,khmer24.com,Historical
+BYD,BYD Sealion 6,2020,30700,94972,Fair,Phnom Penh,Grey,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,14-11-2020,11,179,khmer24.com,Historical
+BYD,BYD Sealion 6,2020,29600,46315,Excellent,Phnom Penh,White,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,04-02-2020,2,415,khmer24.com,Historical
+BYD,BYD Sealion 6,2020,29329,89740,Fair,Phnom Penh,Black,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,12-10-2020,10,41,khmer24.com,Historical
+BYD,BYD Sealion 6,2020,29329,79266,Fair,Phnom Penh,Black,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,20-12-2020,12,332,khmer24.com,Historical
+BYD,BYD Sealion 6,2022,36000,28048,Excellent,Sihanoukville,White,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,28-08-2022,8,314,khmer24.com,Historical
+BYD,BYD Sealion 6,2024,37900,15065,Like New,Battambang,Black,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,11-03-2024,3,197,khmer24.com,Historical
+BYD,BYD Sealion 6,2024,42100,3629,Like New,Kampot,White,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,01-12-2024,12,106,khmer24.com,Historical
+BYD,BYD Sealion 6,2024,37500,26153,Good,Siem Reap,White,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Private,26-12-2024,12,89,khmer24.com,Historical
+BYD,BYD Sealion 6,2024,42200,3314,Like New,Phnom Penh,Blue,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,15-11-2024,11,44,khmer24.com,Historical
+BYD,BYD Sealion 6,2025,41500,8247,Excellent,Sihanoukville,Red,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,17-12-2025,12,317,khmer24.com,Historical
+BYD,BYD Sealion 6,2025,46100,7119,Excellent,Kampong Cham,Blue,18.3,80-100 PHEV,145,8.5,GB-T/CCS2,Dealer,15-06-2025,6,213,khmer24.com,Historical
+BYD,BYD Sealion 7,2022,31600,54921,Excellent,Siem Reap,Green,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Dealer,28-02-2022,2,256,khmer24.com,Historical
+BYD,BYD Sealion 7,2022,30300,51292,Good,Phnom Penh,Grey,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Authorized Dealer,28-12-2022,12,349,khmer24.com,Historical
+BYD,BYD Sealion 7,2023,33600,18006,Like New,Siem Reap,Grey,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Dealer,09-12-2023,12,123,khmer24.com,Historical
+BYD,BYD Sealion 7,2023,34500,12978,Like New,Preah Vihear,Silver,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Dealer,01-10-2023,10,349,khmer24.com,Historical
+BYD,BYD Sealion 7,2023,32300,38271,Good,Battambang,Silver,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Authorized Dealer,07-03-2023,3,73,khmer24.com,Historical
+BYD,BYD Sealion 7,2024,36400,16979,Excellent,Sihanoukville,White,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Authorized Dealer,08-08-2024,8,91,khmer24.com,Historical
+BYD,BYD Sealion 7,2024,34700,20829,Good,Sihanoukville,Blue,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Authorized Dealer,11-05-2024,5,82,khmer24.com,Historical
+BYD,BYD Sealion 7,2025,39200,12725,Excellent,Koh Kong,Black,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Authorized Dealer,07-09-2025,9,155,khmer24.com,Historical
+BYD,BYD Sealion 7,2025,37200,2499,New,Kampong Cham,Blue,71.8/91.3,460-567,230,4.5,GB-T/CCS2,Private,22-07-2025,7,119,khmer24.com,Historical
+BYD,BYD Song Plus,2020,20400,51285,Good,Phnom Penh,Pearl White,18.3,110 PHEV,145,8.5,GB-T/CCS2,Private,07-02-2020,2,437,khmer24.com,Historical
+BYD,BYD Song Plus,2023,24800,4170,Like New,Phnom Penh,Black,18.3,110 PHEV,145,8.5,GB-T/CCS2,Private,20-03-2023,3,415,khmer24.com,Historical
+BYD,BYD Song Plus,2024,30500,12828,Excellent,Phnom Penh,Green,18.3,110 PHEV,145,8.5,GB-T/CCS2,Dealer,21-10-2024,10,407,khmer24.com,Historical
+BYD,BYD Song Plus,2025,34800,5523,Used,Phnom Penh,Grey,18.3,110 PHEV,145,8.5,GB-T/CCS2,Private,26-07-2025,7,242,khmer24.com,Historical
+BYD,BYD Song Plus,2025,30400,13780,Excellent,Kampong Cham,Blue,18.3,110 PHEV,145,8.5,GB-T/CCS2,Authorized Dealer,14-12-2025,12,455,khmer24.com,Historical
+BYD,BYD Song Plus,2025,32500,642,New,Kampot,Black,18.3,110 PHEV,145,8.5,GB-T/CCS2,Dealer,21-01-2025,1,20,khmer24.com,Historical
+BYD,BYD Tang,2021,51200,55037,Fair,Kampong Cham,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,07-05-2021,5,169,khmer24.com,Historical
+BYD,BYD Tang,2022,47700,55448,Good,Battambang,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,24-01-2022,1,235,khmer24.com,Historical
+BYD,BYD Tang,2024,60000,10531,Like New,Sihanoukville,Cosmos Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,06-05-2024,5,179,khmer24.com,Historical
+BYD,BYD Tang,2024,65500,10071,Like New,Phnom Penh,Grey,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,03-10-2024,10,174,khmer24.com,Historical
+BYD,BYD Tang,2024,55000,26744,Good,Phnom Penh,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,23-01-2024,1,400,khmer24.com,Historical
+BYD,BYD Tang,2024,65600,8651,Like New,Phnom Penh,Cosmos Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,09-09-2024,9,125,khmer24.com,Historical
+BYD,BYD Tang,2024,39000,14295,Excellent,Phnom Penh,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,19-09-2024,9,89,khmer24.com,Historical
+BYD,BYD Tang,2025,58900,7917,Excellent,Phnom Penh,White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,12-05-2025,5,145,khmer24.com,Historical
+BYD,BYD Tang,2025,63500,6614,Like New,Battambang,Blue,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,08-09-2025,9,281,khmer24.com,Historical
+BYD,BYD Tang,2025,70400,276,New,Phnom Penh,White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Authorized Dealer,02-05-2025,5,33,khmer24.com,Historical
+BYD,BYD Tang,2025,62500,4234,New,Sihanoukville,Silver,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Dealer,14-11-2025,11,73,khmer24.com,Historical
+BYD,BYD Tang,2025,70900,8602,Excellent,Siem Reap,White,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,07-12-2025,12,128,khmer24.com,Historical
+BYD,BYD Tang,2025,60400,4260,New,Phnom Penh,Black,86.4/108.8,400-530,180,4.6,GB-T/CCS2,Private,22-02-2025,2,287,khmer24.com,Historical
+Deepal,Deepal L07,2020,30939,73730,Excellent,Preah Vihear,Blue,31.6,200 PHEV,160,7.3,GB-T/CCS2,Dealer,04-06-2020,6,409,khmer24.com,Historical
+Deepal,Deepal L07,2022,33700,52104,Good,Battambang,Green,31.6,200 PHEV,160,7.3,GB-T/CCS2,Dealer,23-07-2022,7,191,khmer24.com,Historical
+Deepal,Deepal L07,2022,35400,43665,Fair,Koh Kong,Grey,31.6,200 PHEV,160,7.3,GB-T/CCS2,Authorized Dealer,17-06-2022,6,483,khmer24.com,Historical
+Deepal,Deepal L07,2023,39200,35437,Excellent,Phnom Penh,Silver,31.6,200 PHEV,160,7.3,GB-T/CCS2,Dealer,06-07-2023,7,296,khmer24.com,Historical
+Deepal,Deepal L07,2025,42700,13740,Excellent,Phnom Penh,Green,31.6,200 PHEV,160,7.3,GB-T/CCS2,Authorized Dealer,02-01-2025,1,410,khmer24.com,Historical
+Deepal,Deepal L07,2025,45200,6643,Like New,Phnom Penh,Black,31.6,200 PHEV,160,7.3,GB-T/CCS2,Dealer,05-05-2025,5,163,khmer24.com,Historical
+Deepal,Deepal L07,2025,43600,2507,New,Siem Reap,Grey,31.6,200 PHEV,160,7.3,GB-T/CCS2,Private,20-01-2025,1,229,khmer24.com,Historical
+Deepal,Deepal S07,2020,34440,47307,Excellent,Battambang,Silver,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Authorized Dealer,03-02-2020,2,429,khmer24.com,Historical
+Deepal,Deepal S07,2021,37700,65124,Excellent,Kampong Cham,Silver,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Dealer,07-01-2021,1,238,khmer24.com,Historical
+Deepal,Deepal S07,2025,48400,112,New,Preah Vihear,White,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Dealer,05-12-2025,12,81,khmer24.com,Historical
+Deepal,Deepal S07,2025,50200,13999,Excellent,Battambang,Red,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Authorized Dealer,15-02-2025,2,58,khmer24.com,Historical
+Deepal,Deepal S07,2025,46300,6195,Excellent,Phnom Penh,White,31.6/80,200 PHEV,190,6.7,GB-T/CCS2,Dealer,10-08-2025,8,163,khmer24.com,Historical
+Denza,Denza D9,2021,55700,73097,Fair,Phnom Penh,Blue,103,600,230,6.9,GB-T/CCS2,Private,06-01-2021,1,408,khmer24.com,Historical
+Denza,Denza D9,2022,64800,47925,Excellent,Phnom Penh,Silver,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,12-03-2022,3,87,khmer24.com,Historical
+Denza,Denza D9,2023,71100,39607,Good,Kampot,Red,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,10-08-2023,8,454,khmer24.com,Historical
+Denza,Denza D9,2023,70300,32666,Excellent,Sihanoukville,White,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,01-07-2023,7,377,khmer24.com,Historical
+Denza,Denza D9,2023,71400,30232,Excellent,Phnom Penh,Red,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,02-09-2023,9,82,khmer24.com,Historical
+Denza,Denza D9,2023,67900,38866,Excellent,Phnom Penh,White,103,600,230,6.9,GB-T/CCS2,Private,24-10-2023,10,286,khmer24.com,Historical
+Denza,Denza D9,2024,79200,24502,Excellent,Phnom Penh,Cosmos Black,103,600,230,6.9,GB-T/CCS2,Dealer,08-11-2024,11,32,khmer24.com,Historical
+Denza,Denza D9,2024,79200,23819,Excellent,Phnom Penh,White,103,600,230,6.9,GB-T/CCS2,Authorized Dealer,14-05-2024,5,275,khmer24.com,Historical
+Denza,Denza D9,2025,79500,9022,Like New,Battambang,Grey,103,600,230,6.9,GB-T/CCS2,Dealer,05-04-2025,4,279,khmer24.com,Historical
+Geely,Geely E5,2021,19600,53008,Good,Phnom Penh,Grey,60.2,430,150,,GB-T/CCS2,Authorized Dealer,10-04-2021,4,458,khmer24.com,Historical
+Geely,Geely E5,2024,24000,25381,Good,Sihanoukville,Silver,60.2,430,150,,GB-T/CCS2,Private,12-07-2024,7,22,khmer24.com,Historical
+Geely,Geely E5,2024,24400,30113,Good,Battambang,Black,60.2,430,150,,GB-T/CCS2,Dealer,06-02-2024,2,129,khmer24.com,Historical
+Geely,Geely E5,2025,24900,2412,New,Kampot,Red,60.2,430,150,,GB-T/CCS2,Authorized Dealer,13-06-2025,6,98,khmer24.com,Historical
+Geely,Geely E5,2025,25500,4368,New,Phnom Penh,Grey,60.2,430,150,,GB-T/CCS2,Private,21-07-2025,7,117,khmer24.com,Historical
+Geely,Geely E5,2025,25800,11643,Excellent,Phnom Penh,White,60.2,430,150,,GB-T/CCS2,Private,08-01-2025,1,92,khmer24.com,Historical
+Honda,Honda eNP2,2020,13900,78911,Fair,Koh Kong,Grey,61.3,412,150,,GB-T/CCS2,Dealer,21-04-2020,4,400,khmer24.com,Historical
+Honda,Honda eNP2,2020,13860,43096,Excellent,Battambang,Orange,61.3,412,150,,GB-T/CCS2,Private,23-02-2020,2,315,khmer24.com,Historical
+Honda,Honda eNP2,2022,16000,44380,Excellent,Sihanoukville,White,61.3,412,150,,GB-T/CCS2,Authorized Dealer,06-06-2022,6,77,khmer24.com,Historical
+Honda,Honda eNP2,2024,21700,25495,Excellent,Phnom Penh,Black,61.3,412,150,,GB-T/CCS2,Authorized Dealer,16-01-2024,1,392,khmer24.com,Historical
+Honda,Honda eNP2,2025,25500,10370,New,Phnom Penh,Silver,61.3,412,150,,GB-T/CCS2,Authorized Dealer,18-03-2025,3,353,khmer24.com,Historical
+Honda,Honda eNP2,2025,21000,1567,New,Phnom Penh,Red,61.3,412,150,,GB-T/CCS2,Private,13-09-2025,9,446,khmer24.com,Historical
+Honda,Honda eNS2,2022,19000,32243,Good,Siem Reap,Silver,61.3,412,150,,GB-T/CCS2,Private,10-04-2022,4,78,khmer24.com,Historical
+Honda,Honda eNS2,2024,22000,3589,Like New,Phnom Penh,Black,61.3,412,150,,GB-T/CCS2,Dealer,12-01-2024,1,203,khmer24.com,Historical
+Honda,Honda eNS2,2025,25500,6838,New,Phnom Penh,"13h • Saensokh, Phnom Penh New • ​​​​Tax Paper​ **$24,700**](https://www.khmer24.com/en/model-2025-honda-ens2-half-full-white-color-adid-13393947)",61.3,412,150,,GB-T/CCS2,Private,16-11-2025,11,277,khmer24.com,Historical
+Honda,Honda eNS2,2025,25000,1355,New,Phnom Penh,White,61.3,412,150,,GB-T/CCS2,Authorized Dealer,04-12-2025,12,20,khmer24.com,Historical
+Honda,Honda eNS2,2025,23600,400,New,Phnom Penh,White,61.3,412,150,,GB-T/CCS2,Authorized Dealer,20-11-2025,11,253,khmer24.com,Historical
+Honda,Honda eNS2,2025,23400,3077,Like New,Battambang,Grey,61.3,412,150,,GB-T/CCS2,Authorized Dealer,23-05-2025,5,49,khmer24.com,Historical
+Honda,Honda eNS2,2025,23500,4135,Like New,Phnom Penh,Black,61.3,412,150,,GB-T/CCS2,Authorized Dealer,05-11-2025,11,191,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2020,32300,48486,Good,Kratie,Grey,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,04-10-2020,10,134,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2021,34400,67895,Fair,Kep,White,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,11-07-2021,7,331,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2021,35500,64623,Fair,Battambang,White,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,01-07-2021,7,239,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2021,31900,53227,Good,Kampot,Black,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,21-10-2021,10,338,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2022,38900,61216,Fair,Phnom Penh,White,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,11-06-2022,6,107,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2022,38700,51788,Excellent,Battambang,Blue,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,15-09-2022,9,216,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2023,36600,42186,Good,Battambang,Blue,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,18-10-2023,10,383,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2024,39500,19219,Like New,Phnom Penh,Black,58/72.6,354-488,125,7.4,GB-T/CCS2,Private,22-07-2024,7,149,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2024,39100,14697,Like New,Phnom Penh,Silver,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,28-09-2024,9,335,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2025,40600,10798,Excellent,Phnom Penh,Silver,58/72.6,354-488,125,7.4,GB-T/CCS2,Dealer,03-01-2025,1,399,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2025,46500,54,New,Siem Reap,Black,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,28-05-2025,5,228,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 5,2025,39700,1215,New,Phnom Penh,Grey,58/72.6,354-488,125,7.4,GB-T/CCS2,Authorized Dealer,27-09-2025,9,231,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2020,35900,99246,Fair,Kampot,Black,53/77.4,429-614,151,8.1,GB-T/CCS2,Authorized Dealer,04-05-2020,5,239,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2023,51100,25651,Like New,Sihanoukville,Silver,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,24-06-2023,6,294,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2023,42400,26241,Like New,Preah Vihear,Red,53/77.4,429-614,151,8.1,GB-T/CCS2,Private,01-09-2023,9,324,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2024,45300,27340,Excellent,Phnom Penh,Red,53/77.4,429-614,151,8.1,GB-T/CCS2,Private,22-04-2024,4,383,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2024,46900,14201,Excellent,Sihanoukville,Black,53/77.4,429-614,151,8.1,GB-T/CCS2,Authorized Dealer,18-08-2024,8,141,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2025,56100,6708,Like New,Phnom Penh,Black,53/77.4,429-614,151,8.1,GB-T/CCS2,Private,06-03-2025,3,244,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2025,56600,9624,Excellent,Phnom Penh,Red,53/77.4,429-614,151,8.1,GB-T/CCS2,Private,01-05-2025,5,256,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2025,50900,6097,Like New,Phnom Penh,Cosmos Black,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,08-06-2025,6,95,khmer24.com,Historical
+Hyundai,Hyundai Ioniq 6,2025,55900,13903,Excellent,Phnom Penh,Grey,53/77.4,429-614,151,8.1,GB-T/CCS2,Dealer,21-07-2025,7,107,khmer24.com,Historical
+Kia,Kia EV5,2020,24150,58597,Good,Phnom Penh,Grey,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,16-05-2020,5,181,khmer24.com,Historical
+Kia,Kia EV5,2022,27900,41583,Fair,Preah Vihear,Silver,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,04-06-2022,6,393,khmer24.com,Historical
+Kia,Kia EV5,2022,26200,39433,Excellent,Sihanoukville,Black,64.2/88,400-600,160,7.5,GB-T/CCS2,Dealer,02-02-2022,2,466,khmer24.com,Historical
+Kia,Kia EV5,2023,31800,24179,Like New,Siem Reap,Cosmos Black,64.2/88,400-600,160,7.5,GB-T/CCS2,Dealer,03-12-2023,12,450,khmer24.com,Historical
+Kia,Kia EV5,2023,30700,40966,Good,Phnom Penh,Blue,64.2/88,400-600,160,7.5,GB-T/CCS2,Authorized Dealer,10-04-2023,4,189,khmer24.com,Historical
+Kia,Kia EV5,2023,28900,26887,Like New,Phnom Penh,White,64.2/88,400-600,160,7.5,GB-T/CCS2,Authorized Dealer,25-04-2023,4,180,khmer24.com,Historical
+Kia,Kia EV5,2023,30600,24156,Like New,Phnom Penh,White,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,07-06-2023,6,307,khmer24.com,Historical
+Kia,Kia EV5,2023,28900,37522,Excellent,Battambang,Pearl White,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,21-04-2023,4,106,khmer24.com,Historical
+Kia,Kia EV5,2024,32200,22351,Excellent,Siem Reap,Blue,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,27-12-2024,12,195,khmer24.com,Historical
+Kia,Kia EV5,2024,31400,31864,Good,Phnom Penh,Black,64.2/88,400-600,160,7.5,GB-T/CCS2,Dealer,21-07-2024,7,175,khmer24.com,Historical
+Kia,Kia EV5,2025,36700,10659,Excellent,Phnom Penh,Silver,64.2/88,400-600,160,7.5,GB-T/CCS2,Private,01-05-2025,5,131,khmer24.com,Historical
+Kia,Kia EV5,2025,33800,11522,Excellent,Phnom Penh,White,64.2/88,400-600,160,7.5,GB-T/CCS2,Dealer,14-12-2025,12,370,khmer24.com,Historical
+Kia,Kia EV6,2021,38600,68982,Excellent,Phnom Penh,Black,77.4,484,168,7.1,GB-T/CCS2,Private,06-01-2021,1,445,khmer24.com,Historical
+Kia,Kia EV6,2021,33300,44956,Good,Phnom Penh,White,77.4,484,168,7.1,GB-T/CCS2,Dealer,17-05-2021,5,274,khmer24.com,Historical
+Kia,Kia EV6,2022,43700,30372,Excellent,Phnom Penh,Black,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,28-04-2022,4,293,khmer24.com,Historical
+Kia,Kia EV6,2023,47500,6826,Like New,Phnom Penh,Silver,77.4,484,168,7.1,GB-T/CCS2,Private,15-10-2023,10,462,khmer24.com,Historical
+Kia,Kia EV6,2023,40600,27843,Good,Phnom Penh,Orange,77.4,484,168,7.1,GB-T/CCS2,Authorized Dealer,05-05-2023,5,409,khmer24.com,Historical
+Kia,Kia EV6,2024,45000,18053,Good,Phnom Penh,White,77.4,484,168,7.1,GB-T/CCS2,Dealer,06-03-2024,3,490,khmer24.com,Historical
+Kia,Kia EV6,2024,51200,3316,Like New,Phnom Penh,White,77.4,484,168,7.1,GB-T/CCS2,Dealer,28-07-2024,7,385,khmer24.com,Historical
+Kia,Kia EV6,2025,46300,2578,New,Phnom Penh,Black,77.4,484,168,7.1,GB-T/CCS2,Dealer,21-02-2025,2,316,khmer24.com,Historical
+Kia,Kia EV6,2025,55600,7133,Like New,Kampong Cham,Black,77.4,484,168,7.1,GB-T/CCS2,Private,11-07-2025,7,31,khmer24.com,Historical
+Kia,Kia EV6,2025,52500,9333,Excellent,Battambang,Black,77.4,484,168,7.1,GB-T/CCS2,Private,25-01-2025,1,264,khmer24.com,Historical
+Kia,Kia EV6,2025,50100,6705,Excellent,Kampong Cham,Green,77.4,484,168,7.1,GB-T/CCS2,Dealer,24-07-2025,7,179,khmer24.com,Historical
+Kia,Kia EV9,2020,53900,51048,Excellent,Siem Reap,Silver,99.8,541,283,5.3,GB-T/CCS2,Dealer,08-09-2020,9,192,khmer24.com,Historical
+Kia,Kia EV9,2021,54200,52240,Fair,Battambang,Red,99.8,541,283,5.3,GB-T/CCS2,Authorized Dealer,03-09-2021,9,132,khmer24.com,Historical
+Kia,Kia EV9,2022,55300,57937,Good,Sihanoukville,White,99.8,541,283,5.3,GB-T/CCS2,Dealer,16-02-2022,2,172,khmer24.com,Historical
+Kia,Kia EV9,2022,57400,55167,Good,Koh Kong,Blue,99.8,541,283,5.3,GB-T/CCS2,Private,01-09-2022,9,363,khmer24.com,Historical
+Kia,Kia EV9,2023,67000,24632,Excellent,Phnom Penh,Orange,99.8,541,283,5.3,GB-T/CCS2,Authorized Dealer,09-04-2023,4,424,khmer24.com,Historical
+Kia,Kia EV9,2024,71200,22082,Good,Battambang,White,99.8,541,283,5.3,GB-T/CCS2,Dealer,27-09-2024,9,434,khmer24.com,Historical
+Kia,Kia EV9,2024,67100,27500,Excellent,Sihanoukville,Blue,99.8,541,283,5.3,GB-T/CCS2,Authorized Dealer,26-10-2024,10,450,khmer24.com,Historical
+Kia,Kia EV9,2025,78600,4964,Like New,Sihanoukville,Silver,99.8,541,283,5.3,GB-T/CCS2,Private,09-01-2025,1,309,khmer24.com,Historical
+Kia,Kia EV9,2025,79400,5463,Like New,Phnom Penh,Black,99.8,541,283,5.3,GB-T/CCS2,Private,14-07-2025,7,372,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2020,8400,70222,Good,Sihanoukville,Cosmos Black,41.3,403,80,,GB-T/CCS2,Private,12-10-2020,10,131,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2020,8400,75846,Excellent,Preah Vihear,Silver,41.3,403,80,,GB-T/CCS2,Dealer,13-11-2020,11,251,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2023,11200,18319,Excellent,Battambang,Silver,41.3,403,80,,GB-T/CCS2,Authorized Dealer,15-07-2023,7,371,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2023,10900,21758,Excellent,Phnom Penh,Silver,41.3,403,80,,GB-T/CCS2,Authorized Dealer,08-03-2023,3,112,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2024,12200,18405,Excellent,Phnom Penh,Silver,41.3,403,80,,GB-T/CCS2,Authorized Dealer,02-02-2024,2,143,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2024,10700,24271,Good,Kratie,Red,41.3,403,80,,GB-T/CCS2,Dealer,26-08-2024,8,269,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2025,14100,3669,Like New,Sihanoukville,White,41.3,403,80,,GB-T/CCS2,Private,22-03-2025,3,64,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2025,13400,3245,Like New,Phnom Penh,Silver,41.3,403,80,,GB-T/CCS2,Dealer,12-05-2025,5,333,khmer24.com,Historical
+Leapmotor,Leapmotor T03,2025,11400,10035,Excellent,Phnom Penh,Black,41.3,403,80,,GB-T/CCS2,Authorized Dealer,19-08-2025,8,159,khmer24.com,Historical
+MG,MG 4 EV,2020,18200,84733,Good,Phnom Penh,Pearl White,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,15-11-2020,11,455,khmer24.com,Historical
+MG,MG 4 EV,2021,18900,55425,Fair,Phnom Penh,Red,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,26-07-2021,7,30,khmer24.com,Historical
+MG,MG 4 EV,2023,23200,17140,Like New,Kampot,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,21-11-2023,11,266,khmer24.com,Historical
+MG,MG 4 EV,2023,20200,22567,Like New,Kratie,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,01-03-2023,3,189,khmer24.com,Historical
+MG,MG 4 EV,2023,24600,21229,Excellent,Phnom Penh,Grey,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,17-04-2023,4,331,khmer24.com,Historical
+MG,MG 4 EV,2024,25900,25990,Excellent,Phnom Penh,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,15-12-2024,12,167,khmer24.com,Historical
+MG,MG 4 EV,2024,22900,27651,Good,Siem Reap,Silver,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,18-10-2024,10,68,khmer24.com,Historical
+MG,MG 4 EV,2024,26500,21884,Excellent,Phnom Penh,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,17-11-2024,11,294,khmer24.com,Historical
+MG,MG 4 EV,2024,24400,25482,Good,Kampot,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,04-12-2024,12,366,khmer24.com,Historical
+MG,MG 4 EV,2024,23800,23125,Excellent,Kampot,White,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,25-03-2024,3,328,khmer24.com,Historical
+MG,MG 4 EV,2024,26500,24837,Excellent,Phnom Penh,Black,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,15-04-2024,4,388,khmer24.com,Historical
+MG,MG 4 EV,2025,25200,2734,New,Phnom Penh,Silver,51/64/77,350-520,125,7.7,GB-T/CCS2,Dealer,27-10-2025,10,279,khmer24.com,Historical
+MG,MG 4 EV,2025,25400,4046,New,Kep,Silver,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,14-12-2025,12,88,khmer24.com,Historical
+MG,MG 4 EV,2025,26300,1238,New,Sihanoukville,Grey,51/64/77,350-520,125,7.7,GB-T/CCS2,Private,13-11-2025,11,39,khmer24.com,Historical
+MG,MG 4 EV,2025,25300,11049,Excellent,Phnom Penh,Black,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,16-07-2025,7,58,khmer24.com,Historical
+MG,MG 4 EV,2025,26700,3908,Like New,Siem Reap,Silver,51/64/77,350-520,125,7.7,GB-T/CCS2,Authorized Dealer,27-08-2025,8,427,khmer24.com,Historical
+MG,MG 5,2020,15119,48001,Excellent,Phnom Penh,White,61.1,403,130,7.7,GB-T/CCS2,Dealer,13-07-2020,7,338,khmer24.com,Historical
+MG,MG 5,2022,18600,57159,Fair,Phnom Penh,Silver,61.1,403,130,7.7,GB-T/CCS2,Dealer,02-08-2022,8,298,khmer24.com,Historical
+MG,MG 5,2022,17100,45518,Fair,Phnom Penh,Blue,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,01-07-2022,7,452,khmer24.com,Historical
+MG,MG 5,2022,20200,49860,Fair,Battambang,Blue,61.1,403,130,7.7,GB-T/CCS2,Private,26-03-2022,3,30,khmer24.com,Historical
+MG,MG 5,2022,20200,52364,Fair,Phnom Penh,White,61.1,403,130,7.7,GB-T/CCS2,Dealer,20-05-2022,5,140,khmer24.com,Historical
+MG,MG 5,2023,20500,41384,Excellent,Phnom Penh,Black,61.1,403,130,7.7,GB-T/CCS2,Dealer,23-08-2023,8,42,khmer24.com,Historical
+MG,MG 5,2023,18600,27232,Excellent,Phnom Penh,Black,61.1,403,130,7.7,GB-T/CCS2,Private,23-12-2023,12,416,khmer24.com,Historical
+MG,MG 5,2023,20800,28924,Excellent,Siem Reap,Black,61.1,403,130,7.7,GB-T/CCS2,Private,07-03-2023,3,278,khmer24.com,Historical
+MG,MG 5,2024,22200,29170,Good,Battambang,White,61.1,403,130,7.7,GB-T/CCS2,Private,28-03-2024,3,414,khmer24.com,Historical
+MG,MG 5,2024,20300,23599,Excellent,Kampot,Silver,61.1,403,130,7.7,GB-T/CCS2,Dealer,20-10-2024,10,432,khmer24.com,Historical
+MG,MG 5,2024,22500,9877,Like New,Battambang,Blue,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,28-09-2024,9,304,khmer24.com,Historical
+MG,MG 5,2025,20700,3106,New,Battambang,Pearl White,61.1,403,130,7.7,GB-T/CCS2,Authorized Dealer,13-03-2025,3,133,khmer24.com,Historical
+MG,MG 5,2025,21600,521,New,Battambang,Black,61.1,403,130,7.7,GB-T/CCS2,Private,06-08-2025,8,490,khmer24.com,Historical
+MG,MG 5,2025,20500,16,New,Phnom Penh,Silver,61.1,403,130,7.7,GB-T/CCS2,Private,27-03-2025,3,287,khmer24.com,Historical
+MG,MG ZS EV,2020,19000,52921,Excellent,Siem Reap,Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,08-09-2020,9,246,khmer24.com,Historical
+MG,MG ZS EV,2021,24300,58487,Good,Phnom Penh,Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,24-04-2021,4,194,khmer24.com,Historical
+MG,MG ZS EV,2021,19100,71045,Fair,Sihanoukville,Blue,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,10-08-2021,8,252,khmer24.com,Historical
+MG,MG ZS EV,2022,23300,48452,Fair,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,23-10-2022,10,224,khmer24.com,Historical
+MG,MG ZS EV,2023,23500,42466,Good,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,17-03-2023,3,217,khmer24.com,Historical
+MG,MG ZS EV,2023,26000,41956,Excellent,Preah Vihear,Grey,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,02-04-2023,4,328,khmer24.com,Historical
+MG,MG ZS EV,2023,26100,13962,Like New,Siem Reap,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,06-12-2023,12,323,khmer24.com,Historical
+MG,MG ZS EV,2024,28100,3276,Like New,Phnom Penh,Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,23-06-2024,6,426,khmer24.com,Historical
+MG,MG ZS EV,2024,26900,24721,Excellent,Phnom Penh,Orange,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,26-09-2024,9,277,khmer24.com,Historical
+MG,MG ZS EV,2024,28200,16527,Good,Phnom Penh,Blue,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,15-10-2024,10,221,khmer24.com,Historical
+MG,MG ZS EV,2024,31000,27698,Good,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,02-02-2024,2,52,khmer24.com,Historical
+MG,MG ZS EV,2024,27700,16013,Like New,Sihanoukville,Blue,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,16-12-2024,12,299,khmer24.com,Historical
+MG,MG ZS EV,2024,31800,27540,Excellent,Kratie,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,24-05-2024,5,463,khmer24.com,Historical
+MG,MG ZS EV,2024,29600,31398,Good,Siem Reap,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,21-03-2024,3,77,khmer24.com,Historical
+MG,MG ZS EV,2024,27700,16634,Like New,Battambang,Blue,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Dealer,03-10-2024,10,484,khmer24.com,Historical
+MG,MG ZS EV,2024,31500,21410,Good,Phnom Penh,Silver,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,08-07-2024,7,206,khmer24.com,Historical
+MG,MG ZS EV,2024,31300,10796,Like New,Kampong Cham,Orange,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,04-08-2024,8,291,khmer24.com,Historical
+MG,MG ZS EV,2024,29500,26339,Excellent,Kampong Cham,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,10-04-2024,4,66,khmer24.com,Historical
+MG,MG ZS EV,2025,28300,12005,Excellent,Sihanoukville,Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,19-12-2025,12,211,khmer24.com,Historical
+MG,MG ZS EV,2025,29100,13013,Excellent,Siem Reap,Silver,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,09-08-2025,8,151,khmer24.com,Historical
+MG,MG ZS EV,2025,29200,9605,Like New,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,02-07-2025,7,34,khmer24.com,Historical
+MG,MG ZS EV,2025,29400,2201,New,Phnom Penh,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,16-01-2025,1,254,khmer24.com,Historical
+MG,MG ZS EV,2025,31400,3228,Like New,Sihanoukville,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Authorized Dealer,19-07-2025,7,265,khmer24.com,Historical
+MG,MG ZS EV,2025,29600,3556,New,Battambang,Black,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,09-04-2025,4,164,khmer24.com,Historical
+MG,MG ZS EV,2025,31400,2598,New,Battambang,White,50.3/72.6,320-440,115,8.6,GB-T/CCS2,Private,08-01-2025,1,477,khmer24.com,Historical
+Mercedes,Mercedes EQB,2020,43400,78459,Good,Preah Vihear,Grey,66.5,419,168,8.0,GB-T/CCS2,Dealer,01-01-2020,1,231,khmer24.com,Historical
+Mercedes,Mercedes EQB,2022,47700,41615,Fair,Siem Reap,Grey,66.5,419,168,8.0,GB-T/CCS2,Dealer,04-02-2022,2,321,khmer24.com,Historical
+Mercedes,Mercedes EQB,2023,60800,10451,Like New,Phnom Penh,Grey,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,05-05-2023,5,251,khmer24.com,Historical
+Mercedes,Mercedes EQB,2023,51200,16535,Like New,Sihanoukville,Silver,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,12-11-2023,11,365,khmer24.com,Historical
+Mercedes,Mercedes EQB,2023,62200,33736,Excellent,Phnom Penh,Blue,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,03-12-2023,12,366,khmer24.com,Historical
+Mercedes,Mercedes EQB,2023,57400,25002,Good,Phnom Penh,White,66.5,419,168,8.0,GB-T/CCS2,Private,22-02-2023,2,161,khmer24.com,Historical
+Mercedes,Mercedes EQB,2024,65900,26680,Excellent,Battambang,Black,66.5,419,168,8.0,GB-T/CCS2,Dealer,22-05-2024,5,243,khmer24.com,Historical
+Mercedes,Mercedes EQB,2024,58000,14321,Excellent,Siem Reap,Grey,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,02-07-2024,7,71,khmer24.com,Historical
+Mercedes,Mercedes EQB,2024,68300,24591,Good,Phnom Penh,White,66.5,419,168,8.0,GB-T/CCS2,Authorized Dealer,26-04-2024,4,200,khmer24.com,Historical
+Nissan,Nissan Leaf,2020,20500,94669,Fair,Phnom Penh,Silver,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,02-04-2020,4,196,khmer24.com,Historical
+Nissan,Nissan Leaf,2020,23800,51106,Good,Battambang,Orange,40/62,240-385,110,7.0,GB-T/CCS2,Private,14-02-2020,2,320,khmer24.com,Historical
+Nissan,Nissan Leaf,2022,27600,41321,Good,Siem Reap,White,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,04-07-2022,7,217,khmer24.com,Historical
+Nissan,Nissan Leaf,2022,25800,48749,Good,Siem Reap,White,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,08-03-2022,3,202,khmer24.com,Historical
+Nissan,Nissan Leaf,2023,23600,38663,Good,Phnom Penh,White,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,23-09-2023,9,371,khmer24.com,Historical
+Nissan,Nissan Leaf,2023,29700,37536,Good,Kampot,Black,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,02-11-2023,11,327,khmer24.com,Historical
+Nissan,Nissan Leaf,2024,24800,17034,Excellent,Kampong Cham,Black,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,01-05-2024,5,401,khmer24.com,Historical
+Nissan,Nissan Leaf,2024,28600,12445,Like New,Kampong Cham,Black,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,05-12-2024,12,220,khmer24.com,Historical
+Nissan,Nissan Leaf,2024,31300,17023,Excellent,Phnom Penh,Black,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,01-06-2024,6,255,khmer24.com,Historical
+Nissan,Nissan Leaf,2024,32200,19350,Excellent,Koh Kong,White,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,01-10-2024,10,257,khmer24.com,Historical
+Nissan,Nissan Leaf,2025,32800,1903,New,Sihanoukville,Green,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,20-02-2025,2,160,khmer24.com,Historical
+Nissan,Nissan Leaf,2025,26500,11661,Excellent,Kampot,Black,40/62,240-385,110,7.0,GB-T/CCS2,Dealer,01-04-2025,4,388,khmer24.com,Historical
+Nissan,Nissan Leaf,2025,26600,4666,Like New,Siem Reap,White,40/62,240-385,110,7.0,GB-T/CCS2,Private,24-03-2025,3,492,khmer24.com,Historical
+Nissan,Nissan Leaf,2025,29200,2806,New,Kep,Green,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,12-09-2025,9,269,khmer24.com,Historical
+Nissan,Nissan Leaf,2025,27900,12705,Excellent,Kampot,White,40/62,240-385,110,7.0,GB-T/CCS2,Authorized Dealer,03-09-2025,9,91,khmer24.com,Historical
+Tesla,Tesla Model 3,2018,25500,44275,Good,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,14-04-2018,4,216,khmer24.com,Historical
+Tesla,Tesla Model 3,2019,18900,58018,Good,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Private,04-12-2019,12,288,khmer24.com,Historical
+Tesla,Tesla Model 3,2019,21000,25209,Like New,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,16-02-2019,2,146,khmer24.com,Historical
+Tesla,Tesla Model 3,2020,31149,68444,Excellent,Phnom Penh,Red,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,26-08-2020,8,31,khmer24.com,Historical
+Tesla,Tesla Model 3,2020,36400,68366,Good,Phnom Penh,Green,60/82,430-576,208,6.1,GB-T/CCS2,Private,02-08-2020,8,400,khmer24.com,Historical
+Tesla,Tesla Model 3,2021,32000,66792,Good,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Private,02-08-2021,8,294,khmer24.com,Historical
+Tesla,Tesla Model 3,2021,18500,37100,New,Phnom Penh,Black,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,07-04-2021,4,106,khmer24.com,Historical
+Tesla,Tesla Model 3,2021,39100,37887,Excellent,Kampot,Black,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,08-08-2021,8,432,khmer24.com,Historical
+Tesla,Tesla Model 3,2021,21500,57646,New,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,17-03-2021,3,150,khmer24.com,Historical
+Tesla,Tesla Model 3,2022,42500,40194,Good,Koh Kong,Orange,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,12-01-2022,1,197,khmer24.com,Historical
+Tesla,Tesla Model 3,2022,38000,47968,Good,Koh Kong,White,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,26-12-2022,12,300,khmer24.com,Historical
+Tesla,Tesla Model 3,2022,43900,53711,Good,Siem Reap,Cosmos Black,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,17-10-2022,10,56,khmer24.com,Historical
+Tesla,Tesla Model 3,2022,23500,23408,Like New,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,13-07-2022,7,137,khmer24.com,Historical
+Tesla,Tesla Model 3,2023,44900,28563,Excellent,Preah Vihear,Blue,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,06-11-2023,11,242,khmer24.com,Historical
+Tesla,Tesla Model 3,2023,39600,36260,Excellent,Phnom Penh,Black,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,01-10-2023,10,116,khmer24.com,Historical
+Tesla,Tesla Model 3,2023,43100,37765,Excellent,Kep,Black,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,02-07-2023,7,244,khmer24.com,Historical
+Tesla,Tesla Model 3,2023,19500,13018,Excellent,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,23-05-2023,5,160,khmer24.com,Historical
+Tesla,Tesla Model 3,2023,45100,30310,Excellent,Phnom Penh,Red,60/82,430-576,208,6.1,GB-T/CCS2,Private,09-08-2023,8,38,khmer24.com,Historical
+Tesla,Tesla Model 3,2023,19800,11675,Good,Phnom Penh,Grey,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,03-10-2023,10,117,khmer24.com,Historical
+Tesla,Tesla Model 3,2023,41900,34667,Good,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,14-06-2023,6,57,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,49400,28374,Good,Kampot,Black,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,10-09-2024,9,474,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,42100,20398,Excellent,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,19-10-2024,10,417,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,39700,23574,Excellent,Kampong Cham,White,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,27-12-2024,12,308,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,44800,25032,Good,Battambang,Silver,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,10-02-2024,2,246,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,41400,4632,Like New,Sihanoukville,Silver,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,10-05-2024,5,454,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,46100,9282,Like New,Phnom Penh,Cosmos Black,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,04-10-2024,10,393,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,49000,13409,Like New,Kampong Cham,White,60/82,430-576,208,6.1,GB-T/CCS2,Private,05-06-2024,6,105,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,39900,30745,Good,Phnom Penh,Blue,60/82,430-576,208,6.1,GB-T/CCS2,Private,20-09-2024,9,251,khmer24.com,Historical
+Tesla,Tesla Model 3,2024,38000,14600,Like New,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Private,25-04-2024,4,281,khmer24.com,Historical
+Tesla,Tesla Model 3,2025,50700,1810,New,Battambang,Silver,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,12-03-2025,3,465,khmer24.com,Historical
+Tesla,Tesla Model 3,2025,54300,13257,Excellent,Phnom Penh,Cosmos Black,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,24-07-2025,7,452,khmer24.com,Historical
+Tesla,Tesla Model 3,2025,51900,9600,Like New,Phnom Penh,White,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,07-09-2025,9,63,khmer24.com,Historical
+Tesla,Tesla Model 3,2025,48800,11601,Excellent,Phnom Penh,Red,60/82,430-576,208,6.1,GB-T/CCS2,Dealer,09-07-2025,7,368,khmer24.com,Historical
+Tesla,Tesla Model 3,2025,43500,4253,New,Phnom Penh,Blue,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,24-12-2025,12,281,khmer24.com,Historical
+Tesla,Tesla Model 3,2025,42700,3413,New,Phnom Penh,Silver,60/82,430-576,208,6.1,GB-T/CCS2,Authorized Dealer,08-08-2025,8,147,khmer24.com,Historical
+Tesla,Tesla Model S,2021,56894,54795,Like New,Phnom Penh,White,100,600-652,493,3.1,GB-T/CCS2,Dealer,21-12-2021,12,435,khmer24.com,Historical
+Tesla,Tesla Model Y,2020,42900,69282,Good,Sihanoukville,Blue,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,27-09-2020,9,353,khmer24.com,Historical
+Tesla,Tesla Model Y,2021,47400,42744,Excellent,Phnom Penh,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,11-07-2021,7,174,khmer24.com,Historical
+Tesla,Tesla Model Y,2022,37600,1493,Good,Phnom Penh,Black,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,22-03-2022,3,18,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,48800,18887,Like New,Phnom Penh,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,20-03-2023,3,264,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,46700,24438,Like New,Kampong Cham,Black,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,28-09-2023,9,449,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,49900,18632,Like New,Sihanoukville,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,26-02-2023,2,329,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,53000,16383,Like New,Kampot,Red,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,10-08-2023,8,210,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,50300,12593,Like New,Battambang,Black,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,01-08-2023,8,40,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,47600,28004,Good,Phnom Penh,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,15-01-2023,1,97,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,50200,41071,Excellent,Phnom Penh,Green,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,04-07-2023,7,257,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,52400,35177,Good,Phnom Penh,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,26-08-2023,8,482,khmer24.com,Historical
+Tesla,Tesla Model Y,2023,25500,24196,Good,Phnom Penh,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,12-06-2023,6,344,khmer24.com,Historical
+Tesla,Tesla Model Y,2024,51000,30379,Good,Battambang,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,18-02-2024,2,111,khmer24.com,Historical
+Tesla,Tesla Model Y,2024,57200,30738,Good,Sihanoukville,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Dealer,20-03-2024,3,244,khmer24.com,Historical
+Tesla,Tesla Model Y,2025,58000,1703,New,Phnom Penh,Grey,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,21-02-2025,2,494,khmer24.com,Historical
+Tesla,Tesla Model Y,2025,64000,4474,Like New,Battambang,Silver,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,16-01-2025,1,467,khmer24.com,Historical
+Tesla,Tesla Model Y,2025,53100,7589,Like New,Preah Vihear,Green,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,15-01-2025,1,477,khmer24.com,Historical
+Tesla,Tesla Model Y,2025,58400,9625,Like New,Battambang,Grey,60/75/82,430-600,220,6.9,GB-T/CCS2,Authorized Dealer,11-08-2025,8,445,khmer24.com,Historical
+Tesla,Tesla Model Y,2025,63000,2414,New,Phnom Penh,Grey,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,20-07-2025,7,275,khmer24.com,Historical
+Tesla,Tesla Model Y,2025,56400,12844,Excellent,Siem Reap,White,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,09-01-2025,1,81,khmer24.com,Historical
+Tesla,Tesla Model Y,2025,60800,5012,Like New,Phnom Penh,Grey,60/75/82,430-600,220,6.9,GB-T/CCS2,Private,19-08-2025,8,70,khmer24.com,Historical
+Toyota,Toyota bZ3,2020,20860,75120,Excellent,Phnom Penh,Green,49.9,517,135,,GB-T/CCS2,Authorized Dealer,01-04-2020,4,290,khmer24.com,Historical
+Toyota,Toyota bZ3,2022,25500,68816,Fair,Koh Kong,Grey,49.9,517,135,,GB-T/CCS2,Dealer,27-07-2022,7,252,khmer24.com,Historical
+Toyota,Toyota bZ3,2024,28100,16295,Excellent,Phnom Penh,White,49.9,517,135,,GB-T/CCS2,Private,19-06-2024,6,291,khmer24.com,Historical
+Toyota,Toyota bZ3,2024,27200,22883,Good,Kampong Cham,Cosmos Black,49.9,517,135,,GB-T/CCS2,Authorized Dealer,19-04-2024,4,24,khmer24.com,Historical
+Toyota,Toyota bZ3,2024,26300,22359,Good,Phnom Penh,Blue,49.9,517,135,,GB-T/CCS2,Authorized Dealer,16-09-2024,9,423,khmer24.com,Historical
+Toyota,Toyota bZ3,2025,29800,6248,New,Phnom Penh,White,49.9,517,135,,GB-T/CCS2,Dealer,22-08-2025,8,408,khmer24.com,Historical
+Toyota,Toyota bZ3,2025,33800,6292,New,Phnom Penh,White,49.9,517,135,,GB-T/CCS2,Authorized Dealer,07-04-2025,4,49,khmer24.com,Historical
+Toyota,Toyota bZ4X,2021,35500,68231,Good,Phnom Penh,White,71.4,500,150,7.1,GB-T/CCS2,Private,26-10-2021,10,341,khmer24.com,Historical
+Toyota,Toyota bZ4X,2022,35700,59814,Good,Sihanoukville,Silver,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,17-07-2022,7,304,khmer24.com,Historical
+Toyota,Toyota bZ4X,2023,37800,19409,Excellent,Battambang,Silver,71.4,500,150,7.1,GB-T/CCS2,Dealer,04-05-2023,5,313,khmer24.com,Historical
+Toyota,Toyota bZ4X,2024,44700,5504,Like New,Phnom Penh,White,71.4,500,150,7.1,GB-T/CCS2,Dealer,03-06-2024,6,128,khmer24.com,Historical
+Toyota,Toyota bZ4X,2024,39800,17176,Excellent,Kampong Cham,Grey,71.4,500,150,7.1,GB-T/CCS2,Dealer,07-11-2024,11,358,khmer24.com,Historical
+Toyota,Toyota bZ4X,2024,39900,10453,Like New,Phnom Penh,Silver,71.4,500,150,7.1,GB-T/CCS2,Dealer,05-12-2024,12,73,khmer24.com,Historical
+Toyota,Toyota bZ4X,2024,39500,11092,Like New,Kampong Cham,Silver,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,16-08-2024,8,302,khmer24.com,Historical
+Toyota,Toyota bZ4X,2024,42100,25248,Excellent,Phnom Penh,Black,71.4,500,150,7.1,GB-T/CCS2,Dealer,01-09-2024,9,339,khmer24.com,Historical
+Toyota,Toyota bZ4X,2025,49300,4817,New,Phnom Penh,Black,71.4,500,150,7.1,GB-T/CCS2,Dealer,09-06-2025,6,92,khmer24.com,Historical
+Toyota,Toyota bZ4X,2025,42300,3114,New,Kampong Cham,Red,71.4,500,150,7.1,GB-T/CCS2,Dealer,25-02-2025,2,180,khmer24.com,Historical
+Toyota,Toyota bZ4X,2025,43200,9500,Excellent,Phnom Penh,Cosmos Black,71.4,500,150,7.1,GB-T/CCS2,Authorized Dealer,28-03-2025,3,269,khmer24.com,Historical
+Toyota,Toyota bZ5,2022,28700,37157,Excellent,Phnom Penh,Blue,71.2,630,180,6.8,GB-T/CCS2,Private,14-08-2022,8,466,khmer24.com,Historical
+Toyota,Toyota bZ5,2023,31100,29378,Like New,Preah Vihear,Grey,71.2,630,180,6.8,GB-T/CCS2,Authorized Dealer,24-04-2023,4,388,khmer24.com,Historical
+Toyota,Toyota bZ5,2024,33300,17705,Like New,Phnom Penh,Silver,71.2,630,180,6.8,GB-T/CCS2,Private,12-12-2024,12,231,khmer24.com,Historical
+Toyota,Toyota bZ5,2024,33500,19651,Excellent,Phnom Penh,White,71.2,630,180,6.8,GB-T/CCS2,Private,02-08-2024,8,443,khmer24.com,Historical
+Toyota,Toyota bZ5,2025,35800,3028,New,Phnom Penh,Grey,71.2,630,180,6.8,GB-T/CCS2,Authorized Dealer,20-01-2025,1,114,khmer24.com,Historical
+VinFast,VinFast VF 6,2020,17220,56647,Good,Battambang,Black,59.6,399,110,,GB-T/CCS2,Dealer,24-11-2020,11,492,khmer24.com,Historical
+VinFast,VinFast VF 6,2022,20900,40367,Fair,Siem Reap,Silver,59.6,399,110,,GB-T/CCS2,Private,21-08-2022,8,38,khmer24.com,Historical
+VinFast,VinFast VF 6,2023,22700,29379,Good,Phnom Penh,Black,59.6,399,110,,GB-T/CCS2,Dealer,07-11-2023,11,443,khmer24.com,Historical
+VinFast,VinFast VF 6,2024,23100,12673,Like New,Battambang,Red,59.6,399,110,,GB-T/CCS2,Dealer,16-02-2024,2,36,khmer24.com,Historical
+VinFast,VinFast VF 6,2024,22900,20145,Good,Koh Kong,Silver,59.6,399,110,,GB-T/CCS2,Private,15-04-2024,4,259,khmer24.com,Historical
+VinFast,VinFast VF 6,2024,23500,21488,Excellent,Phnom Penh,Grey,59.6,399,110,,GB-T/CCS2,Authorized Dealer,21-06-2024,6,252,khmer24.com,Historical
+VinFast,VinFast VF 6,2025,26500,7408,Excellent,Phnom Penh,Silver,59.6,399,110,,GB-T/CCS2,Private,12-06-2025,6,425,khmer24.com,Historical
+VinFast,VinFast VF 6,2025,23800,4035,New,Phnom Penh,Silver,59.6,399,110,,GB-T/CCS2,Authorized Dealer,11-12-2025,12,333,khmer24.com,Historical
+VinFast,VinFast VF 6,2025,26600,7551,Like New,Sihanoukville,Grey,59.6,399,110,,GB-T/CCS2,Dealer,25-11-2025,11,386,khmer24.com,Historical
+VinFast,VinFast VF 6,2025,26900,13922,Excellent,Phnom Penh,Grey,59.6,399,110,,GB-T/CCS2,Private,08-12-2025,12,442,khmer24.com,Historical
+VinFast,VinFast VF 6,2025,23700,4360,Like New,Phnom Penh,Black,59.6,399,110,,GB-T/CCS2,Private,04-06-2025,6,153,khmer24.com,Historical
+VinFast,VinFast VF 8,2022,32000,33828,Excellent,Kampong Cham,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,02-06-2022,6,24,khmer24.com,Historical
+VinFast,VinFast VF 8,2024,38200,20512,Excellent,Phnom Penh,Silver,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,01-08-2024,8,206,khmer24.com,Historical
+VinFast,VinFast VF 8,2024,38200,5814,Like New,Kampot,Red,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,13-05-2024,5,338,khmer24.com,Historical
+VinFast,VinFast VF 8,2024,40000,12499,Like New,Sihanoukville,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Dealer,06-06-2024,6,316,khmer24.com,Historical
+VinFast,VinFast VF 8,2024,36500,5323,Like New,Siem Reap,Black,82/87.5,420-500,150,5.5,GB-T/CCS2,Dealer,11-11-2024,11,330,khmer24.com,Historical
+VinFast,VinFast VF 8,2025,39300,2452,New,Sihanoukville,Black,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,20-04-2025,4,261,khmer24.com,Historical
+VinFast,VinFast VF 8,2025,39900,6322,Like New,Kampot,Grey,82/87.5,420-500,150,5.5,GB-T/CCS2,Authorized Dealer,23-04-2025,4,475,khmer24.com,Historical
+VinFast,VinFast VF 8,2025,42300,9542,Like New,Phnom Penh,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Private,23-07-2025,7,154,khmer24.com,Historical
+VinFast,VinFast VF 8,2025,43500,8433,Like New,Phnom Penh,White,82/87.5,420-500,150,5.5,GB-T/CCS2,Dealer,17-10-2025,10,347,khmer24.com,Historical
+VinFast,VinFast VF 9,2020,46600,52994,Good,Battambang,Red,123,438,300,6.5,GB-T/CCS2,Authorized Dealer,25-05-2020,5,229,khmer24.com,Historical
+VinFast,VinFast VF 9,2022,50000,60949,Fair,Phnom Penh,Blue,123,438,300,6.5,GB-T/CCS2,Dealer,26-01-2022,1,398,khmer24.com,Historical
+VinFast,VinFast VF 9,2022,52900,71923,Fair,Kampong Cham,Green,123,438,300,6.5,GB-T/CCS2,Dealer,17-09-2022,9,437,khmer24.com,Historical
+VinFast,VinFast VF 9,2024,57900,18875,Like New,Phnom Penh,Black,123,438,300,6.5,GB-T/CCS2,Dealer,03-12-2024,12,145,khmer24.com,Historical
+VinFast,VinFast VF 9,2024,60100,13351,Like New,Phnom Penh,Black,123,438,300,6.5,GB-T/CCS2,Private,05-04-2024,4,96,khmer24.com,Historical
+VinFast,VinFast VF 9,2025,63200,2908,New,Phnom Penh,Green,123,438,300,6.5,GB-T/CCS2,Dealer,01-02-2025,2,89,khmer24.com,Historical
+VinFast,VinFast VF 9,2025,69600,8588,Excellent,Kampong Cham,White,123,438,300,6.5,GB-T/CCS2,Private,12-04-2025,4,26,khmer24.com,Historical
+XPeng,XPeng G6,2020,31009,54864,Good,Siem Reap,Black,66/87.5,435-570,190,6.2,GB-T/CCS2,Private,20-03-2020,3,327,khmer24.com,Historical
+XPeng,XPeng G6,2022,37100,44686,Good,Kampot,Cosmos Black,66/87.5,435-570,190,6.2,GB-T/CCS2,Dealer,13-04-2022,4,225,khmer24.com,Historical
+XPeng,XPeng G6,2024,39600,21073,Good,Kratie,White,66/87.5,435-570,190,6.2,GB-T/CCS2,Dealer,03-08-2024,8,404,khmer24.com,Historical
+XPeng,XPeng G6,2024,43600,10059,Like New,Kratie,White,66/87.5,435-570,190,6.2,GB-T/CCS2,Private,26-10-2024,10,312,khmer24.com,Historical
+XPeng,XPeng G6,2024,40300,16637,Good,Phnom Penh,White,66/87.5,435-570,190,6.2,GB-T/CCS2,Dealer,27-03-2024,3,219,khmer24.com,Historical
+XPeng,XPeng G6,2025,44400,3794,Like New,Phnom Penh,Grey,66/87.5,435-570,190,6.2,GB-T/CCS2,Authorized Dealer,12-07-2025,7,338,khmer24.com,Historical
+XPeng,XPeng G6,2025,46800,3045,Like New,Preah Vihear,Cosmos Black,66/87.5,435-570,190,6.2,GB-T/CCS2,Authorized Dealer,19-02-2025,2,406,khmer24.com,Historical
+XPeng,XPeng G6,2025,45600,9284,Like New,Battambang,Green,66/87.5,435-570,190,6.2,GB-T/CCS2,Authorized Dealer,25-03-2025,3,199,khmer24.com,Historical
+XPeng,XPeng G6,2025,45700,2025,New,Sihanoukville,Black,66/87.5,435-570,190,6.2,GB-T/CCS2,Authorized Dealer,23-03-2025,3,456,khmer24.com,Historical
+XPeng,XPeng P7,2021,29200,57623,Good,Phnom Penh,Black,86.2,670,203,6.2,GB-T/CCS2,Authorized Dealer,27-05-2021,5,328,khmer24.com,Historical
+XPeng,XPeng P7,2022,35700,38584,Excellent,Sihanoukville,Pearl White,86.2,670,203,6.2,GB-T/CCS2,Dealer,17-07-2022,7,487,khmer24.com,Historical
+XPeng,XPeng P7,2022,32900,42877,Good,Phnom Penh,Black,86.2,670,203,6.2,GB-T/CCS2,Authorized Dealer,17-04-2022,4,342,khmer24.com,Historical
+XPeng,XPeng P7,2022,33900,51274,Good,Phnom Penh,White,86.2,670,203,6.2,GB-T/CCS2,Authorized Dealer,18-10-2022,10,108,khmer24.com,Historical
+XPeng,XPeng P7,2024,46300,17578,Like New,Kampong Cham,Silver,86.2,670,203,6.2,GB-T/CCS2,Dealer,16-02-2024,2,72,khmer24.com,Historical
+XPeng,XPeng P7,2025,45000,5299,New,Phnom Penh,Yellow,86.2,670,203,6.2,GB-T/CCS2,Dealer,07-07-2025,7,434,khmer24.com,Historical
+XPeng,XPeng P7,2025,43000,11748,New,Phnom Penh,Silver,86.2,670,203,6.2,GB-T/CCS2,Private,26-11-2025,11,352,khmer24.com,Historical
+XPeng,XPeng P7,2025,49900,2521,New,Phnom Penh,Silver,86.2,670,203,6.2,GB-T/CCS2,Private,10-04-2025,4,119,khmer24.com,Historical
+XPeng,XPeng P7,2025,41500,6978,New,Phnom Penh,Silver,86.2,670,203,6.2,GB-T/CCS2,Private,25-11-2025,11,196,khmer24.com,Historical
+XPeng,XPeng P7,2025,43500,11616,Excellent,Battambang,Silver,86.2,670,203,6.2,GB-T/CCS2,Dealer,12-01-2025,1,39,khmer24.com,Historical
+XPeng,XPeng P7,2025,53000,3134,New,Phnom Penh,Silver,86.2,670,203,6.2,GB-T/CCS2,Private,13-09-2025,9,335,khmer24.com,Historical
+XPeng,XPeng P7,2025,39000,8967,Excellent,Phnom Penh,Green,86.2,670,203,6.2,GB-T/CCS2,Dealer,10-08-2025,8,174,khmer24.com,Historical
+XPeng,XPeng X9,2021,46100,40034,Excellent,Phnom Penh,Black,101.5,610,235,6.2,GB-T/CCS2,Authorized Dealer,14-06-2021,6,24,khmer24.com,Historical
+XPeng,XPeng X9,2023,62000,6047,Like New,Battambang,Blue,101.5,610,235,6.2,GB-T/CCS2,Authorized Dealer,27-05-2023,5,210,khmer24.com,Historical
+XPeng,XPeng X9,2023,58800,12310,Excellent,Phnom Penh,Gold,101.5,610,235,6.2,GB-T/CCS2,Private,02-03-2023,3,130,khmer24.com,Historical
+XPeng,XPeng X9,2024,61000,8578,New,Phnom Penh,White,101.5,610,235,6.2,GB-T/CCS2,Dealer,17-11-2024,11,335,khmer24.com,Historical
+XPeng,XPeng X9,2024,69200,16899,Excellent,Sihanoukville,Grey,101.5,610,235,6.2,GB-T/CCS2,Authorized Dealer,12-11-2024,11,194,khmer24.com,Historical
+XPeng,XPeng X9,2025,70300,2070,New,Kep,White,101.5,610,235,6.2,GB-T/CCS2,Dealer,07-01-2025,1,132,khmer24.com,Historical
+XPeng,XPeng X9,2025,57400,10604,Excellent,Sihanoukville,Red,101.5,610,235,6.2,GB-T/CCS2,Private,09-04-2025,4,263,khmer24.com,Historical
+Xiaomi,Xiaomi SU7,2021,54400,48545,Excellent,Battambang,Pearl White,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Private,14-02-2021,2,387,khmer24.com,Historical
+Xiaomi,Xiaomi SU7,2023,61300,25300,Like New,Phnom Penh,Black,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Authorized Dealer,27-06-2023,6,241,khmer24.com,Historical
+Xiaomi,Xiaomi SU7,2023,61600,20385,Like New,Phnom Penh,White,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Private,17-04-2023,4,488,khmer24.com,Historical
+Xiaomi,Xiaomi SU7,2024,66100,15255,Excellent,Siem Reap,Green,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Authorized Dealer,18-06-2024,6,264,khmer24.com,Historical
+Xiaomi,Xiaomi SU7,2024,68900,14581,Like New,Phnom Penh,White,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Dealer,05-08-2024,8,188,khmer24.com,Historical
+Xiaomi,Xiaomi SU7,2025,72100,9342,Like New,Kampong Cham,Silver,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Private,28-12-2025,12,377,khmer24.com,Historical
+Xiaomi,Xiaomi SU7,2025,72400,5446,Like New,Sihanoukville,Grey,73.6/94.3,495-830,220,5.3,GB-T/CCS2,Authorized Dealer,23-10-2025,10,118,khmer24.com,Historical
+Zeekr,Zeekr 001,2021,52500,50188,Excellent,Siem Reap,Black,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,01-05-2021,5,67,khmer24.com,Historical
+Zeekr,Zeekr 001,2022,61700,30004,Excellent,Phnom Penh,White,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,22-05-2022,5,108,khmer24.com,Historical
+Zeekr,Zeekr 001,2022,61700,36327,Excellent,Preah Vihear,White,86/100,560-620,200,3.3,GB-T/CCS2,Dealer,16-05-2022,5,467,khmer24.com,Historical
+Zeekr,Zeekr 001,2023,67100,41290,Excellent,Sihanoukville,Blue,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,22-11-2023,11,271,khmer24.com,Historical
+Zeekr,Zeekr 001,2024,71200,21581,Excellent,Phnom Penh,White,86/100,560-620,200,3.3,GB-T/CCS2,Dealer,15-05-2024,5,270,khmer24.com,Historical
+Zeekr,Zeekr 001,2024,63400,26970,Excellent,Phnom Penh,Grey,86/100,560-620,200,3.3,GB-T/CCS2,Private,03-04-2024,4,493,khmer24.com,Historical
+Zeekr,Zeekr 001,2025,72700,7661,Like New,Kampong Cham,White,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,09-05-2025,5,492,khmer24.com,Historical
+Zeekr,Zeekr 001,2025,71500,6883,Like New,Battambang,Red,86/100,560-620,200,3.3,GB-T/CCS2,Authorized Dealer,21-08-2025,8,484,khmer24.com,Historical
+Zeekr,Zeekr 001,2025,75200,1348,New,Kampong Cham,Silver,86/100,560-620,200,3.3,GB-T/CCS2,Private,16-08-2025,8,59,khmer24.com,Historical
+Zeekr,Zeekr 007,2020,42140,55802,Excellent,Battambang,Grey,75/100,530-688,310,3.5,GB-T/CCS2,Authorized Dealer,02-08-2020,8,317,khmer24.com,Historical
+Zeekr,Zeekr 007,2022,48400,44971,Good,Phnom Penh,Grey,75/100,530-688,310,3.5,GB-T/CCS2,Private,22-08-2022,8,343,khmer24.com,Historical
+Zeekr,Zeekr 007,2023,51600,35147,Good,Phnom Penh,Red,75/100,530-688,310,3.5,GB-T/CCS2,Dealer,13-06-2023,6,159,khmer24.com,Historical
+Zeekr,Zeekr 007,2024,56200,22451,Good,Phnom Penh,Pearl White,75/100,530-688,310,3.5,GB-T/CCS2,Dealer,19-01-2024,1,383,khmer24.com,Historical
+Zeekr,Zeekr 007,2024,55500,8156,Like New,Siem Reap,Grey,75/100,530-688,310,3.5,GB-T/CCS2,Private,27-06-2024,6,140,khmer24.com,Historical
+Zeekr,Zeekr X,2021,36800,53745,Good,Siem Reap,Grey,66,440,200,5.6,GB-T/CCS2,Dealer,17-06-2021,6,388,khmer24.com,Historical
+Zeekr,Zeekr X,2022,41400,36726,Excellent,Battambang,Silver,66,440,200,5.6,GB-T/CCS2,Private,18-05-2022,5,291,khmer24.com,Historical
+Zeekr,Zeekr X,2023,46600,3782,Like New,Phnom Penh,White,66,440,200,5.6,GB-T/CCS2,Private,04-04-2023,4,82,khmer24.com,Historical
+Zeekr,Zeekr X,2024,48100,17472,Good,Sihanoukville,Grey,66,440,200,5.6,GB-T/CCS2,Dealer,06-05-2024,5,70,khmer24.com,Historical
+Zeekr,Zeekr X,2025,52400,4671,New,Phnom Penh,Red,66,440,200,5.6,GB-T/CCS2,Private,15-08-2025,8,37,khmer24.com,Historical
+Zeekr,Zeekr X,2025,50000,9174,Excellent,Kampong Cham,Green,66,440,200,5.6,GB-T/CCS2,Authorized Dealer,13-12-2025,12,473,khmer24.com,Historical
+Zeekr,Zeekr X,2025,52400,963,New,Phnom Penh,Cosmos Black,66,440,200,5.6,GB-T/CCS2,Private,11-06-2025,6,464,khmer24.com,Historical
